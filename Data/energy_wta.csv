@@ -1,0 +1,1044 @@
+id,wta_car,wta_elec,wta_green,province,weekday,ifsunny,location,aqi,income_level,living_area,female,marriage,education,youth,older_adults,partymember,age,heard_about_global_warming,know_about_low_carbon,know_about_carbon_neutrality,know_about_carbon_policy,carusetime,conditioner1month,mainuseelec,conditionernumber,publictrans,energy_consume2020,carown,conditioner1time,cityanswer,MADT ,impgreenele
+1200,5,7,5,Zhejiang,Thursday,0,rural,73,5,130,0,married,junior high,1,1,0,60,yes and agree,heard and know,never,never,6,3,1,1,0,4400,1,4,hangzhou,3,0
+1021,6,4,5,Beijing,Tuesday,1,city,73,4,40,1,married,bachelor,0,0,1,39,yes and agree,heard and know,heard but do not know,never,0,4,1,1,4,3600,0,3,beijing,5,1
+2648,7,7,2,Guangdong,Wednesday,1,city,49,4,46,1,unmarried,bachelor,0,1,0,48,yes and agree,heard but do not know,never,never,0,5,1,1,14,1718,0,4,guangzhou,3,1
+1635,7,7,7,Hebei,Sunday,1,county seat,76,1,90,1,married,junior high,1,1,0,60,no,never,never,never,0,1,1,1,0,300,0,2,shijiazhuang,0,0
+1949,1,1,1,Beijing,Wednesday,0,county seat,29,4,60,1,married,senior high,0,1,0,61,no,never,heard but do not know,heard but do not know,0,3,1,1,0,3600,0,2,beijing,2,0
+2690,7,7,7,Hebei,Thursday,1,county seat,43,3,128,1,married,associate,0,0,0,26,yes and agree,heard but do not know,heard but do not know,never,0,2,1,1,10,3000,0,1,shijiazhuang,4,1
+1634,6,4,4,Guangdong,Sunday,0,city,51,4,100,0,married,bachelor,1,1,0,38,yes and agree,never,never,never,5,4,1,1,0,1500,1,4,zhongshan,3,1
+1114,4,4,4,Hebei,Wednesday,1,rural,62,3,250,0,married,primary,0,1,0,69,yes and agree,heard and know,heard but do not know,never,0,3,1,1,6,1440,0,2,shijiazhuang,3,1
+1148,4,5,5,Guangdong,Monday,0,city,55,6,100,0,married,associate,1,0,0,50,yes and agree,heard and know,heard but do not know,heard but do not know,3,6,1,1,0,2750,1,5,zhongshan,3,1
+808,7,5,7,Hebei,Sunday,1,city,60,4,57,1,divorced,junior high,0,1,0,61,yes and agree,heard and know,never,never,0,2,1,1,0,2182,0,2,shijiazhuang,3,1
+1096,1,1,1,Beijing,Wednesday,1,rural,75,3,150,1,married,senior high,0,0,0,52,no,never,never,never,0,3,1,1,2,1183,0,2,beijing,3,0
+2166,7,7,5,Zhejiang,Thursday,1,county seat,95,5,80,1,married,senior high,0,0,0,66,yes and agree,heard and know,heard but do not know,never,2,3,1,1,10,4719,1,2,hangzhou,3,0
+2600,7,7,7,Guangdong,Wednesday,1,city,51,3,35,0,unmarried,bachelor,0,0,0,25,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,6,4534,0,0,guangzhou,3,1
+910,7,1,1,Hebei,Sunday,1,city,22,4,95,1,married,primary,1,1,0,53,no,never,never,never,0,0,1,0,2,2640,0,0,chengde,2,0
+2199,1,1,1,Beijing,Thursday,1,rural,65,3,130,0,unmarried,junior high,1,0,0,14,no,never,never,never,0,3,1,1,0,1182,0,3,beijing,2,0
+159,4,4,5,Hebei,Saturday,1,county seat,52,7,115,0,married,senior high,1,0,0,36,yes and agree,never,never,never,4,0,1,0,0,3188,1,0,chengde,2,1
+1351,3,2,1,Guangdong,Friday,0,county seat,48,4,65,0,married,associate,1,0,0,30,yes and agree,heard but do not know,heard but do not know,never,5,4,1,1,0,3927,1,4,zhongshan,2,0
+1196,7,7,7,Zhejiang,Monday,0,city,92,6,95,0,married,bachelor,1,0,0,28,yes and agree,heard and know,heard and know,heard but do not know,0,0,1,0,10,3792,0,0,hangzhou,3,1
+313,4,4,5,Guangdong,Thursday,1,city,80,5,88,0,married,bachelor,0,0,0,24,yes and agree,heard and know,heard and know,heard and know,0,0,1,0,6,4400,0,0,guangzhou,3,1
+800,7,7,5,Beijing,Sunday,1,county seat,40,4,78,1,married,senior high,1,1,0,43,yes and agree,never,never,heard but do not know,0,4,1,1,4,1307,0,4,beijing,2,0
+2338,7,7,5,Guangdong,Saturday,0,county seat,59,3,50,1,married,junior high,1,0,0,41,no,never,never,never,8,4,1,1,0,3750,1,5,zhongshan,2,0
+3352,1,1,1,Guangdong,Friday,1,county seat,58,2,99,1,unmarried,associate,0,1,0,30,yes and agree,heard but do not know,never,heard but do not know,5,6,1,1,0,4859,1,5,zhongshan,3,1
+1015,1,1,1,Beijing,Tuesday,1,rural,42,5,180,1,married,senior high,0,0,0,55,no,never,never,never,0,4,1,1,0,2530,0,2,beijing,2,0
+1111,7,7,7,Hebei,Wednesday,1,rural,100,3,160,1,married,primary,0,1,0,68,no,never,never,never,0,2,1,1,0,2182,0,7,shijiazhuang,0,0
+1384,3,4,4,Guangdong,Friday,0,city,34,5,150,1,married,senior high,1,1,0,34,no,heard but do not know,heard but do not know,never,5,4,1,1,0,4267,1,4,zhongshan,2,0
+826,4,7,4,Hebei,Sunday,1,city,27,5,76,1,married,associate,1,0,0,33,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,2,1,1,5,1625,0,2,chengde,3,0
+1008,2,2,3,Beijing,Tuesday,1,city,63,3,36,0,divorced,junior high,0,0,0,64,no,never,heard but do not know,never,0,0,1,0,8,1200,0,0,beijing,4,0
+2411,4,3,2,Guangdong,Sunday,0,city,43,2,87,1,married,senior high,1,1,0,42,yes and agree,heard but do not know,heard but do not know,heard but do not know,5,0,1,0,0,4800,1,0,zhongshan,3,1
+612,4,4,4,Hebei,Friday,1,rural,103,4,95,1,married,junior high,0,1,0,59,yes and agree,heard but do not know,never,never,0,0,1,0,5,2222,0,0,chengde,3,1
+2416,5,5,5,Beijing,Sunday,1,city,22,4,73,1,married,associate,1,0,0,39,yes and agree,heard but do not know,heard but do not know,never,10,0,1,0,2,2162,1,0,beijing,5,1
+616,4,7,2,Guangdong,Friday,1,city,49,3,45,1,married,bachelor,1,1,0,26,yes but disagree,familiar,heard but do not know,heard but do not know,0,0,1,0,3,1100,0,0,guangzhou,2,0
+1115,3,3,2,Beijing,Wednesday,1,city,72,4,42,0,widowed,senior high,0,1,0,54,no,heard and know,never,never,0,0,1,0,16,3320,0,0,beijing,5,1
+2086,7,7,7,Guangdong,Thursday,1,city,52,3,75,1,married,bachelor,0,0,0,33,yes and agree,heard and know,heard but do not know,heard but do not know,0,5,1,1,2,844,0,6,guangzhou,4,1
+1884,6,6,6,Hebei,Tuesday,1,county seat,77,4,100,0,married,senior high,1,0,0,24,yes and agree,heard but do not know,never,never,4,3,1,1,0,4400,1,2,shijiazhuang,2,1
+1198,6,5,5,Guangdong,Thursday,0,city,67,2,58,1,married,senior high,0,0,0,35,yes and agree,heard but do not know,never,never,5,0,1,0,0,1950,1,0,zhongshan,3,1
+1644,5,7,5,Guangdong,Sunday,1,county seat,58,5,85,0,married,associate,1,0,0,33,yes and agree,heard but do not know,heard but do not know,never,5,4,1,1,0,2875,1,5,zhongshan,2,0
+983,7,4,2,Hebei,Monday,1,county seat,64,5,72,1,married,associate,1,0,0,49,yes and agree,heard but do not know,never,never,0,0,1,0,0,2160,0,0,chengde,2,1
+2641,5,3,5,Guangdong,Wednesday,1,city,59,3,130,1,unmarried,associate,0,1,0,23,yes but disagree,heard and know,heard and know,heard and know,0,7,0,1,1,3165,0,4,zhongshan,3,1
+1122,5,5,4,Beijing,Wednesday,1,county seat,65,4,70,1,married,associate,0,0,0,36,yes but disagree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,2,2200,0,0,beijing,2,0
+1925,4,2,1,Hebei,Tuesday,1,city,63,2,70,1,married,associate,0,0,0,35,yes but disagree,heard and know,never,never,0,0,1,0,10,2000,0,0,chengde,1,0
+3214,1,1,1,Guangdong,Thursday,1,rural,65,4,81,1,married,bachelor,1,0,0,36,yes and agree,heard and know,never,never,9,5,1,1,16,3529,1,5,guangzhou,6,1
+2053,5,5,5,Zhejiang,Wednesday,1,city,170,5,90,0,married,bachelor,1,0,0,36,yes and agree,heard but do not know,heard but do not know,heard and know,3,2,1,1,3,1909,1,2,hangzhou,4,1
+152,4,4,4,Hebei,Saturday,1,county seat,72,6,115,0,married,junior high,0,0,0,42,no,never,never,never,13,0,1,0,2,2482,1,0,chengde,1,1
+3198,5,5,4,Guangdong,Thursday,1,city,67,4,60,0,unmarried,bachelor,0,1,0,37,yes and agree,heard and know,heard but do not know,heard but do not know,0,5,1,1,14,2537,0,3,guangzhou,3,1
+1613,1,1,1,Hebei,Sunday,1,city,77,3,44,1,married,associate,0,1,0,34,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,10,1625,0,1,chengde,1,0
+2202,5,4,4,Guangdong,Thursday,0,city,69,6,110,0,married,associate,1,0,0,40,yes and agree,heard but do not know,never,never,1,5,1,1,0,3328,1,4,zhongshan,4,1
+1013,7,5,4,Beijing,Tuesday,1,city,92,3,45,0,divorced,primary,0,0,0,46,yes and agree,never,never,never,0,4,1,1,8,2045,0,3,beijing,3,1
+1164,7,4,4,Beijing,Monday,1,city,67,5,69,0,married,senior high,0,0,0,53,yes and agree,heard and know,heard and know,heard and know,6,2,1,1,8,3889,1,3,beijing,5,1
+1010,6,6,6,Hebei,Tuesday,1,county seat,80,2,100,1,married,senior high,0,0,0,61,no,never,never,never,0,3,1,1,0,3180,0,3,shijiazhuang,2,0
+916,7,3,1,Beijing,Monday,1,city,48,3,40,1,widowed,senior high,0,1,0,63,yes but disagree,never,never,never,0,0,1,0,2,2600,0,0,beijing,2,1
+160,7,7,3,Hebei,Saturday,1,county seat,85,3,140,0,married,associate,1,0,0,34,yes but disagree,heard but do not know,never,never,7,0,1,0,2,2708,1,0,chengde,3,1
+801,7,7,7,Zhejiang,Sunday,0,city,52,6,80,1,married,bachelor,1,0,0,35,yes and agree,heard and know,heard but do not know,heard but do not know,3,3,1,1,3,3500,1,4,hangzhou,5,1
+1241,4,2,1,Beijing,Thursday,1,city,19,3,54,1,married,associate,0,0,0,50,yes and agree,heard but do not know,never,never,0,4,1,1,6,1214,0,2,beijing,3,0
+692,2,3,2,Zhejiang,Friday,1,city,140,4,75,1,married,bachelor,1,1,0,33,yes and agree,heard and know,never,never,4,7,1,1,0,1959,1,5,hangzhou,2,1
+164,1,1,1,Beijing,Thursday,0,city,61,5,110,1,married,bachelor,1,1,0,27,yes and agree,familiar,familiar,familiar,5,3,1,1,2,3850,1,2,beijing,3,1
+1338,7,4,3,Beijing,Friday,1,city,19,4,38,1,married,bachelor,1,1,0,41,yes but disagree,heard but do not know,heard but do not know,never,3,4,1,1,12,2800,1,4,beijing,5,1
+1156,7,7,4,Hebei,Monday,1,county seat,61,4,100,0,married,senior high,1,0,0,31,yes and agree,heard but do not know,never,never,6,3,1,1,0,1650,1,5,shijiazhuang,3,0
+3264,7,7,7,Guangdong,Thursday,1,county seat,62,6,74,1,married,senior high,1,0,0,40,no,heard but do not know,never,never,8,5,1,1,0,3500,1,5,zhongshan,3,1
+3115,5,3,1,Guangdong,Wednesday,1,city,75,5,42,1,married,bachelor,1,0,0,34,yes and agree,heard and know,heard but do not know,never,0,1,1,1,12,4220,0,4,guangzhou,3,1
+1421,6,6,6,Hebei,Saturday,1,rural,56,4,190,1,married,senior high,1,1,0,29,yes but disagree,heard but do not know,heard but do not know,never,3,3,1,1,0,3150,1,3,shijiazhuang,2,0
+615,7,7,7,Hebei,Friday,1,county seat,63,5,130,1,married,junior high,0,0,0,50,yes and agree,never,never,never,0,2,1,1,5,4600,0,2,chengde,2,0
+1330,4,7,5,Guangdong,Friday,0,county seat,34,4,70,1,married,associate,0,0,0,39,yes and agree,heard but do not know,never,never,1,5,1,1,0,4623,1,4,zhongshan,3,0
+610,3,2,3,Hebei,Friday,0,city,190,4,110,0,married,bachelor,1,1,0,31,yes and agree,heard and know,heard but do not know,heard but do not know,2,0,1,0,3,4000,1,0,shijiazhuang,5,1
+1211,6,6,6,Beijing,Thursday,1,county seat,18,3,58,1,married,junior high,0,1,0,51,no,never,never,never,0,1,1,1,0,3240,0,1,beijing,1,0
+2424,3,7,2,Guangdong,Sunday,0,county seat,52,2,19,1,married,bachelor,1,0,0,29,yes and agree,heard and know,never,never,0,5,1,1,14,1690,0,5,guangzhou,3,1
+1666,6,6,6,Hebei,Sunday,1,county seat,64,4,200,0,unmarried,senior high,1,0,0,22,yes and agree,heard and know,heard but do not know,never,4,3,1,1,0,1800,1,3,shijiazhuang,2,1
+1613,4,7,2,Guangdong,Saturday,1,city,55,4,360,1,married,senior high,0,0,0,31,yes and agree,heard and know,heard but do not know,never,3,6,1,1,10,633,1,5,guangzhou,3,1
+3111,6,6,5,Guangdong,Wednesday,1,county seat,80,2,60,1,married,associate,1,0,0,35,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,2,1,1,8,713,0,2,guangzhou,4,0
+1469,7,1,1,Beijing,Saturday,1,city,53,5,53,1,married,bachelor,1,0,0,39,yes but disagree,heard and know,never,never,2,4,1,1,2,2400,1,3,beijing,3,0
+3381,7,7,5,Guangdong,Friday,0,rural,53,4,65,0,unmarried,associate,1,0,0,20,no,heard but do not know,heard and know,heard and know,0,0,0,0,20,1369,0,0,guangzhou,3,1
+3165,7,7,7,Guangdong,Wednesday,1,county seat,111,4,104,1,married,associate,1,1,0,33,yes and agree,heard and know,heard and know,heard and know,0,7,1,1,20,4971,0,4,guangzhou,5,1
+1211,7,5,2,Guangdong,Thursday,0,county seat,60,5,115,1,married,bachelor,0,0,1,27,yes and agree,heard and know,heard and know,heard but do not know,4,1,1,1,10,3477,1,2,guangzhou,3,1
+1601,4,4,5,Beijing,Saturday,1,county seat,32,4,60,0,married,associate,0,0,0,43,no,never,never,never,0,2,1,1,0,2045,0,2,beijing,2,0
+556,7,6,5,Hebei,Thursday,0,rural,90,4,100,0,married,senior high,1,0,0,31,no,heard but do not know,never,never,3,0,0,0,2,3033,1,0,chengde,2,0
+954,2,2,1,Beijing,Monday,1,city,39,4,40,1,married,bachelor,0,0,0,42,no,never,never,never,0,4,1,1,16,2375,0,3,beijing,5,1
+1224,5,7,1,Guangdong,Thursday,1,rural,67,6,130,0,married,senior high,0,0,0,51,yes and agree,familiar,never,never,3,4,1,1,6,4650,1,4,zhongshan,4,1
+1258,2,1,1,Beijing,Thursday,1,rural,20,3,180,1,married,junior high,0,1,0,33,no,heard but do not know,never,never,0,4,1,1,2,2133,0,2,beijing,2,0
+3162,4,4,4,Guangdong,Wednesday,1,city,82,5,75,0,unmarried,bachelor,0,0,0,21,yes and agree,heard and know,heard but do not know,heard but do not know,11,7,1,1,4,1067,1,4,guangzhou,5,1
+1116,7,6,5,Guangdong,Wednesday,0,city,53,5,160,1,married,primary,0,1,0,59,no,never,never,never,2,5,1,1,1,1250,1,5,zhongshan,4,0
+3118,1,1,1,Guangdong,Wednesday,1,city,18,4,57,0,married,associate,1,0,0,37,yes and agree,heard but do not know,heard but do not know,never,0,3,1,1,10,1371,0,4,guangzhou,6,1
+2363,5,2,1,Guangdong,Saturday,1,city,59,6,88,0,married,associate,1,0,0,49,yes but disagree,never,never,never,5,5,1,1,0,2778,1,4,zhongshan,4,1
+3169,4,7,7,Guangdong,Wednesday,1,county seat,75,4,89,1,married,bachelor,0,0,0,26,yes and agree,heard and know,heard but do not know,heard but do not know,0,7,1,1,4,1768,0,4,guangzhou,5,1
+1126,5,5,6,Zhejiang,Sunday,1,city,73,6,80,0,married,bachelor,1,0,0,31,yes and agree,heard and know,heard but do not know,heard but do not know,0,2,1,1,10,4000,0,1,hangzhou,4,1
+1591,6,6,6,Guangdong,Saturday,0,city,49,2,28,1,married,senior high,1,0,0,36,yes and agree,heard and know,heard but do not know,heard but do not know,0,7,1,1,5,4480,0,6,guangzhou,2,1
+1616,2,2,2,Hebei,Sunday,0,county seat,64,2,100,0,married,junior high,0,0,0,52,yes and agree,heard but do not know,heard but do not know,never,3,4,1,1,0,1750,1,4,shijiazhuang,3,1
+1245,5,4,5,Beijing,Thursday,1,county seat,20,3,70,1,married,senior high,0,0,0,49,no,never,never,heard but do not know,0,0,1,0,4,1706,0,0,beijing,2,0
+829,7,7,7,Zhejiang,Sunday,0,city,52,6,80,1,married,bachelor,1,0,0,48,yes and agree,heard and know,never,heard and know,15,2,1,1,2,3000,1,2,hangzhou,3,1
+2453,7,5,4,Guangdong,Monday,0,county seat,52,1,50,1,married,bachelor,0,1,0,33,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,4,1,1,12,2141,0,4,guangzhou,3,1
+3119,3,7,1,Guangdong,Thursday,1,county seat,113,4,101,0,unmarried,associate,0,1,0,25,yes and agree,heard and know,heard and know,heard but do not know,10,4,1,1,12,4934,1,5,guangzhou,3,1
+2626,7,7,3,Guangdong,Wednesday,1,city,48,1,100,0,unmarried,bachelor,0,0,0,31,yes and agree,heard and know,heard and know,heard and know,0,0,1,0,10,3629,0,0,guangzhou,3,1
+1286,2,4,1,Zhejiang,Thursday,0,rural,51,5,300,0,unmarried,senior high,0,0,0,31,yes and agree,familiar,familiar,never,4,1,1,1,0,263,1,4,hangzhou,0,0
+953,5,5,2,Beijing,Monday,1,city,39,4,50,1,married,associate,1,0,0,39,yes and agree,heard and know,never,never,0,0,1,0,12,1698,0,0,beijing,4,0
+1428,2,4,4,Hebei,Saturday,1,city,56,4,90,1,married,senior high,1,0,0,39,yes and agree,heard but do not know,heard but do not know,never,3,3,1,1,2,2600,1,3,shijiazhuang,3,0
+951,6,6,6,Beijing,Monday,1,county seat,13,3,80,0,married,associate,0,1,0,42,no,heard but do not know,never,never,0,0,0,0,2,2200,0,0,beijing,1,1
+3135,5,5,4,Guangdong,Wednesday,0,rural,79,4,80,1,married,associate,1,0,0,34,yes and agree,heard but do not know,never,never,0,3,1,1,12,822,0,4,guangzhou,3,1
+3154,4,4,7,Guangdong,Wednesday,1,city,83,5,85,1,married,associate,0,1,0,39,yes and agree,heard but do not know,heard but do not know,never,0,1,1,1,7,2214,0,7,guangzhou,4,0
+3331,7,7,1,Guangdong,Thursday,1,rural,65,4,85,1,married,associate,1,0,0,38,yes and agree,heard but do not know,heard but do not know,never,12,6,1,1,0,3300,1,6,guangzhou,0,1
+1240,7,7,7,Guangdong,Thursday,1,rural,66,5,80,1,married,senior high,0,0,0,48,yes and agree,heard but do not know,heard but do not know,heard but do not know,3,5,1,1,0,3640,1,5,zhongshan,2,0
+1424,6,6,4,Hebei,Saturday,1,city,53,4,90,1,married,associate,1,0,0,44,no,heard but do not know,heard but do not know,never,9,2,1,1,2,2400,1,3,shijiazhuang,3,0
+3236,4,6,4,Guangdong,Thursday,1,city,63,2,90,0,married,senior high,0,0,0,41,yes and agree,never,never,never,8,5,1,1,0,1800,1,3,zhongshan,4,1
+1585,6,5,4,Guangdong,Saturday,1,county seat,64,2,120,1,married,associate,1,0,0,31,yes but disagree,heard but do not know,heard but do not know,heard but do not know,3,5,1,1,0,3960,1,5,zhongshan,3,1
+992,1,1,1,Beijing,Tuesday,0,rural,54,3,70,0,married,junior high,0,0,0,52,no,never,never,heard but do not know,0,3,1,1,0,2415,0,2,beijing,2,0
+3184,2,1,2,Guangdong,Wednesday,1,county seat,113,5,83,0,unmarried,bachelor,0,1,0,33,yes and agree,heard and know,heard but do not know,never,1,6,1,1,12,6355,1,4,guangzhou,3,1
+2650,4,5,3,Guangdong,Wednesday,1,city,49,3,28,1,unmarried,bachelor,0,1,0,28,yes and agree,heard but do not know,never,never,0,0,1,0,6,478,0,0,guangzhou,3,1
+1582,5,5,4,Guangdong,Saturday,1,county seat,64,1,40,0,unmarried,senior high,0,0,0,38,yes and agree,heard but do not know,never,never,0,0,1,0,14,1733,0,0,zhongshan,5,1
+1209,4,4,3,Hebei,Thursday,1,city,77,3,75,1,divorced,associate,1,0,0,39,yes and agree,heard but do not know,never,never,0,0,1,0,6,1857,0,0,chengde,2,0
+189,7,7,7,Zhejiang,Sunday,0,city,52,6,75,1,married,bachelor,1,1,1,35,yes and agree,heard and know,never,never,3,6,1,1,7,4200,1,4,hangzhou,6,0
+151,7,7,2,Hebei,Saturday,1,city,110,4,125,1,married,senior high,0,1,0,41,yes and agree,heard but do not know,never,never,0,4,1,1,0,2656,0,2,shijiazhuang,2,0
+2539,3,3,3,Zhejiang,Tuesday,0,county seat,87,4,90,1,married,junior high,1,0,0,58,no,heard but do not know,never,never,8,2,1,1,0,3200,1,4,hangzhou,0,0
+1982,7,7,7,Beijing,Wednesday,1,city,59,6,100,1,unmarried,bachelor,1,0,0,20,yes and agree,heard and know,heard and know,heard but do not know,2,0,1,0,2,2150,1,0,beijing,5,1
+1425,4,2,4,Hebei,Saturday,1,rural,49,4,130,1,married,junior high,1,0,0,25,no,heard but do not know,never,never,5,2,1,1,0,2600,1,2,shijiazhuang,3,0
+1823,7,7,1,Beijing,Tuesday,1,city,57,4,90,1,married,bachelor,1,0,0,48,yes and agree,familiar,familiar,familiar,0,1,1,1,14,2250,0,3,beijing,6,0
+2534,4,3,4,Zhejiang,Tuesday,0,county seat,87,4,70,1,married,senior high,1,0,0,33,yes and agree,heard and know,never,never,7,2,1,1,6,3600,1,4,hangzhou,3,1
+1184,4,7,4,Hebei,Monday,1,city,104,3,378,1,married,associate,1,1,0,34,yes and agree,heard and know,never,never,5,1,1,1,0,20350,1,1,chengde,0,1
+1843,4,4,4,Hebei,Tuesday,1,city,58,4,65,1,unmarried,associate,0,1,0,23,yes and agree,heard but do not know,heard but do not know,heard but do not know,2,2,1,1,2,580,1,3,shijiazhuang,3,1
+3205,4,4,4,Guangdong,Thursday,1,county seat,87,4,110,1,married,associate,1,0,0,29,yes but disagree,heard but do not know,heard but do not know,heard but do not know,2,3,1,1,0,1600,1,2,guangzhou,2,1
+941,6,6,6,Hebei,Monday,1,city,65,3,67,1,married,junior high,0,1,0,45,yes but disagree,heard but do not know,heard but do not know,heard but do not know,9,3,1,1,0,3300,1,2,shijiazhuang,3,0
+1216,3,3,1,Beijing,Thursday,1,city,20,4,55,1,married,associate,0,0,0,53,yes but disagree,never,never,never,3,4,1,1,12,3200,1,4,beijing,3,0
+1422,4,3,1,Beijing,Saturday,1,city,67,4,40,1,married,associate,1,0,0,40,yes and agree,heard but do not know,never,never,0,4,1,1,10,1380,0,2,beijing,4,0
+1313,7,6,7,Guangdong,Friday,0,county seat,43,4,80,0,married,associate,1,1,0,26,no,never,never,never,0,4,1,1,0,2133,0,3,zhongshan,4,1
+3196,1,1,1,Guangdong,Thursday,1,county seat,109,4,55,1,married,associate,1,0,0,38,yes and agree,heard and know,heard and know,heard and know,0,5,1,1,10,2226,0,4,guangzhou,4,1
+1502,7,7,4,Hebei,Saturday,1,rural,50,3,160,0,married,junior high,1,0,0,32,no,never,never,never,2,2,1,1,0,2182,1,4,shijiazhuang,4,0
+1881,7,5,4,Hebei,Tuesday,1,county seat,75,3,100,0,married,primary,0,0,0,45,yes and agree,heard but do not know,never,never,3,2,1,1,0,2400,1,3,shijiazhuang,2,0
+1501,5,4,4,Beijing,Saturday,1,city,31,4,43,1,married,associate,0,1,0,59,yes but disagree,never,never,never,0,4,1,1,0,2000,0,3,beijing,2,0
+1031,6,6,6,Hebei,Tuesday,1,county seat,80,4,100,1,married,bachelor,0,0,1,38,yes and agree,never,heard but do not know,never,0,3,1,1,0,2267,0,2,shijiazhuang,3,0
+2512,7,7,7,Hebei,Wednesday,1,county seat,56,2,125,1,married,associate,1,0,0,26,yes and agree,heard and know,heard but do not know,never,1,1,1,1,14,1683,1,1,shijiazhuang,4,1
+1385,4,4,4,Hebei,Friday,0,city,200,4,125,1,married,associate,1,1,0,34,yes but disagree,heard but do not know,heard but do not know,heard but do not know,2,3,1,1,4,1600,1,3,shijiazhuang,3,1
+2531,1,1,1,Zhejiang,Tuesday,0,county seat,87,5,81,1,married,associate,1,1,0,39,yes and agree,heard and know,never,never,0,2,1,1,10,2400,0,1,hangzhou,3,1
+2323,5,5,5,Guangdong,Saturday,1,city,57,4,250,0,married,associate,1,0,0,29,yes and agree,heard and know,heard and know,heard but do not know,3,0,1,0,10,1875,1,0,guangzhou,3,1
+3428,7,7,7,Guangdong,Saturday,0,city,63,4,100,1,unmarried,bachelor,1,0,0,31,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,2,3600,0,1,zhongshan,3,1
+2334,6,6,5,Guangdong,Saturday,0,city,54,3,45,1,married,bachelor,1,1,0,33,yes and agree,heard and know,heard and know,heard and know,0,3,1,1,12,1636,0,3,guangzhou,5,1
+2439,7,7,1,Beijing,Monday,1,city,49,3,29,1,married,senior high,1,0,0,29,yes and agree,heard and know,heard but do not know,heard but do not know,3,2,1,1,10,4200,1,4,beijing,6,1
+1159,5,4,3,Beijing,Wednesday,0,city,135,4,50,1,married,associate,1,0,0,46,no,never,never,never,0,4,1,1,2,857,0,3,beijing,2,0
+1828,5,6,5,Guangdong,Tuesday,0,city,24,5,85,0,unmarried,senior high,1,1,0,21,yes and agree,heard but do not know,never,heard but do not know,0,0,0,0,2,1333,0,0,guangzhou,3,0
+2214,6,6,6,Guangdong,Friday,1,county seat,52,4,120,0,married,senior high,0,0,0,57,yes but disagree,heard but do not know,never,never,5,5,1,1,0,6188,1,4,guangzhou,2,1
+906,6,6,1,Hebei,Sunday,1,city,43,4,55,0,married,senior high,0,1,0,61,yes and agree,heard but do not know,heard but do not know,never,0,2,1,1,0,2400,0,4,shijiazhuang,6,1
+1661,6,6,6,Hebei,Sunday,1,county seat,66,4,179,0,married,junior high,1,0,0,31,yes and agree,heard and know,heard and know,heard and know,3,3,1,1,0,2800,1,4,shijiazhuang,2,1
+180,7,7,7,Hebei,Saturday,1,rural,78,4,129,0,married,junior high,0,0,0,53,no,never,never,never,0,0,1,0,2,1650,0,0,chengde,4,0
+841,3,4,2,Beijing,Sunday,1,city,65,3,41,0,unmarried,bachelor,0,0,0,31,yes and agree,never,never,never,0,0,1,0,14,2200,0,0,beijing,6,1
+3389,6,6,6,Guangdong,Saturday,1,city,54,3,65,1,married,associate,1,1,0,33,yes but disagree,heard and know,never,never,1,4,1,1,8,1765,1,2,guangzhou,3,1
+1519,7,2,1,Guangdong,Saturday,1,county seat,64,4,86,1,married,associate,1,0,0,41,yes but disagree,never,heard but do not know,never,2,4,1,1,0,4267,1,4,zhongshan,3,1
+2668,1,1,1,Guangdong,Thursday,1,city,37,5,35,1,married,senior high,0,0,0,52,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,2,4530,0,1,guangzhou,4,1
+1221,6,6,6,Beijing,Thursday,1,rural,18,2,70,1,married,senior high,0,1,0,51,no,familiar,never,never,0,3,1,1,0,720,0,2,beijing,2,0
+809,6,6,6,Hebei,Sunday,1,city,60,4,60,0,married,junior high,0,0,0,59,yes and agree,heard and know,never,never,0,1,1,1,0,2420,0,3,shijiazhuang,6,0
+1680,6,6,6,Guangdong,Sunday,0,rural,63,4,98,1,married,associate,1,0,0,36,yes but disagree,never,never,heard but do not know,0,7,1,1,0,2625,0,5,zhongshan,4,1
+821,4,4,5,Hebei,Sunday,1,rural,80,5,118,1,married,associate,0,1,0,31,yes and agree,heard but do not know,heard but do not know,never,5,0,1,0,4,1400,1,0,chengde,4,0
+2293,4,4,1,Guangdong,Saturday,1,city,57,6,180,1,married,associate,1,0,0,37,yes and agree,heard but do not know,never,never,8,5,1,1,0,3750,1,5,zhongshan,3,1
+2036,7,7,7,Guangdong,Wednesday,0,city,58,4,69.72,1,married,bachelor,1,0,0,34,yes and agree,familiar,familiar,familiar,0,7,1,1,10,1973,0,5,guangzhou,3,1
+3311,4,7,7,Guangdong,Thursday,0,county seat,60,4,89,0,married,bachelor,0,0,0,26,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,5,1,1,6,1500,0,5,guangzhou,6,1
+1150,3,4,2,Hebei,Wednesday,0,rural,99,4,170,0,married,junior high,1,1,0,43,no,heard but do not know,never,never,5,3,1,1,4,1320,1,3,shijiazhuang,4,1
+1003,7,7,1,Hebei,Tuesday,1,county seat,82,4,80,1,married,bachelor,1,0,1,35,yes and agree,heard but do not know,never,never,6,3,1,1,0,2400,1,7,shijiazhuang,2,1
+1651,4,5,5,Beijing,Sunday,1,county seat,58,4,55,0,unmarried,associate,0,1,0,24,yes but disagree,heard but do not know,heard but do not know,heard but do not know,0,3,1,1,12,2045,0,3,beijing,5,0
+111,4,4,4,Hebei,Saturday,1,county seat,36,5,95,1,married,bachelor,1,1,0,34,yes and agree,heard and know,heard but do not know,heard but do not know,6,0,1,0,5,2400,1,0,chengde,2,1
+2314,7,7,7,Guangdong,Saturday,1,city,66,4,45,1,married,associate,1,0,0,29,yes and agree,heard but do not know,heard but do not know,heard but do not know,1,4,1,1,10,2967,1,5,guangzhou,2,1
+2538,7,6,1,Zhejiang,Tuesday,0,county seat,62,4,85,1,married,primary,1,0,0,49,no,never,never,never,3,3,1,1,0,3600,1,3,hangzhou,3,1
+3319,2,3,2,Guangdong,Friday,1,rural,57,5,70,1,unmarried,bachelor,0,1,0,38,yes and agree,heard and know,heard but do not know,heard but do not know,0,7,1,1,20,3315,0,5,guangzhou,6,1
+1163,4,5,5,Guangdong,Monday,0,county seat,52,5,78,0,married,associate,1,1,0,33,no,heard but do not know,heard but do not know,never,8,6,1,1,0,2875,1,4,zhongshan,2,1
+2636,6,4,4,Guangdong,Wednesday,1,city,44,5,70,0,unmarried,associate,1,0,0,28,no,heard but do not know,heard but do not know,never,0,4,1,1,2,530,0,3,guangzhou,4,1
+910,4,5,4,Hebei,Monday,1,rural,15,2,100,1,married,senior high,1,1,0,60,no,heard but do not know,never,never,0,0,1,0,0,2200,0,0,chengde,3,1
+2321,4,2,2,Guangdong,Saturday,1,rural,57,6,100,0,married,senior high,1,0,0,41,yes and agree,heard but do not know,heard but do not know,heard but do not know,6,5,1,1,0,3769,1,4,zhongshan,3,1
+2618,1,7,1,Guangdong,Thursday,1,rural,16,4,120,0,unmarried,senior high,1,0,0,20,yes and agree,never,never,never,0,0,1,0,9,818,0,0,guangzhou,5,1
+2491,5,6,5,Guangdong,Monday,0,county seat,43,4,54,0,married,senior high,1,0,0,39,yes and agree,heard but do not know,heard and know,heard but do not know,0,7,1,1,0,1170,0,4,zhongshan,4,1
+2520,4,4,5,Zhejiang,Tuesday,0,county seat,87,4,80,1,married,uneducated,1,1,0,59,yes and agree,heard and know,never,never,5,3,1,1,10,2800,1,3,hangzhou,3,1
+2619,7,7,7,Zhejiang,Wednesday,1,rural,71,4,134,0,married,bachelor,1,0,1,37,yes and agree,heard and know,heard and know,heard and know,15,7,1,1,2,2427,1,3,hangzhou,4,1
+1064,4,2,2,Beijing,Tuesday,1,city,72,3,53,1,married,senior high,0,0,0,51,yes but disagree,never,never,never,6,4,1,1,1,1091,1,3,beijing,2,0
+1040,6,7,5,Beijing,Tuesday,1,city,77,2,35,1,married,junior high,0,0,0,51,yes but disagree,never,never,never,0,0,1,0,2,3000,0,0,beijing,3,1
+146,7,7,7,Hebei,Saturday,1,rural,77,5,115,1,married,junior high,0,0,0,53,yes but disagree,never,never,never,0,0,1,0,5,2400,0,0,chengde,3,1
+1219,5,5,4,Zhejiang,Thursday,0,rural,101,1,110,1,married,senior high,0,0,0,46,yes and agree,heard but do not know,never,never,5,3,1,1,0,3600,1,4,hangzhou,3,1
+814,7,7,5,Hebei,Sunday,1,county seat,60,6,88,0,married,junior high,0,0,0,53,yes and agree,heard but do not know,never,never,5,0,1,0,0,2291,1,0,chengde,0,1
+3056,7,4,4,Guangdong,Wednesday,1,city,114,5,80,1,married,bachelor,1,1,1,32,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,4,1,1,14,1351,0,6,guangzhou,4,1
+1108,2,2,2,Beijing,Wednesday,1,city,89,5,40,0,married,associate,0,0,0,30,yes and agree,heard but do not know,never,never,10,3,1,1,10,4320,1,1,beijing,2,1
+1310,2,2,3,Beijing,Friday,1,city,20,4,40,1,married,senior high,0,0,0,55,yes but disagree,heard but do not know,never,never,0,4,1,1,18,3413,0,5,beijing,5,0
+141,7,7,7,Zhejiang,Saturday,0,city,100,6,70,0,married,bachelor,1,0,0,42,yes but disagree,heard and know,heard and know,heard and know,8,5,1,1,5,2182,1,3,hangzhou,3,1
+821,5,6,2,Zhejiang,Sunday,0,city,56,4,85,1,married,bachelor,1,0,0,43,yes and agree,heard and know,heard and know,never,5,4,1,1,0,2167,1,5,hangzhou,2,1
+1698,3,4,2,Hebei,Sunday,1,city,94,4,70,1,married,senior high,1,0,0,32,yes and agree,heard but do not know,never,never,0,0,1,0,2,1733,0,0,chengde,2,0
+1139,2,1,1,Beijing,Wednesday,0,city,80,3,45,1,married,senior high,0,1,0,51,no,heard but do not know,never,never,0,0,1,0,10,2858,0,0,beijing,4,0
+811,7,7,7,Hebei,Sunday,1,city,78,5,108,1,unmarried,bachelor,1,0,0,27,yes but disagree,heard but do not know,never,never,5,2,1,1,8,3125,1,2,chengde,3,0
+2394,6,4,4,Guangdong,Sunday,1,county seat,52,3,68,0,married,bachelor,1,0,0,40,yes and agree,heard and know,heard but do not know,never,0,4,1,1,2,4696,0,4,guangzhou,3,0
+3144,7,7,2,Guangdong,Wednesday,1,rural,59,3,84,1,married,associate,1,0,0,39,yes and agree,heard and know,heard and know,heard but do not know,2,5,1,1,10,883,1,4,guangzhou,4,1
+2611,7,7,2,Guangdong,Wednesday,0,city,43,3,70,1,unmarried,associate,0,0,0,26,yes and agree,heard and know,never,never,0,7,1,1,4,1018,0,3,guangzhou,5,0
+861,2,5,1,Hebei,Sunday,1,city,39,4,70,1,married,associate,0,1,1,65,yes and agree,heard but do not know,never,never,0,1,1,1,1,2200,0,3,shijiazhuang,5,0
+601,1,7,7,Zhejiang,Friday,1,city,79,5,50,1,married,bachelor,1,0,1,38,yes and agree,heard but do not know,heard but do not know,never,7,3,1,1,0,4320,1,3,hangzhou,3,1
+1033,5,5,2,Beijing,Tuesday,1,city,77,4,42,0,divorced,associate,0,0,0,36,no,never,never,never,0,0,1,0,8,800,0,0,beijing,4,1
+1389,7,7,7,Beijing,Friday,1,county seat,25,3,40,1,unmarried,associate,0,0,0,26,no,never,never,never,0,0,1,0,10,1333,0,0,beijing,2,0
+186,7,7,7,Zhejiang,Sunday,0,city,52,4,81,1,married,associate,1,1,0,34,yes and agree,heard and know,never,never,7,5,1,1,3,3900,1,5,hangzhou,5,1
+1584,6,6,6,Guangdong,Saturday,1,rural,61,5,85,1,married,associate,1,0,0,43,no,heard but do not know,never,never,0,7,1,1,0,2674,0,7,zhongshan,3,0
+1225,4,2,1,Beijing,Thursday,1,city,19,4,40,1,married,bachelor,1,0,0,36,yes but disagree,heard but do not know,never,never,5,4,1,1,1,2727,1,4,beijing,3,0
+1662,3,3,2,Hebei,Sunday,1,county seat,58,3,100,0,married,bachelor,1,0,0,33,no,heard but do not know,heard but do not know,never,1,4,1,1,6,1800,1,4,shijiazhuang,3,1
+995,5,4,5,Hebei,Saturday,1,rural,69,4,110,1,married,primary,0,0,0,32,no,never,never,never,0,0,1,0,0,2000,0,0,chengde,3,0
+951,5,6,6,Beijing,Monday,1,county seat,43,3,70,1,married,bachelor,1,0,0,41,yes and agree,heard but do not know,heard but do not know,never,9,1,1,1,2,1083,1,1,beijing,2,1
+2180,7,4,1,Hebei,Thursday,0,county seat,79,5,89,0,married,junior high,1,0,0,36,yes and agree,never,never,never,3,0,1,0,0,2182,1,0,chengde,0,1
+1132,5,1,1,Beijing,Wednesday,0,city,80,2,35,1,married,junior high,0,0,0,50,yes and agree,heard but do not know,never,never,0,0,1,0,4,3850,0,0,beijing,5,1
+2341,2,4,4,Guangdong,Saturday,1,rural,59,6,150,0,unmarried,associate,0,0,0,32,yes but disagree,heard but do not know,never,never,5,4,1,1,0,4420,1,6,zhongshan,3,0
+1663,7,7,3,Hebei,Sunday,1,county seat,67,4,130,0,married,junior high,1,0,0,23,no,heard but do not know,never,never,3,2,1,1,0,2167,1,3,shijiazhuang,3,0
+126,7,7,2,Zhejiang,Saturday,0,city,92,6,100,1,married,bachelor,1,0,0,40,yes and agree,heard but do not know,heard but do not know,never,3,2,1,1,0,3240,1,4,hangzhou,2,0
+1510,7,7,7,Guangdong,Saturday,1,city,60,2,80,1,married,associate,0,0,0,26,yes and agree,heard and know,heard but do not know,heard but do not know,3,4,1,1,10,3300,1,3,guangzhou,3,0
+2621,6,7,2,Guangdong,Wednesday,1,city,58,3,99,1,married,senior high,1,1,0,42,yes and agree,heard but do not know,heard but do not know,heard but do not know,3,5,1,1,0,1018,1,5,zhongshan,2,1
+1154,2,2,2,Guangdong,Monday,0,city,45,6,97,1,married,senior high,1,0,0,42,no,heard but do not know,never,heard and know,8,5,1,1,0,3636,1,4,zhongshan,4,1
+2242,1,7,7,Guangdong,Friday,1,city,50,1,100,0,married,bachelor,1,0,1,35,yes and agree,heard but do not know,heard but do not know,heard but do not know,4,7,1,1,0,2500,1,1,guangzhou,3,1
+3105,6,6,6,Guangdong,Wednesday,1,county seat,88,4,54,0,married,associate,1,0,1,39,yes and agree,heard and know,heard and know,heard but do not know,0,6,1,1,10,1920,0,4,guangzhou,3,1
+1334,5,5,4,Beijing,Friday,1,county seat,18,4,70,1,married,associate,1,0,0,46,no,heard but do not know,heard but do not know,never,0,2,1,1,0,1418,0,2,beijing,3,0
+828,2,4,3,Hebei,Sunday,1,county seat,20,7,90,1,married,senior high,1,0,0,35,no,never,never,never,7,0,1,0,0,4300,1,0,chengde,0,0
+916,5,5,2,Hebei,Sunday,1,city,46,5,68,1,married,senior high,1,1,0,53,yes and agree,heard but do not know,heard but do not know,heard but do not know,2,3,1,1,30,1200,1,3,shijiazhuang,4,1
+3200,7,7,7,Guangdong,Thursday,1,county seat,67,6,79,1,married,associate,1,0,0,39,yes and agree,heard but do not know,never,never,0,7,1,1,15,5863,0,2,guangzhou,3,1
+1163,2,5,1,Hebei,Wednesday,1,rural,98,2,150,0,married,primary,0,1,0,67,yes and agree,never,never,never,0,3,1,1,0,800,0,9,shijiazhuang,2,1
+2215,6,7,6,Guangdong,Friday,1,county seat,54,4,100,1,married,senior high,0,0,0,56,yes but disagree,heard but do not know,never,heard but do not know,0,5,1,1,8,6115,0,4,guangzhou,4,1
+999,2,2,3,Beijing,Tuesday,1,city,64,2,40,0,divorced,senior high,0,0,0,57,yes and agree,heard but do not know,heard and know,heard but do not know,0,4,1,1,3,1600,0,2,beijing,3,1
+1141,3,3,2,Beijing,Wednesday,0,city,125,3,200,0,married,junior high,0,0,0,55,yes and agree,never,never,never,6,4,1,1,2,2600,1,2,beijing,5,1
+2381,6,6,7,Guangdong,Sunday,0,rural,45,3,60,1,married,senior high,1,0,0,46,no,never,never,never,0,7,1,1,0,1000,0,4,zhongshan,3,1
+1146,4,7,4,Hebei,Monday,1,city,95,2,87,1,married,associate,1,0,0,33,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,4,1950,0,0,chengde,2,0
+1661,7,7,7,Hebei,Sunday,1,county seat,66,4,90,1,married,senior high,1,0,0,30,no,heard but do not know,never,never,4,2,1,1,0,1200,1,4,shijiazhuang,3,0
+1192,4,4,2,Guangdong,Wednesday,0,city,71,6,75,0,married,associate,1,1,0,46,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,6,1,1,20,4240,0,4,guangzhou,4,1
+1681,6,6,6,Guangdong,Sunday,0,city,51,4,90,1,married,senior high,0,0,0,49,yes but disagree,heard but do not know,never,never,12,7,1,1,5,4613,1,4,guangzhou,2,0
+3201,7,7,1,Guangdong,Thursday,1,city,65,4,75,0,married,bachelor,1,0,0,42,yes and agree,heard but do not know,heard but do not know,never,5,4,1,1,15,3333,1,4,guangzhou,4,0
+1652,3,3,1,Guangdong,Sunday,1,city,58,3,70,0,married,bachelor,1,0,0,40,yes but disagree,heard but do not know,never,never,6,7,1,1,0,2750,1,4,zhongshan,0,1
+1012,4,4,2,Hebei,Tuesday,1,county seat,70,4,70,1,married,associate,1,1,0,38,yes and agree,heard and know,heard but do not know,never,5,0,1,0,14,1247,1,0,shijiazhuang,4,1
+1098,2,1,2,Beijing,Wednesday,0,city,89,3,50,0,married,associate,1,0,0,43,yes but disagree,heard but do not know,heard but do not know,never,0,0,1,0,2,2100,0,0,beijing,3,1
+1311,6,7,6,Guangdong,Friday,1,county seat,53,4,80,1,married,senior high,1,0,0,35,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,7,1,1,0,3115,0,4,zhongshan,4,1
+1918,7,7,2,Hebei,Tuesday,1,county seat,88,4,100,0,married,senior high,0,0,0,31,no,never,never,never,2,0,1,0,0,2200,1,0,shijiazhuang,3,0
+3012,2,7,1,Guangdong,Wednesday,1,rural,69,1,75,1,married,associate,1,0,0,30,yes but disagree,heard but do not know,never,never,0,0,1,0,0,5333,0,0,guangzhou,3,1
+843,6,5,1,Hebei,Sunday,1,county seat,78,5,110,1,married,senior high,0,0,0,25,no,never,never,never,0,0,1,0,0,2200,0,0,chengde,1,0
+2068,7,7,7,Beijing,Wednesday,1,city,77,4,25,1,unmarried,postgraduate,0,0,0,31,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,3,1,1,10,985,0,2,beijing,1,1
+1318,6,6,5,Hebei,Friday,1,city,19,4,75,1,married,bachelor,1,0,0,43,yes and agree,heard and know,heard but do not know,heard but do not know,0,0,1,0,0,900,0,0,chengde,2,0
+2509,7,7,1,Zhejiang,Tuesday,0,county seat,87,6,80,0,married,associate,1,1,0,64,yes and agree,heard and know,heard but do not know,heard but do not know,1,2,1,1,2,4545,1,3,hangzhou,6,0
+1063,7,7,7,Hebei,Tuesday,1,county seat,70,4,85,1,married,junior high,0,1,0,70,yes and agree,heard but do not know,never,never,0,2,1,1,0,1650,0,4,shijiazhuang,0,0
+1339,2,4,4,Beijing,Friday,1,city,17,4,60,1,divorced,bachelor,0,0,0,52,yes and agree,heard but do not know,heard and know,heard but do not know,0,4,1,1,2,1320,0,4,beijing,3,1
+1482,3,3,4,Hebei,Saturday,1,city,59,4,100,1,married,associate,1,0,0,41,no,heard but do not know,heard but do not know,heard but do not know,7,4,1,1,2,2400,1,5,shijiazhuang,4,0
+1191,6,6,6,Guangdong,Monday,0,rural,30,4,90,1,married,senior high,0,1,0,60,no,never,never,never,0,1,1,1,9,4154,0,1,guangzhou,2,0
+2154,2,4,3,Beijing,Thursday,1,rural,16,3,90,1,unmarried,junior high,1,1,0,20,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,2,1,1,3,9465,1,2,beijing,4,1
+2458,5,7,3,Guangdong,Monday,0,county seat,52,3,75,1,unmarried,bachelor,0,0,0,30,yes and agree,heard but do not know,never,never,0,7,1,1,7,3571,0,4,guangzhou,4,1
+1509,7,7,7,Hebei,Saturday,1,rural,46,4,120,0,married,bachelor,1,0,0,34,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,2,2250,0,0,shijiazhuang,4,1
+2203,4,4,4,Zhejiang,Thursday,1,county seat,44,4,140,1,married,bachelor,1,0,0,28,yes and agree,heard and know,heard and know,heard but do not know,7,4,1,1,3,1696,1,4,hangzhou,3,1
+1165,6,6,6,Hebei,Wednesday,1,rural,98,4,180,1,married,junior high,0,0,0,36,no,never,never,never,2,3,1,1,0,3150,1,3,shijiazhuang,0,0
+1688,6,6,6,Guangdong,Sunday,0,rural,63,5,98,0,married,associate,1,1,0,33,no,never,never,never,0,7,1,1,0,583,1,3,zhongshan,3,1
+623,7,7,7,Hebei,Friday,1,county seat,83,4,90,1,married,junior high,0,1,0,57,no,never,never,never,4,0,1,0,6,2509,1,0,chengde,3,0
+1212,2,2,5,Guangdong,Thursday,1,rural,72,5,140,1,married,associate,0,0,0,38,yes and agree,never,never,never,6,4,1,1,0,6480,1,4,zhongshan,3,0
+119,7,2,1,Beijing,Saturday,1,city,80,3,96,1,married,bachelor,0,0,0,27,no,never,never,never,3,3,1,1,11,960,1,2,beijing,4,0
+984,5,5,3,Beijing,Monday,1,city,48,4,40,0,married,associate,1,0,0,44,yes but disagree,heard but do not know,heard but do not know,heard but do not know,0,4,1,1,6,2400,0,2,beijing,1,1
+3004,1,3,2,Zhejiang,Tuesday,1,county seat,89,5,100,0,married,associate,1,1,0,36,no,heard but do not know,never,never,4,4,1,1,0,2678,1,3,hangzhou,0,0
+946,5,1,1,Beijing,Monday,1,city,51,4,17,1,married,senior high,0,0,0,55,no,heard but do not know,never,never,0,7,1,1,2,2420,0,2,beijing,2,0
+1024,2,2,2,Beijing,Tuesday,1,city,72,5,48,0,married,bachelor,1,0,0,45,no,heard but do not know,heard but do not know,never,0,4,1,1,10,1418,0,2,beijing,6,0
+2641,2,2,1,Guangdong,Wednesday,0,city,53,4,65,1,married,associate,0,0,0,34,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,3,1,1,8,1831,0,4,guangzhou,3,1
+1686,5,6,3,Hebei,Sunday,1,county seat,56,5,80,0,married,junior high,0,1,0,51,no,never,never,never,0,3,0,1,3,1400,0,2,shijiazhuang,3,1
+1011,4,7,4,Guangdong,Tuesday,1,city,74,4,35,1,married,bachelor,0,0,0,48,yes and agree,heard and know,never,never,0,6,1,1,2,6614,1,4,guangzhou,3,1
+1152,6,6,6,Hebei,Wednesday,1,rural,90,4,120,0,married,junior high,0,0,0,36,no,never,never,never,0,1,1,1,0,3150,0,1,shijiazhuang,2,0
+1658,5,5,6,Zhejiang,Sunday,1,city,63,6,150,1,married,associate,1,0,0,45,yes and agree,familiar,familiar,familiar,5,2,1,1,7,5417,1,2,taizhou,2,1
+385,7,6,6,Guangdong,Thursday,1,city,80,4,135,1,unmarried,bachelor,1,1,0,20,yes and agree,heard and know,heard but do not know,heard but do not know,8,7,1,1,10,6000,1,3,guangzhou,4,1
+1813,7,7,7,Hebei,Monday,1,city,105,4,75,0,married,associate,1,1,0,41,yes and agree,heard and know,heard and know,heard and know,10,0,1,0,0,2000,1,0,chengde,0,1
+2349,6,6,6,Guangdong,Saturday,0,rural,60,5,110,0,married,junior high,1,0,0,32,yes but disagree,never,never,heard but do not know,5,7,1,1,0,2535,1,4,zhongshan,3,1
+2254,6,6,6,Guangdong,Friday,0,county seat,67,6,93,1,unmarried,bachelor,1,0,0,22,yes and agree,heard and know,heard and know,heard and know,2,0,1,0,0,5362,1,0,guangzhou,3,1
+1326,2,2,1,Beijing,Friday,1,rural,19,4,180,1,unmarried,junior high,1,0,0,13,no,never,never,never,0,3,1,1,0,2100,0,3,beijing,2,0
+2411,4,2,2,Guangdong,Sunday,0,county seat,52,2,56,1,married,associate,1,1,0,36,yes and agree,heard but do not know,heard but do not know,never,0,4,1,1,14,4190,0,4,guangzhou,5,1
+104,4,5,6,Hebei,Friday,0,county seat,88,5,85,1,married,bachelor,1,0,0,39,yes and agree,heard but do not know,never,never,7,0,1,0,3,3125,1,0,chengde,2,1
+985,4,1,2,Beijing,Monday,1,city,60,5,50,0,married,senior high,1,0,0,59,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,6,1320,0,0,beijing,2,1
+1036,5,6,5,Beijing,Tuesday,1,county seat,53,3,36,1,married,associate,0,0,1,33,no,heard but do not know,heard but do not know,never,0,0,1,0,2,1091,0,0,beijing,2,1
+1124,5,5,5,Hebei,Wednesday,1,rural,83,3,160,0,married,senior high,0,1,0,53,yes and agree,heard but do not know,never,never,0,3,1,1,0,2600,0,5,shijiazhuang,0,1
+1388,1,2,1,Beijing,Friday,0,rural,20,6,180,0,married,senior high,0,0,0,50,no,heard but do not know,never,never,0,4,1,1,0,3600,0,3,beijing,0,0
+1039,2,3,3,Beijing,Tuesday,1,city,77,3,32,0,married,primary,0,0,0,58,yes and agree,heard and know,heard and know,never,0,0,1,0,1,1000,0,0,beijing,3,1
+816,3,7,2,Zhejiang,Sunday,0,city,52,6,80,0,married,associate,1,1,0,35,yes but disagree,heard and know,heard and know,heard and know,2,2,1,1,1,1929,1,2,hangzhou,5,0
+2963,7,7,4,Zhejiang,Monday,1,rural,58,3,200,0,married,senior high,1,1,0,44,yes and agree,heard and know,heard but do not know,never,4,3,1,1,0,3850,1,2,taizhou,3,1
+2341,7,7,5,Guangdong,Saturday,0,city,54,4,50,1,unmarried,associate,1,0,0,28,yes and agree,heard and know,heard but do not know,heard but do not know,0,1,1,1,12,1901,0,1,guangzhou,6,0
+395,2,2,1,Hebei,Thursday,1,rural,109,1,180,0,married,associate,1,0,0,30,yes but disagree,heard but do not know,heard but do not know,never,1,7,1,1,0,7420,1,1,shijiazhuang,0,0
+622,7,7,2,Zhejiang,Friday,1,city,103,6,45,1,married,bachelor,1,0,0,43,yes and agree,heard and know,never,heard and know,10,3,1,1,0,2400,1,4,hangzhou,3,1
+3143,7,7,7,Guangdong,Wednesday,1,city,83,5,68,1,married,associate,1,0,0,48,yes and agree,familiar,familiar,heard and know,0,6,1,1,12,5357,0,5,guangzhou,4,1
+1612,5,6,6,Beijing,Saturday,1,county seat,32,4,80,0,unmarried,bachelor,0,0,0,21,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,10,1225,0,0,beijing,3,1
+2531,7,7,1,Zhejiang,Tuesday,0,county seat,62,4,150,1,married,junior high,0,1,0,66,yes and agree,heard but do not know,never,never,6,3,1,1,0,5000,1,5,hangzhou,0,0
+1041,2,4,3,Hebei,Tuesday,1,county seat,70,4,90,0,married,bachelor,0,0,0,49,yes and agree,heard but do not know,heard but do not know,never,2,0,1,0,14,1875,1,0,shijiazhuang,5,1
+1218,6,6,6,Beijing,Thursday,1,county seat,18,4,55,1,married,associate,1,0,0,30,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,2,1,1,4,2667,0,2,beijing,2,1
+2692,1,7,1,Guangdong,Thursday,1,county seat,21,4,50,1,married,associate,0,0,0,34,yes and agree,heard and know,heard and know,heard but do not know,0,5,1,1,10,2622,0,4,guangzhou,3,1
+1486,7,1,1,Guangdong,Saturday,1,city,69,4,64,0,married,associate,1,0,0,33,yes and agree,heard and know,never,never,0,7,1,1,14,3500,0,4,guangzhou,3,0
+2318,4,7,4,Hebei,Saturday,1,city,39,2,70,1,married,bachelor,1,0,0,31,yes and agree,never,never,never,0,1,1,1,2,1628,0,2,shijiazhuang,4,1
+1249,5,3,4,Guangdong,Thursday,1,rural,60,3,75,0,unmarried,associate,0,0,0,28,yes and agree,heard but do not know,heard but do not know,never,0,4,1,1,12,1500,0,4,zhongshan,4,0
+2314,7,6,4,Beijing,Saturday,1,city,16,5,55,1,unmarried,associate,0,0,0,34,yes but disagree,heard but do not know,never,never,0,0,1,0,6,1486,0,0,beijing,4,0
+2518,7,7,7,Guangdong,Tuesday,1,city,42,7,85,1,married,bachelor,1,0,0,36,yes and agree,heard and know,never,heard but do not know,12,7,1,1,15,5357,1,4,guangzhou,5,0
+1134,6,3,2,Beijing,Wednesday,0,city,125,3,70,1,married,senior high,0,0,0,53,no,never,never,never,0,0,1,0,16,2800,0,0,beijing,4,0
+1466,6,6,6,Hebei,Saturday,1,rural,59,4,200,0,married,junior high,0,1,0,79,yes and agree,heard and know,heard and know,heard and know,0,3,1,1,0,1300,0,1,shijiazhuang,0,0
+121,2,4,1,Hebei,Saturday,1,rural,62,5,100,1,married,junior high,1,1,0,59,no,never,never,never,0,0,0,0,2,1875,0,0,chengde,3,1
+1111,1,2,1,Beijing,Wednesday,1,rural,56,1,100,1,married,junior high,0,0,0,47,yes and agree,heard but do not know,never,never,0,0,1,0,0,2080,0,0,beijing,2,0
+1082,5,4,4,Beijing,Tuesday,1,city,92,3,56,1,married,junior high,1,0,0,65,no,never,never,never,0,0,1,0,2,780,0,0,beijing,3,0
+2399,4,4,4,Guangdong,Sunday,0,county seat,48,4,95,1,married,junior high,1,0,0,41,no,never,never,never,3,3,1,1,0,2232,1,5,zhongshan,2,0
+2952,6,4,5,Zhejiang,Monday,1,rural,73,3,198,0,unmarried,associate,1,0,0,22,yes but disagree,never,heard but do not know,heard but do not know,16,0,0,0,7,1407,1,0,taizhou,3,0
+1222,7,7,4,Beijing,Thursday,1,county seat,18,2,40,1,unmarried,junior high,0,0,0,56,no,never,never,never,0,1,1,1,0,2600,0,1,beijing,3,0
+1066,2,2,2,Beijing,Tuesday,1,city,78,3,38,0,married,senior high,0,1,0,62,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,14,1956,0,0,beijing,2,0
+101,1,1,2,Guangdong,Friday,1,city,55,3,50,0,married,bachelor,1,1,0,26,yes but disagree,familiar,heard but do not know,heard but do not know,0,0,1,0,8,1176,0,0,guangzhou,4,1
+1035,4,4,2,Beijing,Tuesday,1,city,74,5,53,1,married,associate,0,0,0,51,no,never,never,never,4,4,1,1,2,1800,1,3,beijing,6,0
+1144,6,6,5,Hebei,Wednesday,0,rural,90,3,158,0,married,primary,0,1,0,68,no,never,never,never,0,2,1,1,0,2182,0,4,shijiazhuang,0,0
+593,7,4,1,Beijing,Thursday,0,rural,123,3,56,0,married,bachelor,0,0,0,30,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,10,2400,0,1,beijing,6,1
+122,1,1,1,Guangdong,Saturday,1,city,49,3,53,1,married,bachelor,1,1,0,26,yes but disagree,heard and know,heard and know,heard and know,0,0,1,0,6,857,0,0,guangzhou,2,0
+943,4,7,4,Hebei,Monday,1,city,60,3,65,1,married,associate,0,0,0,32,yes and agree,heard and know,never,never,0,0,1,0,2,1714,0,0,chengde,1,1
+1128,6,6,6,Hebei,Wednesday,1,rural,83,4,100,1,widowed,junior high,0,1,0,62,yes and agree,never,never,never,0,4,0,1,0,1650,0,2,shijiazhuang,0,0
+929,1,1,1,Beijing,Sunday,0,city,16,1,42,0,divorced,senior high,0,0,0,58,no,never,never,never,0,0,1,0,0,1200,0,0,beijing,0,0
+600,7,7,7,Hebei,Friday,0,county seat,144,4,68,0,married,junior high,1,0,0,44,yes and agree,heard but do not know,heard but do not know,never,3,0,1,0,2,4800,1,0,chengde,2,0
+922,4,4,5,Beijing,Sunday,1,city,65,4,40,1,married,senior high,1,0,0,53,no,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,10,2860,0,0,beijing,6,1
+816,1,1,1,Beijing,Sunday,1,rural,17,4,89,1,married,senior high,1,1,0,36,yes and agree,heard but do not know,never,never,0,3,1,1,2,1625,0,3,beijing,3,1
+131,5,3,4,Hebei,Saturday,1,county seat,62,2,85,0,unmarried,junior high,0,1,0,34,yes and agree,heard but do not know,never,never,0,0,1,0,0,1500,0,0,chengde,2,0
+3339,4,2,4,Guangdong,Friday,1,county seat,57,2,90,1,married,associate,1,0,0,29,yes and agree,heard but do not know,never,heard but do not know,6,5,1,1,0,4725,1,5,zhongshan,4,1
+1158,5,6,4,Beijing,Wednesday,1,county seat,58,3,80,1,married,associate,1,0,0,42,yes but disagree,heard but do not know,heard but do not know,heard but do not know,0,3,1,1,12,2276,0,2,beijing,2,0
+941,7,7,7,Hebei,Monday,1,city,65,4,57,1,married,senior high,0,1,0,62,no,heard and know,never,never,0,1,1,1,0,720,0,6,shijiazhuang,0,0
+994,2,7,1,Beijing,Tuesday,1,city,64,3,40,0,married,associate,1,0,0,49,yes and agree,heard and know,never,never,10,0,1,0,0,2058,1,0,beijing,2,1
+1454,7,7,4,Hebei,Saturday,1,rural,59,4,150,1,married,associate,1,0,0,30,no,heard but do not know,never,never,5,3,1,1,0,1400,1,5,shijiazhuang,3,0
+1352,4,4,4,Guangdong,Friday,1,county seat,43,5,75,1,married,associate,1,0,0,32,yes but disagree,never,never,never,5,3,1,1,0,3000,1,4,zhongshan,2,0
+1083,1,2,2,Beijing,Tuesday,1,rural,85,4,40,0,married,senior high,0,0,1,59,no,heard but do not know,never,never,0,0,1,0,0,4400,0,0,beijing,2,0
+3241,7,5,3,Guangdong,Thursday,1,county seat,59,6,79,1,married,junior high,1,0,0,29,yes and agree,never,never,never,4,5,1,1,0,3105,1,5,zhongshan,4,1
+3094,7,7,4,Guangdong,Wednesday,0,county seat,91,5,100,1,married,bachelor,0,0,0,50,yes and agree,heard and know,never,never,1,6,1,1,10,3385,1,4,guangzhou,5,0
+885,4,5,5,Hebei,Sunday,0,city,37,5,70,1,married,senior high,1,1,0,63,yes and agree,heard but do not know,heard but do not know,heard but do not know,7,0,1,0,3,2200,1,0,shijiazhuang,4,0
+1115,7,7,4,Beijing,Wednesday,0,city,134,4,40,1,married,associate,1,0,0,33,no,heard and know,never,never,6,0,1,0,2,2818,1,0,beijing,4,1
+1839,1,1,1,Guangdong,Tuesday,0,county seat,20,1,50,0,married,senior high,1,0,0,37,yes but disagree,heard but do not know,never,never,0,3,1,1,0,347,0,2,zhongshan,5,0
+2505,7,7,1,Zhejiang,Tuesday,0,county seat,87,5,120,1,married,primary,1,1,0,56,yes but disagree,never,never,never,6,3,1,1,0,3600,1,3,hangzhou,2,1
+2162,7,7,7,Hebei,Thursday,0,city,82,3,68,1,married,associate,1,0,0,33,yes but disagree,heard but do not know,never,never,0,0,1,0,10,1972,0,0,chengde,1,0
+2398,7,7,7,Guangdong,Sunday,1,county seat,52,2,45,1,married,bachelor,1,0,0,33,no,heard but do not know,never,never,0,5,1,1,14,675,0,5,guangzhou,4,0
+193,3,4,3,Hebei,Sunday,1,city,26,3,106,0,unmarried,junior high,1,0,0,22,yes and agree,heard and know,heard but do not know,never,0,0,1,0,20,3015,0,0,chengde,4,1
+162,7,7,1,Hebei,Saturday,1,city,225,5,70,1,married,senior high,1,1,0,60,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,0,1400,0,1,shijiazhuang,6,0
+1220,1,5,1,Zhejiang,Thursday,0,rural,92,4,160,1,married,associate,1,1,0,43,yes and agree,heard and know,heard but do not know,never,11,4,1,1,0,6480,1,4,hangzhou,2,0
+1204,7,5,6,Zhejiang,Thursday,0,rural,73,4,150,1,married,primary,1,1,0,61,no,never,never,never,5,3,1,1,0,4267,1,4,hangzhou,2,1
+3321,7,7,2,Guangdong,Thursday,1,county seat,75,4,72,0,married,bachelor,1,1,0,33,yes and agree,heard and know,heard but do not know,heard but do not know,6,1,1,1,4,1625,1,4,guangzhou,4,1
+2312,5,3,4,Guangdong,Saturday,1,city,51,1,87,0,unmarried,senior high,1,1,0,18,yes and agree,heard and know,never,never,0,3,1,1,2,1143,0,6,guangzhou,4,1
+2645,4,4,4,Guangdong,Wednesday,1,city,53,4,40,1,unmarried,bachelor,0,1,0,28,yes and agree,heard and know,heard and know,heard and know,0,7,1,1,10,758,0,4,guangzhou,4,1
+1408,5,5,3,Beijing,Saturday,1,city,60,3,30,1,married,associate,1,0,0,45,yes but disagree,heard but do not know,never,never,0,4,1,1,4,1200,0,2,beijing,4,0
+3116,3,7,1,Guangdong,Thursday,1,county seat,113,4,101,0,unmarried,associate,0,1,0,25,yes and agree,heard and know,heard and know,heard but do not know,10,4,1,1,12,4826,1,4,guangzhou,3,1
+1113,7,6,6,Guangdong,Wednesday,1,city,69,2,50,0,married,senior high,0,1,0,60,yes but disagree,heard and know,heard but do not know,heard but do not know,0,7,1,1,3,3520,0,3,guangzhou,2,0
+3126,7,7,7,Guangdong,Wednesday,1,county seat,83,5,80,1,married,bachelor,0,0,0,32,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,5,1,1,20,10202,0,5,guangzhou,6,1
+2461,6,7,5,Hebei,Monday,1,city,48,4,76,1,married,associate,1,1,0,31,yes and agree,heard but do not know,never,never,4,7,1,1,2,1615,1,3,shijiazhuang,2,1
+1135,7,7,7,Hebei,Wednesday,1,rural,84,3,150,1,married,primary,0,1,0,73,no,never,never,never,0,3,1,1,0,150,0,4,shijiazhuang,0,0
+1324,3,4,2,Guangdong,Friday,1,rural,38,3,160,1,unmarried,associate,0,0,0,22,yes and agree,heard and know,never,never,0,0,1,0,2,4838,0,0,guangzhou,3,0
+3114,7,5,2,Guangdong,Wednesday,1,city,80,4,79,1,unmarried,bachelor,0,0,0,29,yes and agree,heard but do not know,never,never,0,2,0,1,10,2370,0,3,guangzhou,3,1
+198,6,7,4,Zhejiang,Sunday,0,city,73,4,50,1,married,senior high,1,0,0,38,yes and agree,never,never,heard but do not know,8,3,1,1,6,1250,1,5,hangzhou,3,1
+3163,6,6,6,Guangdong,Wednesday,0,county seat,82,4,146,1,unmarried,bachelor,0,1,0,33,yes but disagree,heard but do not know,heard and know,heard and know,0,4,1,1,0,1846,0,4,guangzhou,0,0
+1438,4,2,2,Hebei,Saturday,1,rural,66,3,350,1,married,junior high,1,0,0,34,yes but disagree,heard but do not know,never,never,3,4,1,1,6,1650,1,3,shijiazhuang,4,1
+2631,7,7,2,Guangdong,Wednesday,0,city,45,5,80,1,married,associate,1,1,0,39,yes and agree,heard and know,heard but do not know,heard but do not know,0,4,1,1,2,4430,1,4,guangzhou,2,1
+913,1,1,1,Beijing,Sunday,1,rural,19,1,113,1,married,primary,0,0,0,55,yes and agree,heard and know,never,never,0,4,1,1,0,1320,0,3,beijing,0,1
+143,6,6,4,Zhejiang,Saturday,1,city,100,1,76,0,married,bachelor,1,0,0,38,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,2,1,1,0,1796,0,4,hangzhou,2,1
+1610,4,4,4,Hebei,Sunday,1,county seat,64,5,110,0,married,senior high,1,0,1,36,yes and agree,heard but do not know,heard but do not know,never,5,2,1,1,0,2708,1,3,shijiazhuang,3,0
+609,4,5,4,Hebei,Friday,1,rural,118,2,93,1,married,junior high,0,0,0,53,yes and agree,heard but do not know,never,never,0,0,1,0,0,3058,0,0,chengde,4,1
+2620,7,7,1,Guangdong,Wednesday,0,city,45,2,53,1,married,bachelor,1,0,0,36,yes and agree,heard but do not know,never,never,0,7,1,1,4,4167,0,6,guangzhou,4,1
+1321,4,7,4,Beijing,Friday,1,city,25,4,82,0,married,bachelor,1,0,0,31,yes and agree,heard and know,heard but do not know,heard but do not know,4,0,1,0,10,671,1,0,beijing,6,1
+3091,4,4,4,Guangdong,Wednesday,1,rural,78,4,95,0,unmarried,senior high,0,0,0,22,yes and agree,heard and know,heard and know,never,0,7,1,1,12,1421,0,3,guangzhou,3,1
+1859,6,6,6,Guangdong,Tuesday,0,city,19,2,45,1,married,associate,0,0,0,31,no,never,never,never,3,5,1,1,0,1667,1,5,zhongshan,2,0
+1131,5,5,5,Guangdong,Monday,0,county seat,54,5,85,0,married,associate,1,0,0,33,yes and agree,heard but do not know,heard but do not know,never,5,3,1,1,0,2000,1,5,zhongshan,2,0
+2208,2,2,1,Guangdong,Thursday,1,county seat,68,4,40,1,unmarried,bachelor,0,0,0,31,yes but disagree,never,never,never,0,3,1,1,10,2321,0,2,guangzhou,5,0
+2469,4,7,7,Guangdong,Monday,0,county seat,52,2,56,0,married,associate,1,0,1,39,yes and agree,heard and know,heard and know,heard and know,0,7,1,1,10,2347,0,2,guangzhou,2,0
+3348,7,7,7,Guangdong,Friday,1,rural,86,4,40,0,divorced,senior high,1,1,0,20,yes and agree,heard and know,heard and know,heard and know,0,0,1,0,0,1359,0,0,zhongshan,0,1
+1139,4,4,4,Guangdong,Monday,0,rural,54,6,130,0,married,senior high,1,1,0,42,yes and agree,never,heard but do not know,never,5,5,1,1,0,11111,1,4,zhongshan,4,1
+1819,2,4,5,Zhejiang,Tuesday,1,city,125,3,115,1,unmarried,bachelor,0,0,0,21,yes and agree,heard and know,heard but do not know,heard but do not know,4,4,1,1,8,1500,1,5,hangzhou,5,1
+1269,2,2,1,Beijing,Thursday,1,rural,20,6,180,0,unmarried,junior high,1,1,0,14,yes and agree,never,never,never,0,3,1,1,14,2100,0,3,beijing,4,1
+2995,4,4,4,Guangdong,Tuesday,1,city,53,6,80,1,married,senior high,1,0,0,39,yes and agree,heard but do not know,never,never,5,5,1,1,0,1560,1,4,zhongshan,3,1
+2335,7,7,7,Hebei,Saturday,1,city,42,1,50,0,unmarried,senior high,0,0,0,31,yes and agree,never,never,never,0,0,1,0,0,2200,0,0,shijiazhuang,0,1
+3131,7,7,7,Guangdong,Wednesday,1,city,92,3,95,1,unmarried,bachelor,1,1,0,30,yes and agree,heard but do not know,heard but do not know,heard but do not know,1,6,1,1,5,893,1,2,zhongshan,3,1
+1161,4,4,2,Hebei,Wednesday,0,rural,117,3,130,0,married,junior high,1,0,0,38,no,never,never,never,2,3,1,1,4,2625,1,3,shijiazhuang,3,1
+1135,5,5,7,Guangdong,Monday,0,rural,54,5,130,0,married,associate,1,0,0,35,yes and agree,heard and know,never,never,6,4,1,1,0,4667,1,4,zhongshan,4,1
+1229,2,2,3,Zhejiang,Thursday,0,rural,105,4,100,0,married,senior high,1,0,0,41,yes but disagree,heard but do not know,never,never,4,2,1,1,0,2133,1,2,hangzhou,2,1
+2662,4,1,1,Guangdong,Wednesday,0,city,54,3,30,0,unmarried,bachelor,0,0,0,22,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,0,358,0,0,guangzhou,0,0
+803,1,4,1,Beijing,Sunday,1,county seat,16,6,51,1,married,junior high,1,0,0,42,no,heard but do not know,never,never,5,4,1,1,6,2800,1,3,beijing,3,0
+991,4,2,2,Beijing,Tuesday,1,city,58,1,50,0,married,senior high,0,0,0,58,yes but disagree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,10,4200,0,0,beijing,2,0
+580,1,3,2,Hebei,Thursday,0,county seat,95,5,122,1,married,senior high,1,0,0,40,yes and agree,heard but do not know,never,never,0,2,1,1,2,4100,0,2,chengde,2,1
+1322,1,1,1,Beijing,Friday,1,city,18,4,40,0,divorced,bachelor,0,0,0,56,yes and agree,heard but do not know,heard but do not know,never,0,4,1,1,4,2000,0,3,beijing,6,1
+1924,7,7,5,Beijing,Tuesday,0,city,53,3,53,0,unmarried,associate,0,0,0,43,yes and agree,heard and know,never,never,0,3,1,1,12,600,0,4,beijing,4,0
+1264,2,2,2,Beijing,Thursday,1,rural,20,4,100,0,married,junior high,0,1,0,52,yes and agree,heard but do not know,never,heard but do not know,0,3,1,1,0,2400,0,3,beijing,2,1
+3434,6,2,2,Guangdong,Saturday,1,county seat,64,4,67,0,unmarried,bachelor,1,0,0,33,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,2,1,1,2,1404,0,4,guangzhou,4,1
+1140,4,4,4,Hebei,Monday,1,city,93,2,65,1,widowed,junior high,0,1,0,65,yes and agree,never,never,never,0,0,1,0,0,1400,0,0,chengde,0,1
+2386,4,2,2,Guangdong,Sunday,0,city,46,6,120,0,married,associate,1,0,1,40,yes and agree,heard and know,never,never,6,5,1,1,0,12800,1,3,zhongshan,3,1
+1109,5,5,4,Beijing,Wednesday,1,county seat,65,4,58,1,married,junior high,0,0,0,43,no,heard but do not know,never,heard but do not know,0,3,1,1,2,1418,0,3,beijing,2,0
+1058,2,2,1,Beijing,Tuesday,1,city,82,3,55,1,married,senior high,1,0,0,36,no,heard but do not know,never,never,0,3,1,1,2,715,0,4,beijing,3,0
+3325,5,4,1,Guangdong,Thursday,1,county seat,77,4,95,1,unmarried,bachelor,0,0,0,24,yes and agree,heard but do not know,heard but do not know,heard but do not know,1,3,1,1,15,1768,1,5,guangzhou,5,0
+311,5,2,5,Guangdong,Thursday,1,city,80,6,89,0,married,bachelor,0,0,0,31,yes and agree,heard and know,heard and know,heard and know,0,0,1,0,10,3333,0,0,guangzhou,3,1
+156,6,6,6,Zhejiang,Saturday,0,city,159,1,60,0,married,bachelor,1,1,0,39,yes and agree,heard but do not know,never,never,3,3,1,1,0,2667,1,3,hangzhou,0,1
+1068,7,7,7,Guangdong,Tuesday,1,city,74,4,60,0,married,associate,1,0,0,48,yes but disagree,heard and know,heard but do not know,heard but do not know,0,5,1,1,20,5077,0,5,guangzhou,4,1
+1211,7,7,1,Zhejiang,Thursday,0,rural,73,4,130,1,married,junior high,1,0,0,54,yes but disagree,heard but do not know,never,heard but do not know,8,3,1,1,0,4267,1,1,hangzhou,3,1
+1091,4,4,4,Beijing,Wednesday,1,county seat,53,3,60,1,married,senior high,1,0,0,35,yes and agree,never,heard but do not know,heard but do not know,0,2,1,1,2,2182,0,3,beijing,2,0
+1463,5,5,5,Hebei,Saturday,1,city,58,3,88,0,married,bachelor,1,0,0,47,yes and agree,heard but do not know,heard but do not know,never,2,3,1,1,6,1250,1,2,shijiazhuang,3,1
+2389,6,6,6,Guangdong,Sunday,0,rural,47,4,45,1,married,junior high,1,0,0,40,yes but disagree,heard but do not know,heard but do not know,heard and know,21,7,0,1,0,1200,1,4,zhongshan,4,1
+1118,2,2,1,Beijing,Wednesday,1,rural,56,2,60,1,married,primary,1,0,0,58,no,never,never,never,0,3,1,1,0,1859,0,2,beijing,2,0
+1100,7,7,7,Zhejiang,Wednesday,1,rural,73,5,130,1,married,junior high,1,1,0,58,no,never,never,never,5,3,1,1,1,2400,1,4,hangzhou,3,1
+2259,6,5,6,Guangdong,Friday,1,rural,112,2,130,0,married,senior high,1,1,0,52,yes and agree,heard but do not know,never,heard and know,5,5,1,1,0,4800,1,4,zhongshan,0,1
+541,5,7,7,Hebei,Wednesday,1,county seat,85,6,96,1,married,bachelor,1,0,0,31,yes and agree,heard and know,never,never,3,1,1,1,6,6400,1,1,chengde,2,0
+926,1,7,1,Beijing,Sunday,1,county seat,70,4,127,0,married,associate,1,0,0,39,no,heard but do not know,never,never,5,3,1,1,2,6514,1,3,beijing,1,1
+3112,4,7,1,Guangdong,Wednesday,1,county seat,69,1,59,1,married,associate,1,0,0,47,yes and agree,heard and know,heard but do not know,heard but do not know,0,5,1,1,10,7604,0,4,guangzhou,3,0
+1102,2,4,2,Zhejiang,Wednesday,1,rural,73,1,100,1,married,senior high,0,0,0,46,yes but disagree,heard but do not know,never,never,0,4,1,1,0,300,0,2,hangzhou,0,0
+2499,7,7,1,Zhejiang,Tuesday,0,county seat,67,4,133.4,1,married,bachelor,1,1,1,61,yes and agree,heard and know,never,heard but do not know,0,3,1,1,0,6250,0,4,hangzhou,2,1
+181,5,5,4,Hebei,Sunday,1,rural,22,6,130,0,married,junior high,1,0,0,49,yes and agree,heard but do not know,never,never,2,0,0,0,0,2291,1,0,chengde,0,0
+1956,2,2,2,Zhejiang,Wednesday,1,city,72,4,130,1,married,associate,1,0,0,36,yes and agree,heard but do not know,never,heard but do not know,3,3,1,1,2,5102,1,9,hangzhou,3,0
+810,7,7,7,Hebei,Sunday,1,city,60,4,72,1,married,junior high,0,1,0,55,yes and agree,heard and know,heard and know,heard and know,6,3,1,1,2,1320,1,3,shijiazhuang,6,1
+1168,2,2,2,Beijing,Wednesday,0,city,134,3,38,0,married,bachelor,0,0,0,53,yes but disagree,heard but do not know,heard but do not know,never,0,4,1,1,18,3600,0,4,beijing,5,0
+681,7,7,4,Guangdong,Friday,1,city,55,4,63,1,married,postgraduate,1,1,1,40,yes and agree,heard and know,heard and know,heard but do not know,0,0,1,0,12,2338,0,0,guangzhou,4,1
+2666,1,2,1,Guangdong,Thursday,1,rural,43,2,65,1,unmarried,associate,1,1,0,27,no,never,never,never,0,4,1,1,0,4030,0,5,zhongshan,3,0
+1314,4,4,7,Guangdong,Friday,1,city,31,6,76,0,unmarried,associate,0,1,0,41,yes and agree,heard but do not know,never,heard but do not know,0,7,1,1,30,3712,0,5,guangzhou,4,1
+1210,4,5,5,Beijing,Thursday,1,county seat,19,4,70,1,married,associate,1,0,0,36,no,heard but do not know,never,heard but do not know,0,2,1,1,2,1456,0,3,beijing,2,0
+3088,3,2,4,Guangdong,Wednesday,1,county seat,63,4,40,0,married,bachelor,0,0,0,41,yes and agree,heard and know,heard and know,heard but do not know,0,6,1,1,4,1325,0,5,guangzhou,3,0
+2348,5,7,4,Guangdong,Saturday,0,county seat,51,4,80,1,married,bachelor,0,0,0,32,yes and agree,heard and know,heard but do not know,heard but do not know,0,6,1,1,2,3846,0,4,guangzhou,2,1
+1199,6,6,6,Guangdong,Monday,0,rural,37,4,85,1,divorced,senior high,0,0,0,45,yes but disagree,heard but do not know,never,never,0,3,1,1,20,3769,0,4,guangzhou,3,1
+993,2,2,2,Beijing,Tuesday,1,city,67,3,45,1,married,associate,1,0,0,44,yes and agree,heard and know,heard but do not know,never,5,5,1,1,6,2244,1,2,beijing,6,1
+3338,6,5,5,Guangdong,Friday,1,county seat,48,6,25,0,unmarried,bachelor,0,0,1,31,yes but disagree,heard but do not know,heard but do not know,heard but do not know,0,3,1,1,30,893,0,2,guangzhou,4,1
+1242,4,4,2,Beijing,Thursday,1,city,19,3,43,1,married,senior high,0,0,0,57,yes but disagree,never,never,never,0,4,1,1,4,1250,0,3,beijing,3,0
+1112,6,6,6,Hebei,Wednesday,1,rural,100,4,180,1,married,junior high,0,1,0,36,yes and agree,never,never,never,0,3,1,1,0,3270,0,3,shijiazhuang,3,0
+1180,1,1,1,Beijing,Wednesday,1,rural,124,3,100,1,married,junior high,0,0,0,56,yes and agree,familiar,never,never,0,2,1,1,0,1067,0,2,beijing,2,0
+2361,5,4,1,Guangdong,Saturday,1,county seat,52,4,66,1,unmarried,senior high,1,0,0,19,yes and agree,heard and know,heard and know,heard but do not know,0,6,1,1,12,6933,0,3,guangzhou,4,0
+695,7,5,4,Zhejiang,Friday,0,city,142,5,115,0,married,bachelor,0,1,1,27,yes and agree,heard and know,heard but do not know,heard but do not know,2,7,1,1,6,3180,1,3,hangzhou,2,1
+1593,7,7,1,Beijing,Saturday,1,rural,37,5,120,1,married,primary,0,1,0,65,yes and agree,heard but do not know,never,never,0,0,1,0,2,2667,0,0,beijing,3,0
+3134,2,7,4,Guangdong,Wednesday,1,city,97,3,119,1,married,senior high,1,0,0,39,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,5,1,1,0,3750,0,3,zhongshan,3,1
+1515,4,3,6,Hebei,Saturday,1,city,42,4,57,1,married,bachelor,1,0,0,43,yes and agree,heard but do not know,never,never,0,0,1,0,14,1467,0,0,chengde,1,0
+1682,2,2,2,Guangdong,Sunday,0,city,62,3,100,0,married,associate,1,0,0,35,yes and agree,heard and know,never,never,5,4,1,1,0,1333,1,4,zhongshan,0,1
+1002,7,7,5,Hebei,Tuesday,1,rural,75,3,85,1,married,junior high,1,0,0,47,yes but disagree,never,heard but do not know,never,0,0,1,0,2,1625,0,0,chengde,4,0
+154,2,2,2,Hebei,Saturday,1,city,110,3,75,0,married,junior high,1,1,0,61,yes and agree,never,never,never,0,4,1,1,0,2300,0,2,shijiazhuang,3,1
+850,7,4,3,Hebei,Sunday,1,city,21,4,116,0,married,junior high,1,0,0,32,yes and agree,never,never,never,0,3,1,1,30,3263,0,2,chengde,3,1
+1612,7,5,4,Guangdong,Sunday,0,city,51,3,100,1,married,associate,1,0,0,32,yes and agree,heard but do not know,never,heard but do not know,6,5,1,1,0,2077,1,4,zhongshan,2,1
+1501,4,4,4,Beijing,Saturday,1,city,37,4,50,1,married,senior high,0,1,0,56,yes and agree,heard but do not know,never,never,0,4,1,1,4,2000,0,3,beijing,3,0
+2313,7,7,7,Hebei,Saturday,1,city,42,2,50,1,unmarried,senior high,0,0,0,29,yes and agree,never,never,never,2,0,1,0,0,1977,1,0,shijiazhuang,0,1
+2632,7,7,2,Guangdong,Wednesday,1,city,52,3,76,0,unmarried,associate,0,1,1,35,yes and agree,heard but do not know,heard but do not know,never,0,6,1,1,10,1316,0,5,zhongshan,3,0
+1141,6,4,4,Guangdong,Monday,0,city,53,4,145,0,married,bachelor,1,0,0,36,yes but disagree,heard but do not know,never,heard but do not know,0,0,1,0,0,601,0,0,guangzhou,3,1
+2403,2,2,1,Guangdong,Sunday,0,county seat,12,4,61,1,married,senior high,0,0,0,50,no,heard but do not know,never,never,0,7,1,1,16,4125,0,3,guangzhou,4,0
+111,7,7,7,Beijing,Thursday,1,city,61,5,66,1,married,bachelor,1,0,1,40,yes and agree,heard and know,heard but do not know,heard and know,0,3,1,1,10,1000,0,2,beijing,3,1
+1146,6,4,6,Guangdong,Wednesday,0,county seat,58,4,55,1,married,associate,0,1,0,26,yes and agree,heard and know,never,never,5,1,1,1,0,1111,1,1,zhongshan,3,0
+1691,1,3,1,Guangdong,Sunday,0,city,62,3,75,0,married,senior high,0,0,0,41,yes and agree,never,never,never,6,3,1,1,0,985,1,4,zhongshan,3,1
+1116,4,3,2,Guangdong,Monday,0,city,45,2,60,1,married,bachelor,0,0,0,36,no,heard but do not know,never,never,0,0,1,0,0,1690,0,0,zhongshan,4,1
+190,5,6,3,Hebei,Sunday,1,city,58,4,70,1,unmarried,bachelor,0,0,0,24,yes and agree,heard and know,never,never,0,3,1,1,0,1650,0,3,shijiazhuang,3,1
+1231,3,3,1,Beijing,Thursday,1,city,19,4,52,0,married,senior high,1,1,0,60,no,never,never,never,5,4,1,1,10,2400,1,3,beijing,3,0
+3151,7,7,7,Guangdong,Wednesday,1,rural,83,4,56,1,married,associate,0,0,0,46,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,5,1,1,12,2618,0,4,guangzhou,3,0
+1515,4,5,5,Guangdong,Saturday,1,county seat,64,4,100,1,unmarried,bachelor,0,0,0,25,yes but disagree,heard but do not know,never,never,0,4,1,1,14,3016,0,4,zhongshan,3,1
+1199,2,2,2,Beijing,Thursday,1,city,134,3,62,0,married,senior high,1,1,0,64,no,heard but do not know,never,never,0,3,1,1,14,3000,0,3,beijing,5,0
+1364,1,1,1,Guangdong,Friday,1,county seat,43,3,106,1,married,senior high,1,0,0,38,yes but disagree,heard but do not know,heard but do not know,heard but do not know,3,4,1,1,0,4305,1,5,zhongshan,2,1
+1106,4,4,4,Beijing,Wednesday,0,city,89,5,50,0,married,associate,0,0,1,59,yes and agree,never,never,never,0,0,1,0,2,4180,0,0,beijing,3,1
+3124,6,6,6,Guangdong,Wednesday,0,rural,88,5,55,1,married,bachelor,0,0,0,34,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,3,1,1,14,691,0,2,guangzhou,3,1
+383,4,5,2,Zhejiang,Thursday,1,city,77,5,160,1,married,postgraduate,1,1,1,41,yes and agree,familiar,heard and know,familiar,2,0,1,0,1,200,1,0,taizhou,4,1
+2361,6,6,6,Guangdong,Saturday,0,rural,59,5,109,0,married,associate,1,0,0,39,yes and agree,heard but do not know,heard but do not know,heard but do not know,2,7,1,1,0,2167,1,4,zhongshan,4,1
+1235,7,7,1,Zhejiang,Thursday,0,rural,105,1,160,1,married,junior high,0,0,0,50,yes and agree,never,never,never,5,3,1,1,0,2167,1,4,hangzhou,0,1
+3048,4,2,4,Guangdong,Wednesday,1,city,56,4,280,1,unmarried,junior high,0,1,0,31,yes and agree,heard but do not know,heard but do not know,heard but do not know,2,3,1,1,5,1440,1,4,zhongshan,3,1
+2082,4,4,4,Guangdong,Wednesday,1,city,53,5,75,1,married,associate,1,0,0,42,no,heard but do not know,heard but do not know,heard but do not know,1,4,1,1,15,2244,1,5,guangzhou,5,0
+1136,4,4,2,Hebei,Wednesday,1,rural,74,3,100,1,married,primary,0,1,0,61,yes and agree,heard and know,heard but do not know,never,0,3,1,1,6,1875,0,3,shijiazhuang,3,1
+2401,6,6,6,Guangdong,Sunday,0,rural,45,5,120,0,married,senior high,1,0,0,34,yes and agree,heard but do not know,heard but do not know,heard but do not know,1,7,1,1,0,1781,1,3,zhongshan,3,0
+833,4,2,1,Zhejiang,Sunday,0,city,53,3,89,0,married,associate,1,0,0,37,yes and agree,heard and know,never,never,2,3,1,1,0,2182,1,5,hangzhou,6,1
+1628,7,5,5,Zhejiang,Sunday,1,city,63,6,160,1,married,associate,1,0,0,45,yes and agree,familiar,familiar,familiar,5,5,1,1,8,540,1,6,taizhou,3,1
+820,2,2,1,Beijing,Sunday,1,county seat,35,2,50,0,married,junior high,1,0,0,51,yes but disagree,never,never,never,6,4,1,1,2,2200,1,2,beijing,3,1
+1894,7,7,3,Hebei,Tuesday,1,county seat,77,4,130,1,married,associate,0,0,0,24,no,never,never,never,2,0,1,0,2,1231,1,0,shijiazhuang,3,0
+1633,4,4,4,Hebei,Sunday,1,county seat,73,4,120,0,married,senior high,1,0,0,39,yes and agree,heard but do not know,never,never,0,3,1,1,0,2300,0,2,shijiazhuang,3,0
+2638,5,5,5,Guangdong,Wednesday,1,rural,52,5,160,0,married,bachelor,1,0,0,50,yes and agree,heard but do not know,heard but do not know,heard but do not know,5,7,1,1,0,368,1,4,zhongshan,4,1
+1911,7,7,5,Zhejiang,Wednesday,1,city,113,4,82,1,married,associate,0,1,0,58,yes and agree,heard but do not know,never,never,6,4,1,1,20,2477,1,4,hangzhou,3,1
+2588,2,2,2,Guangdong,Wednesday,1,city,50,5,58,1,married,junior high,0,1,0,66,yes and agree,never,never,never,0,2,1,1,2,3518,0,2,guangzhou,3,0
+1119,6,4,2,Beijing,Wednesday,0,city,139,5,50,1,married,junior high,0,1,0,44,no,never,never,never,0,3,1,1,10,3000,0,4,beijing,4,0
+1014,5,5,4,Beijing,Tuesday,1,county seat,64,3,80,1,married,bachelor,1,1,0,37,yes and agree,heard but do not know,never,never,0,1,1,1,2,1071,0,1,beijing,5,0
+1243,6,5,5,Beijing,Thursday,1,county seat,20,4,80,1,married,senior high,1,0,0,42,yes and agree,heard but do not know,never,heard but do not know,0,0,1,0,0,2182,0,0,beijing,2,0
+989,1,1,1,Beijing,Monday,1,rural,55,2,105,0,married,junior high,0,0,0,58,no,never,never,never,0,4,0,1,0,2420,0,3,beijing,2,1
+541,4,4,4,Hebei,Thursday,0,rural,90,2,85,1,married,primary,1,1,0,45,yes and agree,heard but do not know,never,never,0,0,1,0,0,2885,0,0,chengde,3,1
+1268,6,6,6,Guangdong,Thursday,0,city,61,2,48,1,married,senior high,0,0,0,56,yes but disagree,heard but do not know,heard but do not know,never,0,7,1,1,3,3086,0,4,guangzhou,2,1
+3013,7,7,7,Guangdong,Wednesday,1,city,104,3,150,1,unmarried,associate,0,1,1,26,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,6,1758,0,0,zhongshan,2,1
+3323,4,2,3,Guangdong,Thursday,1,county seat,82,5,78,0,unmarried,bachelor,0,0,0,21,yes and agree,heard and know,heard but do not know,heard but do not know,11,4,1,1,4,1071,1,5,guangzhou,5,1
+2504,4,5,4,Zhejiang,Tuesday,0,county seat,87,5,150,0,married,associate,1,1,0,66,yes and agree,heard and know,heard and know,heard and know,6,3,1,1,15,3133,1,4,hangzhou,3,0
+3213,7,7,1,Guangdong,Thursday,1,county seat,60,1,54,0,married,associate,1,1,0,37,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,4,1,1,20,1350,0,4,guangzhou,4,1
+2388,5,5,5,Zhejiang,Sunday,0,county seat,18,4,100,0,unmarried,associate,0,0,0,22,yes and agree,heard but do not know,heard but do not know,heard but do not know,4,2,1,1,1,1750,1,3,taizhou,3,1
+1048,6,6,6,Beijing,Tuesday,1,county seat,50,3,55,1,married,associate,0,0,0,30,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,2,253,0,0,beijing,1,1
+1211,5,4,5,Beijing,Thursday,1,county seat,19,2,50,0,unmarried,bachelor,0,0,0,33,yes but disagree,heard but do not know,heard but do not know,never,0,0,1,0,6,1250,0,0,beijing,3,0
+1629,5,5,5,Guangdong,Sunday,0,city,51,2,80,1,married,associate,0,0,0,31,yes but disagree,never,never,never,0,0,1,0,0,2688,0,0,zhongshan,4,1
+801,7,7,4,Zhejiang,Sunday,0,city,61,4,89,1,married,bachelor,1,1,0,42,yes and agree,heard but do not know,heard but do not know,heard and know,14,4,1,1,2,2885,1,4,hangzhou,5,0
+136,7,7,4,Zhejiang,Saturday,0,city,145,1,50,0,unmarried,postgraduate,0,0,1,31,yes and agree,heard and know,heard and know,never,0,3,1,1,10,2182,0,1,hangzhou,2,1
+1631,6,6,6,Guangdong,Sunday,1,rural,55,4,96,1,married,associate,1,0,0,46,yes and agree,heard but do not know,heard and know,heard but do not know,0,7,1,1,0,756,0,5,zhongshan,3,1
+2563,7,7,7,Guangdong,Wednesday,0,rural,37,1,60,0,unmarried,bachelor,0,0,0,41,yes and agree,heard but do not know,heard but do not know,never,0,5,1,1,16,3018,0,3,guangzhou,4,1
+2550,7,7,4,Jilin,Tuesday,1,city,139,5,56,1,unmarried,associate,0,0,0,24,yes and agree,heard but do not know,never,never,0,0,1,0,0,1421,1,0,changchun,0,1
+2268,7,5,6,Jilin,Friday,1,county seat,26,3,80,0,married,associate,0,0,0,31,yes and agree,heard but do not know,heard but do not know,heard but do not know,13,0,1,0,0,1200,1,0,changchun,0,1
+1511,1,2,5,Shanxi,Saturday,1,county seat,36,1,180,1,married,junior high,1,0,0,50,no,heard but do not know,never,never,0,0,0,0,0,1100,0,0,changzhi,3,1
+3450,1,1,4,Shanxi,Sunday,1,city,144,1,300,1,unmarried,postgraduate,0,0,1,22,no,never,never,never,13,0,1,0,5,4183,1,0,changzhi,3,0
+3408,7,7,7,Jilin,Friday,0,city,144,5,65,0,married,bachelor,1,0,0,32,yes and agree,heard and know,heard but do not know,never,6,1,1,1,1,1875,1,1,changchun,4,1
+2118,1,1,1,Jilin,Thursday,1,city,83,3,109,0,married,senior high,1,0,0,31,no,never,never,never,0,3,1,1,8,1818,0,1,changchun,3,0
+1282,7,6,7,Shanxi,Thursday,1,county seat,50,3,95,1,married,junior high,0,0,0,52,no,heard but do not know,never,never,0,0,1,0,0,188,0,0,changzhi,2,0
+3318,3,3,4,Jilin,Friday,0,county seat,132,5,78,1,unmarried,junior high,1,0,0,29,yes and agree,heard and know,heard but do not know,heard but do not know,8,0,1,0,10,3977,1,0,yanbian,2,1
+2109,6,7,6,Shanxi,Thursday,1,rural,127,3,100,1,unmarried,associate,1,0,0,21,yes and agree,never,never,never,0,0,1,0,0,1760,0,0,changzhi,2,1
+869,7,7,6,Shanxi,Sunday,1,city,50,6,90,1,married,senior high,1,0,0,34,yes but disagree,heard but do not know,heard but do not know,never,2,0,1,0,1,1600,1,0,changzhi,2,1
+2683,4,4,1,Henan,Thursday,1,county seat,61,3,50,1,divorced,senior high,1,0,0,34,yes and agree,heard and know,never,never,0,1,1,1,0,218,0,3,zhengzhou,2,0
+3064,4,4,3,Jilin,Wednesday,1,county seat,41,3,70,0,unmarried,bachelor,0,0,0,26,yes and agree,heard but do not know,never,never,0,0,1,0,6,891,0,0,yanbian,2,1
+2102,1,1,1,Henan,Thursday,1,rural,54,3,130,0,married,junior high,1,0,0,42,no,heard but do not know,never,never,0,2,1,1,0,2765,0,9,zhengzhou,1,1
+2224,4,5,1,Jilin,Friday,1,county seat,29,2,85,1,married,associate,1,0,0,31,no,never,never,never,0,0,1,0,0,1452,0,0,changchun,0,0
+2353,7,7,7,Jilin,Saturday,1,city,24,6,39,1,widowed,associate,0,1,0,67,yes but disagree,never,never,never,0,0,1,0,6,600,0,0,changchun,3,0
+1504,2,2,1,Shanxi,Saturday,1,county seat,44,5,80,1,married,junior high,1,0,0,31,no,never,never,never,0,0,1,0,0,1400,0,0,taiyuan,0,1
+2482,1,1,1,Henan,Monday,1,county seat,43,3,150,1,married,junior high,1,0,0,40,yes and agree,heard but do not know,never,never,4,3,1,1,0,2167,1,3,zhengzhou,1,1
+1944,7,7,4,Jilin,Tuesday,1,city,40,7,189,0,unmarried,associate,0,0,0,22,yes and agree,heard and know,heard and know,heard and know,1,0,1,0,2,3413,1,0,changchun,4,1
+1309,7,7,7,Jilin,Friday,1,county seat,29,3,72,0,married,bachelor,1,0,0,35,yes and agree,heard but do not know,heard but do not know,never,4,0,1,0,5,1371,1,0,changchun,3,1
+2306,2,2,2,Jilin,Saturday,1,county seat,33,3,65,0,married,associate,1,0,0,30,yes and agree,heard but do not know,never,never,0,0,1,0,10,2200,0,0,changchun,2,1
+1441,7,7,6,Shanxi,Saturday,1,county seat,38,3,200,0,married,junior high,1,0,0,54,yes but disagree,never,never,never,0,0,1,0,2,1707,0,0,changzhi,2,0
+1632,4,3,4,Shanxi,Sunday,1,county seat,109,5,86,1,married,associate,1,0,0,47,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,4,1400,0,0,taiyuan,5,1
+3415,4,2,1,Jilin,Saturday,1,county seat,78,3,72,0,married,associate,0,0,0,33,yes and agree,heard but do not know,never,never,6,0,1,0,10,1850,1,0,changchun,2,0
+2119,4,4,2,Shanxi,Thursday,1,city,122,3,110,1,married,associate,1,1,0,35,yes and agree,heard but do not know,never,never,1,0,1,0,6,3600,1,0,changzhi,2,1
+1654,7,4,5,Jilin,Sunday,1,rural,31,2,50,1,married,junior high,0,0,0,51,no,never,never,never,0,0,1,0,5,1100,0,0,changchun,3,0
+2282,4,7,2,Jilin,Saturday,1,county seat,35,3,7,1,married,bachelor,1,1,0,38,yes and agree,heard but do not know,heard but do not know,never,2,0,1,0,5,3200,1,0,changchun,2,1
+2483,1,1,2,Jilin,Monday,1,county seat,44,3,79,0,married,associate,1,0,0,28,yes but disagree,heard and know,heard but do not know,never,0,0,1,0,10,1800,0,0,changchun,3,1
+811,2,2,2,Shanxi,Sunday,1,rural,40,4,95,1,married,bachelor,0,0,0,31,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,10,1929,0,0,taiyuan,3,1
+2405,4,7,6,Jilin,Sunday,1,rural,23,4,100,1,married,junior high,0,0,0,55,yes but disagree,never,never,never,0,0,0,0,6,1333,0,0,yanbian,3,1
+154,4,4,4,Henan,Thursday,1,city,80,6,280,1,married,bachelor,1,0,1,36,yes and agree,heard and know,heard and know,heard but do not know,7,4,1,1,5,960,1,2,zhengzhou,3,1
+1062,7,7,7,Shanxi,Tuesday,1,city,107,5,60,0,married,associate,0,0,1,47,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,26,1200,0,0,taiyuan,4,1
+2011,7,6,6,Shanxi,Wednesday,1,city,88,3,85,1,unmarried,associate,1,1,0,18,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,4,1,1,4,60000,0,4,taiyuan,6,1
+1681,7,7,7,Shanxi,Sunday,0,rural,57,3,100,1,married,junior high,1,0,0,37,no,heard but do not know,never,never,0,0,1,0,0,878,0,0,changzhi,2,0
+119,2,5,3,Shanxi,Saturday,1,city,38,6,80,0,unmarried,associate,0,0,0,25,no,heard but do not know,heard but do not know,never,0,0,1,0,1,1400,0,0,taiyuan,2,1
+2565,5,1,1,Henan,Wednesday,1,rural,66,1,200,0,married,primary,1,0,0,57,no,never,never,never,0,0,1,0,0,334,0,0,zhengzhou,1,0
+2435,4,3,4,Jilin,Monday,0,city,65,4,55,0,unmarried,uneducated,0,0,1,21,yes and agree,never,heard but do not know,heard but do not know,3,0,0,0,0,520,1,0,changchun,0,1
+2016,1,2,2,Henan,Wednesday,1,city,93,3,126,0,unmarried,bachelor,0,0,0,21,yes but disagree,heard and know,heard and know,heard and know,0,3,1,1,4,1125,0,3,zhengzhou,4,1
+1216,6,7,6,Shanxi,Thursday,1,county seat,50,3,90,1,married,associate,1,0,0,28,yes and agree,never,never,never,0,0,1,0,0,583,0,0,changzhi,0,0
+3046,5,4,4,Jilin,Wednesday,1,city,56,4,120,1,unmarried,bachelor,0,0,0,25,yes and agree,familiar,heard and know,heard but do not know,0,0,1,0,10,864,0,0,yanbian,4,1
+881,5,1,4,Shanxi,Sunday,1,rural,46,3,86,1,married,junior high,0,0,0,48,yes but disagree,never,never,never,0,0,1,0,0,1400,0,0,taiyuan,4,1
+2130,1,1,1,Henan,Thursday,0,county seat,115,1,80,1,married,junior high,1,0,0,39,no,never,never,never,2,2,1,1,0,658,1,3,zhengzhou,2,0
+1685,4,1,1,Shanxi,Sunday,1,rural,76,2,200,0,married,junior high,0,1,0,58,yes but disagree,never,never,never,0,0,1,0,0,2000,0,0,taiyuan,6,0
+814,4,1,1,Shanxi,Sunday,1,rural,43,3,185,0,married,senior high,0,0,0,51,yes and agree,never,never,never,0,0,1,0,0,1400,0,0,taiyuan,4,1
+1110,7,7,7,Jilin,Monday,1,city,52,5,65,1,married,senior high,0,0,0,52,no,never,never,never,0,0,1,0,6,933,0,0,changchun,3,0
+3368,7,7,7,Shanxi,Friday,1,county seat,65,3,178,0,married,junior high,1,0,0,50,no,never,never,never,0,0,1,0,2,4000,0,0,changzhi,5,0
+1919,7,7,7,Henan,Wednesday,1,rural,149,4,80,0,married,associate,1,0,0,36,yes and agree,heard but do not know,never,never,0,7,1,1,10,1167,0,5,zhengzhou,3,0
+909,7,2,1,Shanxi,Sunday,1,city,53,3,103,0,married,senior high,1,0,0,38,yes and agree,heard and know,heard but do not know,heard but do not know,8,0,1,0,1,2400,1,0,changzhi,3,0
+2019,6,1,1,Henan,Wednesday,1,city,89,4,70,1,unmarried,bachelor,0,1,0,25,yes but disagree,heard but do not know,heard and know,heard but do not know,0,5,1,1,4,1100,0,4,zhengzhou,4,1
+1016,6,4,2,Shanxi,Tuesday,1,city,69,3,90,1,married,primary,0,1,0,56,no,never,never,heard but do not know,0,0,1,0,2,1200,0,0,taiyuan,2,1
+141,2,2,1,Henan,Thursday,1,city,81,6,128,1,married,bachelor,1,0,1,31,yes and agree,familiar,familiar,familiar,3,0,1,0,2,2160,1,0,zhengzhou,3,1
+2541,6,6,6,Henan,Tuesday,1,rural,58,2,120,1,married,junior high,0,1,0,63,no,never,never,never,0,4,1,1,0,188,0,4,luoyang,1,0
+1001,4,5,2,Shanxi,Tuesday,1,city,90,3,70,1,married,senior high,0,0,0,50,no,never,never,never,0,0,1,0,3,2000,0,0,changzhi,3,0
+140,6,2,1,Shanxi,Saturday,1,county seat,105,3,60,1,married,primary,0,1,0,66,no,heard but do not know,never,never,0,0,1,0,2,800,0,0,taiyuan,3,0
+1669,1,7,1,Jilin,Sunday,1,rural,26,2,63,0,married,junior high,1,1,0,30,yes and agree,heard but do not know,never,heard but do not know,0,0,1,0,3,2200,0,0,changchun,2,0
+1149,7,7,7,Shanxi,Wednesday,1,city,83,3,80,1,married,bachelor,1,0,0,37,yes and agree,heard but do not know,never,never,0,0,1,0,0,1167,0,0,taiyuan,2,0
+2811,4,4,4,Henan,Saturday,1,rural,79,4,280,0,married,junior high,1,0,0,43,yes and agree,heard and know,heard but do not know,never,0,3,1,1,0,1911,0,5,zhengzhou,3,1
+921,4,4,2,Shanxi,Sunday,1,city,53,2,100,1,married,senior high,1,0,0,34,yes but disagree,heard but do not know,heard but do not know,never,6,0,1,0,6,1400,1,0,changzhi,3,0
+1940,1,1,1,Jilin,Tuesday,1,county seat,41,1,60,1,married,senior high,0,0,0,27,yes but disagree,heard but do not know,never,never,0,0,1,0,2,1400,0,0,changchun,2,0
+1560,7,7,6,Shanxi,Saturday,1,county seat,41,1,48,1,widowed,senior high,1,1,0,64,yes and agree,never,never,heard but do not know,0,0,0,0,0,1969,0,0,changzhi,2,1
+2201,7,7,7,Jilin,Thursday,1,city,65,4,59.89,1,unmarried,associate,0,0,0,18,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,2,900,0,1,changchun,2,0
+1194,5,5,5,Shanxi,Wednesday,1,city,149,3,64,1,married,bachelor,1,0,0,50,yes and agree,heard but do not know,heard but do not know,heard but do not know,3,0,1,0,12,2200,1,0,taiyuan,2,0
+1506,2,2,1,Shanxi,Saturday,1,county seat,44,4,67,1,married,senior high,1,0,0,35,yes and agree,never,never,never,0,0,1,0,8,1600,0,0,taiyuan,4,0
+911,7,4,4,Shanxi,Monday,1,city,78,5,66,1,married,associate,1,0,0,32,no,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,2,1650,0,0,taiyuan,2,0
+1668,5,5,2,Shanxi,Sunday,1,rural,89,2,100,1,married,junior high,0,0,0,57,no,never,never,never,0,0,1,0,4,1400,0,0,taiyuan,5,1
+2261,1,1,1,Jilin,Friday,1,city,22,6,48,0,married,senior high,0,0,0,52,yes and agree,never,never,never,0,0,1,0,4,1864,0,0,changchun,3,0
+2223,7,7,7,Shanxi,Friday,0,rural,41,4,100,1,married,senior high,1,0,0,41,yes and agree,heard but do not know,heard but do not know,heard but do not know,5,0,1,0,0,2182,1,0,changzhi,3,1
+1114,5,6,5,Henan,Monday,1,city,56,2,60,1,unmarried,associate,1,0,0,20,yes and agree,heard and know,never,never,0,3,1,1,0,2400,0,8,zhengzhou,2,1
+2991,7,7,3,Jilin,Tuesday,1,city,67,3,40,1,married,primary,0,1,0,48,yes and agree,heard but do not know,never,never,0,0,1,0,0,1100,0,0,jilin,1,1
+2188,7,7,2,Henan,Thursday,0,city,158,4,70,1,married,bachelor,1,0,0,28,yes and agree,never,never,never,2,3,1,1,6,952,1,3,zhengzhou,3,1
+1164,6,6,6,Shanxi,Wednesday,1,city,88,5,70,1,married,associate,0,1,0,61,no,heard but do not know,never,never,0,2,1,1,0,258,0,1,taiyuan,3,0
+895,5,1,1,Shanxi,Sunday,1,rural,46,2,100,1,married,senior high,0,0,0,58,yes but disagree,heard but do not know,never,never,6,0,1,0,2,1600,1,0,taiyuan,3,1
+2609,7,7,1,Jilin,Wednesday,1,city,54,2,81,0,unmarried,associate,0,0,0,26,yes but disagree,familiar,heard and know,heard and know,0,0,1,0,10,2018,0,0,changchun,3,0
+2485,4,4,6,Jilin,Monday,1,rural,30,3,54,1,widowed,junior high,0,1,0,64,yes and agree,never,never,never,0,0,0,0,2,900,0,0,yanbian,4,0
+1155,4,4,3,Jilin,Monday,1,city,44,5,40,1,married,senior high,0,1,0,70,no,never,never,never,0,0,1,0,4,1467,0,0,changchun,3,0
+921,2,2,1,Jilin,Sunday,1,city,105,5,45,0,married,junior high,0,0,0,52,no,never,never,never,0,0,1,0,12,1200,0,0,changchun,6,0
+2096,2,2,2,Henan,Thursday,0,rural,102,4,240,1,married,senior high,1,1,0,38,yes and agree,heard but do not know,heard but do not know,never,11,2,1,1,0,4680,1,6,zhengzhou,3,1
+3335,7,4,3,Jilin,Thursday,1,city,80,4,60,1,married,junior high,1,0,0,38,yes and agree,heard but do not know,never,never,0,0,1,0,0,1250,0,0,siping,0,0
+1950,5,5,5,Jilin,Wednesday,1,city,46,5,50,1,widowed,primary,0,1,0,70,yes but disagree,never,never,never,0,0,1,0,12,1714,0,0,changchun,3,0
+3390,7,7,5,Jilin,Saturday,0,county seat,181,3,88,1,married,associate,0,0,0,31,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,10,1400,0,0,changchun,3,1
+2521,7,2,1,Jilin,Tuesday,1,county seat,68,2,80,0,married,senior high,0,0,0,31,yes but disagree,never,never,never,5,0,1,0,2,2700,1,0,changchun,1,1
+2423,1,1,1,Jilin,Sunday,1,rural,54,3,65,0,married,associate,0,0,0,38,yes and agree,never,never,never,0,0,1,0,0,2200,0,0,changchun,0,0
+2308,4,5,5,Jilin,Saturday,1,city,38,6,75,0,unmarried,bachelor,0,0,0,19,yes and agree,heard and know,never,heard but do not know,0,0,1,0,10,890,0,0,changchun,3,1
+141,4,4,4,Henan,Thursday,1,city,80,4,75,1,married,bachelor,1,0,0,45,yes and agree,heard and know,heard but do not know,heard but do not know,7,3,1,1,5,563,1,1,zhengzhou,3,1
+1911,7,5,1,Henan,Wednesday,1,city,122,3,168,0,unmarried,bachelor,0,0,0,32,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,7,1,1,10,2640,0,2,zhengzhou,3,1
+2490,1,1,1,Henan,Monday,1,county seat,54,1,90,1,married,senior high,1,0,0,40,yes and agree,heard and know,heard but do not know,heard but do not know,11,0,1,0,0,1760,1,0,zhengzhou,1,1
+3438,5,5,5,Shanxi,Saturday,1,city,158,3,120,0,unmarried,bachelor,1,0,0,19,yes and agree,heard but do not know,never,never,5,0,1,0,5,1125,1,0,changzhi,2,1
+1641,7,7,6,Shanxi,Sunday,0,rural,88,3,200,1,unmarried,associate,0,0,0,22,yes and agree,heard but do not know,heard but do not know,heard but do not know,6,0,1,0,0,750,1,0,changzhi,1,0
+1304,4,5,3,Henan,Thursday,1,city,56,4,80,0,unmarried,associate,1,1,0,23,yes and agree,heard and know,heard and know,heard but do not know,0,2,1,1,2,1755,0,1,zhengzhou,4,1
+1110,2,7,7,Shanxi,Wednesday,1,city,130,4,130,1,married,bachelor,0,0,0,32,yes and agree,heard but do not know,heard but do not know,heard but do not know,5,1,1,1,0,4200,1,3,taiyuan,0,1
+3238,3,7,3,Jilin,Thursday,1,city,156,3,65,0,unmarried,junior high,0,0,0,24,yes and agree,heard but do not know,never,never,0,0,1,0,0,1786,0,0,siping,1,1
+3435,7,6,1,Shanxi,Saturday,1,city,148,3,140,1,married,postgraduate,0,0,1,29,yes and agree,heard but do not know,never,never,4,0,1,0,5,1429,1,0,changzhi,5,0
+1111,4,2,2,Shanxi,Wednesday,0,city,165,2,100,1,married,junior high,0,0,0,56,yes and agree,heard but do not know,never,never,0,0,1,0,10,1400,0,0,taiyuan,3,1
+3448,7,7,7,Shanxi,Sunday,1,county seat,119,1,88,1,married,junior high,1,0,0,39,yes and agree,heard but do not know,never,heard but do not know,0,0,1,0,2,1836,0,0,changzhi,5,0
+2052,2,1,2,Henan,Wednesday,1,city,124,3,80,0,unmarried,bachelor,0,0,0,21,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,2,1,1,5,625,0,1,zhengzhou,3,1
+1611,7,7,6,Shanxi,Sunday,0,rural,57,3,90,1,married,junior high,1,0,0,40,yes and agree,heard but do not know,never,never,0,0,1,0,0,1071,0,0,changzhi,2,1
+2356,1,5,4,Henan,Saturday,0,county seat,35,1,130,1,unmarried,associate,0,0,0,28,yes and agree,heard but do not know,never,never,0,3,1,1,6,1798,0,3,zhengzhou,2,1
+1665,7,7,6,Shanxi,Sunday,1,rural,76,3,200,1,married,junior high,0,0,0,56,no,never,never,never,0,0,1,0,0,667,0,0,changzhi,2,0
+3446,2,2,2,Jilin,Sunday,1,city,102,5,45,1,married,junior high,0,1,0,71,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,4,1839,0,0,changchun,3,0
+3404,6,5,5,Jilin,Friday,0,city,198,4,60,1,married,senior high,0,0,0,58,yes and agree,never,never,never,0,1,1,1,2,2125,0,1,changchun,4,0
+2131,2,2,4,Jilin,Thursday,1,city,84,5,25,0,unmarried,junior high,0,0,0,46,no,never,never,never,1,0,1,0,0,1080,1,0,changchun,2,0
+2260,2,2,1,Henan,Friday,0,city,45,5,68,1,married,associate,1,0,0,34,yes but disagree,heard and know,never,never,5,3,1,1,2,2727,1,6,zhengzhou,6,1
+2443,1,1,3,Shanxi,Monday,1,city,45,4,120,0,married,postgraduate,0,0,1,28,yes and agree,heard but do not know,never,heard but do not know,6,0,1,0,5,2708,1,0,changzhi,5,0
+1460,6,5,4,Shanxi,Saturday,1,county seat,62,4,34,1,married,junior high,1,0,0,39,no,heard and know,never,heard but do not know,0,0,1,0,0,1167,0,0,taiyuan,0,1
+2129,7,5,2,Henan,Thursday,1,county seat,117,5,140,1,married,senior high,1,1,1,59,no,heard but do not know,never,never,0,3,1,1,2,2182,0,3,luoyang,3,0
+1143,5,3,2,Jilin,Wednesday,1,city,57,5,40,0,married,junior high,0,0,0,48,yes and agree,heard but do not know,never,never,3,0,1,0,2,1371,1,0,changchun,3,0
+1213,5,3,3,Shanxi,Thursday,0,city,59,5,66,1,married,bachelor,1,0,0,35,yes but disagree,heard but do not know,heard but do not know,never,0,0,1,0,6,960,0,0,taiyuan,3,0
+1618,5,4,4,Jilin,Saturday,1,rural,60,2,70,1,married,primary,0,1,0,77,no,never,never,never,0,0,1,0,0,800,0,0,changchun,0,0
+2168,5,3,5,Henan,Thursday,0,city,98,6,60,1,married,junior high,0,1,0,49,yes and agree,heard but do not know,never,never,0,2,1,1,1,2321,0,3,zhengzhou,3,1
+2518,6,1,1,Henan,Wednesday,1,rural,70,1,120,0,married,junior high,1,0,0,41,no,never,never,never,0,0,1,0,0,256,0,0,zhengzhou,3,1
+161,6,4,1,Shanxi,Saturday,1,county seat,89,4,180,1,married,primary,0,0,0,50,no,never,never,never,5,0,1,0,0,2200,1,0,taiyuan,3,0
+1090,1,1,1,Shanxi,Tuesday,1,city,41,2,106,1,married,associate,0,0,0,33,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,10,2400,0,0,taiyuan,2,1
+942,4,4,1,Shanxi,Monday,1,city,67,3,96,1,married,associate,0,0,1,52,yes and agree,heard but do not know,heard but do not know,heard but do not know,5,2,1,1,1,2400,1,1,changzhi,2,1
+2605,1,1,1,Henan,Wednesday,1,rural,60,4,130,1,married,junior high,1,0,0,57,no,never,never,never,0,0,1,0,0,339,0,0,zhengzhou,0,0
+3006,4,3,4,Jilin,Tuesday,1,county seat,35,5,87,1,married,junior high,1,0,0,44,yes and agree,heard but do not know,heard but do not know,heard but do not know,7,0,1,0,4,2182,1,0,yanbian,3,1
+2548,2,4,3,Jilin,Tuesday,0,city,194,4,80,1,unmarried,associate,0,0,0,27,yes and agree,heard but do not know,heard but do not know,never,6,0,1,0,10,2750,1,0,yanbian,3,1
+1191,2,2,2,Jilin,Monday,1,county seat,52,1,100,0,married,junior high,1,0,0,31,no,heard but do not know,never,never,3,0,0,0,0,1309,1,0,changchun,0,0
+1600,1,1,7,Jilin,Saturday,1,rural,50,4,58,0,married,senior high,1,0,0,28,yes but disagree,never,never,never,0,0,1,0,0,1400,0,0,changchun,0,0
+2215,4,2,2,Shanxi,Friday,0,city,33,2,60,1,married,senior high,0,0,0,44,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,2,1073,0,0,changzhi,3,0
+2301,7,7,7,Shanxi,Saturday,1,city,32,4,30,1,unmarried,bachelor,0,0,0,25,yes and agree,heard and know,heard and know,heard but do not know,1,0,1,0,6,1600,1,0,taiyuan,1,1
+1516,4,3,2,Jilin,Saturday,1,rural,33,3,68,1,married,junior high,1,0,0,29,no,never,never,never,0,0,1,0,2,2000,0,0,changchun,2,0
+1691,4,4,3,Shanxi,Sunday,1,rural,87,3,100,1,married,junior high,0,0,0,54,no,heard but do not know,never,never,0,0,1,0,2,1111,0,0,taiyuan,6,0
+128,5,6,6,Shanxi,Saturday,1,county seat,78,5,83,0,unmarried,associate,0,0,0,25,yes but disagree,heard and know,heard but do not know,heard and know,3,0,1,0,2,1000,1,0,taiyuan,2,1
+3382,7,7,4,Jilin,Friday,1,city,95,4,90,0,unmarried,junior high,1,0,0,24,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,0,1588,0,0,siping,2,1
+2366,4,2,1,Shanxi,Saturday,0,rural,62,1,100,0,unmarried,junior high,1,0,0,22,yes and agree,heard and know,heard but do not know,never,3,0,1,0,0,3733,1,0,changzhi,0,0
+1590,7,7,1,Shanxi,Saturday,1,county seat,36,6,75,1,married,associate,0,0,0,29,yes and agree,familiar,never,heard but do not know,0,0,1,0,0,1875,0,0,taiyuan,0,0
+2119,6,6,7,Shanxi,Thursday,0,rural,76,4,95,1,married,associate,0,0,0,53,yes but disagree,heard but do not know,never,never,0,0,1,0,0,875,0,0,changzhi,2,1
+1103,2,4,7,Jilin,Sunday,1,rural,102,2,85,0,married,associate,1,1,1,31,yes but disagree,heard but do not know,heard but do not know,heard but do not know,6,0,1,0,0,1600,1,0,changchun,0,0
+2868,4,4,3,Henan,Saturday,1,county seat,98,3,170,1,married,senior high,1,0,0,40,yes but disagree,heard but do not know,never,never,0,4,1,1,0,2857,0,3,luoyang,2,1
+2003,1,1,1,Henan,Wednesday,1,county seat,130,1,80,1,married,junior high,1,0,0,38,no,heard but do not know,never,never,0,0,1,0,0,3176,0,0,zhengzhou,3,0
+2332,1,1,1,Henan,Saturday,0,county seat,25,1,100,0,married,senior high,1,0,0,35,yes and agree,heard but do not know,heard but do not know,never,0,3,1,1,0,3469,0,2,zhengzhou,2,1
+911,4,2,2,Shanxi,Sunday,1,rural,60,5,80,0,unmarried,associate,1,1,0,20,yes and agree,heard and know,heard but do not know,heard but do not know,2,5,0,1,0,800,1,4,taiyuan,0,0
+3393,4,5,7,Jilin,Saturday,0,county seat,181,3,110,0,unmarried,senior high,0,0,0,34,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,8,2000,0,0,changchun,2,1
+2299,5,5,2,Jilin,Saturday,1,rural,37,5,58,1,married,junior high,0,0,0,56,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,8,1800,0,0,yanbian,2,1
+3311,2,2,2,Jilin,Friday,1,county seat,75,3,60,1,divorced,junior high,1,0,0,51,no,never,never,never,0,0,1,0,1,1620,0,0,changchun,6,0
+1390,1,1,1,Shanxi,Friday,1,county seat,34,3,80,0,married,junior high,1,0,0,38,yes and agree,never,never,never,0,0,1,0,0,1143,0,0,changzhi,4,0
+1914,7,7,7,Henan,Wednesday,0,city,160,3,54,1,unmarried,senior high,1,0,0,17,yes and agree,heard but do not know,never,never,0,1,1,1,6,500,0,1,zhengzhou,4,0
+2220,6,5,1,Jilin,Friday,1,county seat,29,1,70,1,married,senior high,1,0,0,28,yes but disagree,heard but do not know,never,never,0,0,1,0,6,2727,0,0,changchun,2,1
+1985,7,7,1,Jilin,Wednesday,1,county seat,68,3,71,0,married,associate,1,0,0,34,yes and agree,heard but do not know,heard but do not know,never,6,0,1,0,0,3000,1,0,jilin,0,0
+1498,2,2,2,Shanxi,Saturday,1,county seat,44,5,69,1,married,junior high,1,0,0,31,no,heard but do not know,never,heard but do not know,0,0,1,0,12,2600,0,0,taiyuan,3,0
+2395,3,1,1,Henan,Sunday,1,county seat,55,3,128,0,married,senior high,1,0,0,41,yes but disagree,never,never,never,10,0,1,0,0,2310,1,0,zhengzhou,2,0
+1580,1,7,7,Jilin,Saturday,1,rural,33,3,50,0,unmarried,senior high,0,0,0,22,no,never,never,never,0,0,1,0,1,1200,0,0,changchun,1,0
+1969,2,2,2,Jilin,Wednesday,1,county seat,59,1,80,1,married,junior high,1,0,0,49,no,heard but do not know,never,never,0,0,1,0,2,1517,0,0,changchun,3,0
+2452,4,2,1,Henan,Monday,1,rural,56,3,120,0,married,senior high,1,0,0,59,yes and agree,heard and know,heard but do not know,never,0,3,1,1,6,6333,0,2,zhengzhou,3,1
+923,2,1,1,Shanxi,Sunday,1,rural,72,2,95,0,unmarried,senior high,0,0,0,21,yes and agree,heard but do not know,never,never,8,0,1,0,0,1400,1,0,taiyuan,0,1
+2263,7,7,7,Shanxi,Friday,0,city,38,4,100,1,unmarried,bachelor,0,0,1,21,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,6,1320,0,0,changzhi,2,1
+2311,4,4,4,Henan,Saturday,0,city,23,5,40,1,married,junior high,1,0,0,35,yes but disagree,heard but do not know,never,heard but do not know,2,3,1,1,1,1875,1,4,zhengzhou,3,1
+3396,7,6,7,Jilin,Saturday,0,county seat,188,3,83,0,married,bachelor,1,0,0,32,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,10,2474,0,0,changchun,3,1
+1941,7,6,7,Shanxi,Tuesday,1,rural,66,1,80.9,1,divorced,junior high,1,0,0,46,yes and agree,never,never,never,0,0,1,0,2,1650,0,0,changzhi,2,1
+911,4,1,1,Shanxi,Sunday,1,rural,60,2,92,1,widowed,primary,0,1,0,81,no,never,never,never,0,0,1,0,0,1000,0,0,taiyuan,0,1
+3441,2,2,2,Jilin,Sunday,1,city,108,6,69,1,married,junior high,0,0,0,53,no,heard but do not know,never,never,0,0,1,0,20,1000,0,0,changchun,2,0
+3261,4,4,4,Jilin,Thursday,1,county seat,82,3,85,1,married,bachelor,1,0,1,38,no,never,never,never,0,0,1,0,8,893,0,0,siping,3,1
+148,4,1,1,Shanxi,Saturday,1,county seat,153,5,100,0,married,junior high,0,0,0,47,yes but disagree,never,never,never,6,0,1,0,1,1200,1,0,taiyuan,3,1
+3423,6,7,7,Shanxi,Saturday,1,county seat,155,3,130,0,married,junior high,1,0,0,31,no,heard but do not know,never,never,3,0,1,0,0,1500,1,0,changzhi,2,0
+3362,7,7,7,Shanxi,Friday,1,rural,208,1,180,1,married,junior high,0,0,0,61,yes and agree,never,never,never,0,0,1,0,0,2000,0,0,changzhi,2,1
+1494,7,7,4,Shanxi,Saturday,1,county seat,42,5,75,1,married,associate,0,0,0,25,yes but disagree,heard but do not know,heard but do not know,never,5,0,1,0,0,1750,1,0,taiyuan,0,0
+2418,7,7,7,Henan,Sunday,1,city,35,5,90,1,married,bachelor,1,0,0,42,yes and agree,heard and know,never,heard but do not know,0,3,1,1,6,1440,1,3,zhengzhou,3,1
+2210,7,7,7,Jilin,Friday,1,county seat,31,3,55,0,unmarried,associate,0,1,0,33,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,7,732,0,0,changchun,2,0
+2612,7,7,7,Henan,Thursday,1,county seat,59,6,88,0,married,junior high,1,0,0,39,yes and agree,heard but do not know,heard but do not know,never,1,3,1,1,4,839,1,7,zhengzhou,3,1
+2415,1,1,1,Henan,Sunday,1,county seat,48,1,130,1,married,senior high,1,0,0,38,yes but disagree,heard but do not know,never,never,0,0,1,0,6,3000,0,0,zhengzhou,1,1
+2169,7,7,7,Shanxi,Thursday,1,rural,155,3,100,1,married,junior high,1,0,0,38,yes and agree,never,heard but do not know,never,0,0,1,0,0,857,0,0,changzhi,2,1
+2931,5,6,5,Jilin,Monday,1,rural,110,6,84,1,married,junior high,0,1,0,47,yes and agree,heard and know,heard but do not know,heard but do not know,3,0,1,0,4,2640,1,0,yanbian,3,1
+901,2,1,1,Shanxi,Sunday,1,rural,52,2,90,0,married,senior high,0,1,1,62,yes and agree,heard but do not know,never,never,0,0,1,0,5,1400,0,0,taiyuan,3,1
+2391,3,3,3,Jilin,Sunday,1,city,55,6,38,0,married,bachelor,0,0,0,34,yes and agree,never,never,never,5,2,1,1,6,840,1,3,changchun,5,1
+2624,5,3,3,Jilin,Wednesday,1,rural,92,5,90,1,married,associate,1,0,0,43,yes but disagree,heard but do not know,heard but do not know,never,6,3,1,1,8,1018,1,1,changchun,4,0
+1391,7,7,1,Shanxi,Friday,1,county seat,34,4,78,1,married,senior high,1,0,0,35,yes and agree,never,never,never,0,0,1,0,2,509,0,0,changzhi,2,1
+105,4,7,2,Shanxi,Friday,0,city,139,5,90,1,married,senior high,1,0,0,35,yes and agree,heard and know,heard but do not know,never,5,0,1,0,20,4000,1,0,taiyuan,3,1
+140,7,7,7,Jilin,Thursday,0,city,108,5,82,1,divorced,bachelor,0,0,0,51,yes and agree,familiar,heard but do not know,never,1,0,1,0,10,1080,1,0,changchun,3,1
+196,4,2,1,Shanxi,Sunday,1,rural,30,2,90,1,married,junior high,0,0,0,56,yes and agree,never,never,never,0,0,1,0,0,1400,0,0,taiyuan,0,0
+2601,7,4,4,Jilin,Wednesday,1,rural,60,5,80,0,married,senior high,0,1,0,65,yes and agree,heard but do not know,never,never,0,0,1,0,4,427,0,0,changchun,3,0
+1238,7,7,7,Shanxi,Thursday,0,city,56,4,48,1,married,junior high,0,0,0,36,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,0,2000,0,1,taiyuan,4,0
+3311,6,6,2,Jilin,Friday,1,county seat,75,3,75,0,married,junior high,1,0,0,36,yes and agree,never,never,never,0,0,1,0,6,1776,0,0,changchun,2,0
+1411,5,7,7,Shanxi,Saturday,0,county seat,38,3,100,1,married,primary,1,1,0,53,yes and agree,never,never,never,0,0,1,0,0,429,0,0,changzhi,2,0
+2212,4,5,4,Henan,Friday,1,city,32,4,72,0,married,associate,1,0,0,49,yes and agree,heard but do not know,heard but do not know,heard but do not know,2,3,1,1,0,1750,1,4,zhengzhou,3,1
+2011,7,7,7,Henan,Wednesday,1,city,100,2,18,0,married,bachelor,0,0,0,25,yes and agree,familiar,heard and know,heard and know,3,2,1,1,12,1440,1,4,zhengzhou,6,1
+2315,1,1,1,Jilin,Saturday,1,rural,46,4,80,1,married,uneducated,0,1,0,59,no,never,never,never,0,2,1,1,0,2400,0,3,changchun,0,0
+2250,5,6,4,Henan,Friday,0,county seat,54,5,125,1,married,senior high,1,1,0,43,yes and agree,heard but do not know,heard but do not know,never,4,0,1,0,0,4267,1,0,zhengzhou,2,1
+2352,7,7,7,Shanxi,Saturday,0,city,73,3,77,0,unmarried,senior high,0,0,0,32,yes and agree,heard but do not know,heard but do not know,never,2,0,1,0,0,1300,1,0,changzhi,0,1
+2145,1,1,1,Henan,Thursday,0,city,114,4,120,0,married,associate,1,0,0,31,yes and agree,heard and know,heard but do not know,heard but do not know,0,2,1,1,10,732,0,4,zhengzhou,4,0
+1614,6,6,5,Shanxi,Sunday,1,rural,89,2,140,1,married,junior high,0,1,0,60,no,never,never,never,0,0,1,0,0,1400,0,0,taiyuan,2,0
+2542,7,7,7,Jilin,Tuesday,0,county seat,70,3,60,0,unmarried,senior high,0,0,0,29,no,heard but do not know,never,never,0,0,1,0,10,960,0,0,changchun,2,0
+2661,7,7,7,Henan,Wednesday,1,rural,61,3,120,0,married,associate,1,0,0,25,no,never,never,never,0,0,1,0,2,1235,0,0,zhengzhou,3,1
+2500,5,5,4,Henan,Tuesday,1,county seat,59,3,114,1,married,junior high,1,0,0,32,no,heard and know,never,never,4,3,1,1,0,3571,1,3,zhengzhou,1,1
+1432,7,7,7,Shanxi,Saturday,1,county seat,38,3,100,0,married,junior high,1,1,0,58,yes but disagree,heard but do not know,never,never,0,0,1,0,0,938,0,0,changzhi,2,0
+2462,5,5,5,Henan,Monday,1,city,56,5,100,0,married,associate,0,1,0,28,yes and agree,heard but do not know,heard but do not know,heard but do not know,2,7,1,1,4,3571,1,3,zhengzhou,2,1
+2511,5,6,2,Jilin,Tuesday,1,rural,54,4,68,1,married,junior high,0,0,0,48,no,never,never,never,0,0,1,0,4,3200,0,0,yanbian,3,1
+2255,7,6,6,Jilin,Friday,1,rural,24,3,60,0,married,junior high,0,1,0,67,yes and agree,never,never,never,0,0,0,0,6,1200,0,0,yanbian,3,0
+2412,4,5,4,Henan,Monday,1,rural,55,4,180,1,married,associate,1,0,0,34,yes but disagree,heard but do not know,heard but do not know,never,8,3,1,1,10,2500,1,3,luoyang,3,1
+1410,7,7,7,Shanxi,Saturday,1,county seat,43,1,120,0,married,junior high,1,0,0,54,yes and agree,never,never,never,0,0,1,0,2,1429,0,0,changzhi,3,0
+2011,1,1,1,Henan,Wednesday,1,county seat,153,1,120,1,married,senior high,1,0,0,40,yes and agree,heard but do not know,never,never,6,0,1,0,0,4746,1,0,zhengzhou,2,0
+2281,4,7,1,Jilin,Saturday,1,county seat,33,3,76,0,married,associate,0,0,0,28,no,heard but do not know,never,never,3,0,1,0,10,1385,1,0,changchun,3,0
+1836,7,7,4,Shanxi,Tuesday,1,rural,91,3,100,1,married,bachelor,1,1,0,25,yes and agree,heard but do not know,heard but do not know,never,3,0,1,0,0,948,1,0,changzhi,2,1
+1191,1,1,1,Shanxi,Wednesday,0,city,133,2,90,0,unmarried,bachelor,1,0,0,26,no,never,never,never,2,0,1,0,10,2133,1,0,taiyuan,1,0
+1429,7,7,7,Shanxi,Saturday,1,county seat,45,1,80,1,married,junior high,0,0,0,53,yes and agree,never,never,never,0,0,1,0,0,780,0,0,changzhi,0,1
+2384,6,4,6,Jilin,Sunday,1,rural,60,5,45,1,married,primary,0,0,0,57,no,never,never,never,0,0,1,0,4,563,0,0,yanbian,5,1
+1551,1,3,1,Shanxi,Saturday,1,county seat,41,5,60,1,married,senior high,1,0,0,31,no,never,never,never,4,0,1,0,0,2667,1,0,taiyuan,4,0
+1415,6,6,6,Shanxi,Saturday,1,county seat,86,4,65,1,married,primary,1,1,0,38,no,never,never,never,0,0,1,0,1,667,0,0,taiyuan,3,1
+2454,6,5,7,Jilin,Monday,1,rural,67,5,100,0,married,senior high,0,0,0,62,yes and agree,heard but do not know,never,never,0,0,0,0,4,1091,0,0,yanbian,3,0
+3260,4,4,4,Jilin,Thursday,1,county seat,82,4,98,1,married,associate,1,0,1,33,no,never,never,never,0,0,1,0,5,1059,0,0,siping,2,0
+1890,4,2,3,Shanxi,Tuesday,1,city,64,5,94,1,married,senior high,1,1,0,45,yes and agree,heard but do not know,never,never,9,1,1,1,5,2400,1,1,changzhi,3,0
+2329,2,4,4,Jilin,Saturday,1,city,29,3,55,0,unmarried,bachelor,0,0,0,20,yes and agree,heard but do not know,heard but do not know,never,1,2,1,1,2,6180,1,3,changchun,2,0
+1511,4,4,4,Shanxi,Saturday,1,county seat,36,4,85,1,married,uneducated,0,1,0,66,no,never,never,never,0,0,1,0,0,1000,0,0,taiyuan,0,1
+1440,7,7,7,Shanxi,Saturday,1,county seat,62,6,52,1,married,junior high,1,1,0,36,yes and agree,heard and know,never,heard and know,3,0,1,0,0,900,1,0,taiyuan,3,1
+1918,4,2,2,Jilin,Wednesday,1,city,44,5,47.6,1,widowed,primary,0,1,0,77,no,never,never,never,0,0,1,0,2,1183,0,0,changchun,3,0
+3125,3,4,4,Jilin,Wednesday,1,county seat,135,5,85,0,unmarried,associate,0,0,0,24,yes and agree,heard but do not know,heard but do not know,heard but do not know,4,0,1,0,12,1429,1,0,yanbian,2,1
+2595,1,1,1,Henan,Wednesday,1,rural,61,4,120,0,married,primary,1,0,0,52,yes and agree,never,never,never,0,4,1,1,0,1618,0,6,zhengzhou,3,1
+153,4,4,4,Henan,Thursday,1,city,80,5,75,1,married,associate,1,0,1,32,yes and agree,heard and know,heard but do not know,never,11,4,1,1,5,625,1,2,zhengzhou,3,1
+2029,4,3,4,Henan,Wednesday,1,rural,149,4,40,0,married,junior high,0,0,0,42,yes but disagree,heard but do not know,never,never,6,2,1,1,0,3929,1,3,zhengzhou,4,0
+1684,2,1,1,Shanxi,Sunday,1,rural,86,2,130,1,married,junior high,1,0,0,43,no,never,never,never,0,0,1,0,0,1714,0,0,taiyuan,0,0
+1182,7,7,1,Jilin,Monday,1,city,44,5,54,0,married,postgraduate,0,0,1,48,yes but disagree,heard and know,heard and know,heard and know,6,1,1,1,0,2667,1,3,changchun,0,1
+3398,4,4,3,Jilin,Saturday,0,county seat,102,4,89,1,married,junior high,1,0,0,36,yes and agree,heard but do not know,never,never,7,2,1,1,10,1158,1,2,yanbian,2,1
+2182,6,6,7,Henan,Thursday,0,county seat,172,4,90,1,married,senior high,1,1,0,35,no,never,never,never,0,3,1,1,2,2455,0,3,luoyang,3,0
+914,1,1,1,Shanxi,Sunday,1,rural,60,2,185,1,married,senior high,0,0,0,61,yes but disagree,never,never,never,0,0,1,0,0,1800,0,0,taiyuan,3,1
+3384,5,5,4,Jilin,Friday,1,county seat,98,5,80,0,married,junior high,0,0,0,31,no,never,never,never,0,0,1,0,0,1563,0,0,changchun,2,0
+2544,2,4,4,Jilin,Tuesday,0,county seat,112,3,82,0,unmarried,associate,0,0,0,31,no,heard but do not know,never,never,0,0,1,0,15,800,0,0,changchun,3,0
+2161,1,1,1,Henan,Thursday,0,county seat,134,1,140,1,married,junior high,1,0,0,40,yes but disagree,never,never,never,7,3,1,1,0,3269,1,1,zhengzhou,1,1
+933,4,4,3,Jilin,Monday,1,city,26,5,43,1,married,junior high,0,0,0,53,yes but disagree,heard but do not know,never,never,0,0,1,0,2,583,0,0,changchun,3,1
+3315,7,7,7,Jilin,Friday,1,county seat,75,4,78,1,married,associate,1,1,0,26,yes and agree,heard but do not know,never,never,5,0,1,0,0,1527,1,0,changchun,1,0
+3218,1,3,4,Jilin,Thursday,1,county seat,37,5,95,0,married,associate,1,0,0,29,yes and agree,never,never,never,2,0,1,0,6,2160,1,0,yanbian,2,1
+2302,5,4,5,Jilin,Saturday,1,city,54,4,110,0,unmarried,bachelor,0,1,0,19,yes and agree,heard and know,heard but do not know,heard and know,2,0,1,0,2,1776,1,0,changchun,3,1
+2205,7,7,7,Shanxi,Thursday,1,city,83,3,50,1,married,senior high,1,0,0,43,yes and agree,heard and know,heard but do not know,heard but do not know,10,1,1,1,10,2600,1,1,taiyuan,6,1
+2569,7,7,7,Jilin,Wednesday,1,county seat,115,3,76,1,married,associate,1,0,0,40,no,never,never,never,6,0,1,0,6,1818,1,0,changchun,2,0
+1988,4,4,2,Shanxi,Wednesday,1,city,69,3,90,1,married,junior high,0,0,0,47,yes but disagree,heard but do not know,never,never,8,0,1,0,1,2708,1,0,changzhi,2,0
+2814,4,2,2,Henan,Saturday,1,rural,71,3,150,1,married,junior high,1,0,0,38,yes but disagree,never,never,never,11,0,1,0,0,4398,1,0,zhengzhou,3,1
+1699,5,5,4,Shanxi,Sunday,1,rural,81,3,160,1,married,junior high,0,0,0,48,yes and agree,heard but do not know,never,never,0,0,1,0,0,1340,0,0,taiyuan,3,0
+2481,2,2,3,Jilin,Monday,1,city,41,5,69,1,married,senior high,1,0,0,44,yes but disagree,heard but do not know,never,heard but do not know,0,0,1,0,0,2572,0,0,changchun,2,0
+1832,7,7,6,Shanxi,Tuesday,1,rural,87,3,87,1,married,associate,0,0,0,52,yes and agree,never,heard but do not know,heard but do not know,0,0,1,0,0,445,0,0,changzhi,2,0
+2493,4,5,5,Shanxi,Monday,1,city,70,3,200,1,married,postgraduate,0,0,0,27,yes and agree,never,never,never,7,0,1,0,5,1560,1,0,changzhi,3,0
+1081,4,4,2,Shanxi,Tuesday,0,city,69,5,105,1,married,bachelor,1,1,0,35,yes but disagree,heard but do not know,never,never,0,0,1,0,2,3200,0,0,taiyuan,4,1
+1561,7,7,7,Shanxi,Saturday,1,county seat,32,3,100,0,unmarried,senior high,1,1,0,20,yes and agree,never,never,never,6,0,1,0,0,1200,1,0,changzhi,0,0
+2128,3,4,3,Jilin,Thursday,1,city,73,6,50,1,married,junior high,0,1,0,63,no,never,never,never,0,0,1,0,2,1440,0,0,changchun,3,0
+1514,7,7,7,Shanxi,Saturday,1,county seat,36,1,25,1,married,junior high,1,0,0,55,no,heard and know,never,never,0,0,0,0,0,1320,0,0,changzhi,4,0
+1696,4,3,4,Shanxi,Sunday,1,rural,80,1,120,1,married,junior high,1,0,0,41,no,never,never,never,0,0,1,0,0,1400,0,0,taiyuan,2,0
+1256,5,5,4,Jilin,Thursday,0,city,39,3,66,1,married,senior high,0,1,0,57,yes and agree,never,never,heard but do not know,0,0,1,0,14,1091,0,0,jilin,2,0
+3419,7,7,7,Jilin,Saturday,1,county seat,78,3,70,0,married,primary,0,1,0,34,no,heard but do not know,never,never,0,0,1,0,15,600,0,0,changchun,3,0
+2320,7,7,6,Jilin,Saturday,1,rural,25,4,155,0,unmarried,bachelor,0,0,0,19,yes and agree,heard but do not know,heard but do not know,heard and know,10,0,1,0,0,1961,1,0,changchun,0,1
+3050,7,7,7,Shanxi,Wednesday,0,rural,130,3,100,1,married,junior high,0,0,0,38,yes and agree,heard but do not know,never,never,2,0,1,0,0,2180,1,0,changzhi,0,1
+981,2,3,3,Shanxi,Monday,1,city,77,4,65,1,unmarried,associate,0,1,0,35,yes but disagree,heard but do not know,never,never,0,0,1,0,2,800,0,0,taiyuan,1,0
+1420,7,2,2,Shanxi,Saturday,1,county seat,86,3,57.75,1,married,uneducated,0,1,0,62,no,never,never,never,0,0,1,0,5,1000,0,0,taiyuan,1,0
+3453,1,1,1,Shanxi,Sunday,1,city,156,2,97,0,married,bachelor,0,0,0,30,yes and agree,heard and know,heard but do not know,heard but do not know,11,0,1,0,2,2160,1,0,changzhi,4,0
+2559,4,5,5,Jilin,Wednesday,1,rural,92,4,40,0,married,primary,0,0,0,57,no,never,never,never,0,0,1,0,4,909,0,0,yanbian,3,1
+3445,7,7,7,Shanxi,Sunday,1,county seat,119,1,80,0,married,junior high,1,1,0,63,no,never,never,never,0,0,1,0,2,3390,0,0,changzhi,2,1
+3293,7,7,2,Jilin,Thursday,1,city,43,2,60,1,married,associate,1,0,0,31,yes and agree,heard and know,heard but do not know,never,0,0,1,0,0,3000,0,0,siping,0,0
+1518,1,7,1,Shanxi,Saturday,1,county seat,36,3,80,0,married,senior high,1,0,0,28,no,never,never,never,6,0,1,0,0,1333,1,0,changzhi,0,0
+2491,1,4,1,Shanxi,Tuesday,1,city,71,4,135,1,married,bachelor,1,0,0,38,yes and agree,never,never,never,5,0,1,0,5,1508,1,0,changzhi,3,1
+2232,2,3,1,Henan,Friday,0,county seat,53,7,130,1,married,junior high,0,0,0,53,yes and agree,heard but do not know,never,never,10,1,1,1,0,1167,1,1,zhengzhou,3,1
+2015,2,1,1,Henan,Wednesday,1,city,94,4,125,1,unmarried,bachelor,1,0,0,23,yes and agree,heard and know,never,never,1,3,1,1,5,1257,1,2,zhengzhou,2,1
+1462,7,7,6,Shanxi,Saturday,1,county seat,43,3,75,0,married,senior high,1,1,0,46,yes but disagree,never,never,never,0,0,1,0,0,1440,0,0,changzhi,2,0
+2586,1,1,1,Henan,Wednesday,1,rural,70,4,130,1,married,junior high,1,0,0,47,no,never,never,heard but do not know,0,4,1,1,0,4111,0,5,zhengzhou,2,1
+1250,7,7,7,Shanxi,Thursday,0,city,56,4,64,1,married,junior high,0,1,0,61,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,1,1,1,4,856,0,1,taiyuan,3,0
+2455,2,2,2,Jilin,Monday,1,city,74,5,56,1,married,junior high,0,1,0,64,yes but disagree,heard but do not know,heard but do not know,never,0,0,1,0,2,1200,0,0,changchun,3,1
+2289,5,4,4,Henan,Saturday,0,county seat,25,4,30,1,married,junior high,1,0,0,40,yes and agree,heard but do not know,never,never,0,1,1,1,0,840,0,2,zhengzhou,3,1
+2651,7,7,7,Henan,Wednesday,1,county seat,64,3,111,1,unmarried,associate,0,0,0,21,no,never,never,never,0,0,0,0,2,252,0,0,zhengzhou,1,0
+1186,1,2,2,Shanxi,Wednesday,1,rural,67,3,260,1,unmarried,bachelor,0,0,0,25,yes and agree,heard but do not know,never,never,0,0,1,0,1,1100,0,0,changzhi,6,1
+2413,6,1,1,Henan,Monday,1,county seat,49,4,90,1,married,bachelor,1,1,0,37,yes but disagree,heard but do not know,never,never,5,4,1,1,0,2822,1,9,zhengzhou,1,0
+3403,7,7,4,Jilin,Saturday,0,county seat,212,3,79,1,married,associate,1,0,0,32,no,heard but do not know,heard but do not know,never,0,0,1,0,10,1400,0,0,changchun,2,1
+1533,4,2,2,Shanxi,Saturday,1,county seat,41,5,50,1,married,junior high,1,0,0,38,no,heard but do not know,never,heard but do not know,0,0,1,0,0,1250,0,0,taiyuan,3,1
+2310,5,2,1,Henan,Saturday,0,city,38,3,100,0,unmarried,senior high,1,0,0,19,yes but disagree,heard but do not know,never,heard but do not know,0,0,1,0,2,760,0,0,zhengzhou,3,0
+2811,2,1,1,Henan,Friday,1,county seat,76,4,120,1,married,junior high,1,0,0,42,yes and agree,never,never,never,0,2,1,1,14,4107,0,9,zhengzhou,2,1
+2530,4,3,5,Henan,Tuesday,1,county seat,63,5,120,1,married,senior high,1,0,0,38,yes but disagree,heard but do not know,heard but do not know,never,0,4,1,1,15,3833,0,4,luoyang,2,0
+2582,2,4,2,Jilin,Wednesday,1,rural,90,5,90,1,married,junior high,0,1,0,68,no,never,never,never,0,0,1,0,4,432,0,0,changchun,2,0
+825,2,2,1,Shanxi,Sunday,1,rural,40,3,75,0,married,bachelor,0,0,0,35,yes and agree,heard and know,heard and know,heard but do not know,6,0,1,0,1,1400,1,0,taiyuan,6,1
+2298,6,7,1,Shanxi,Saturday,0,rural,57,3,90,0,married,junior high,1,0,0,28,no,never,never,never,0,0,1,0,0,2391,0,0,changzhi,2,0
+2206,4,7,7,Henan,Thursday,0,city,108,4,89,1,unmarried,bachelor,1,0,0,26,no,never,never,heard but do not know,2,3,1,1,2,2374,1,9,zhengzhou,4,0
+3411,7,7,7,Shanxi,Saturday,1,county seat,143,3,180,1,unmarried,associate,0,0,0,22,yes and agree,never,never,never,0,0,1,0,2,1418,0,0,changzhi,1,1
+349,4,4,4,Henan,Thursday,1,city,80,5,70,0,married,associate,1,0,1,35,yes and agree,heard and know,heard but do not know,never,6,3,1,1,5,563,1,2,zhengzhou,3,1
+1153,4,2,4,Jilin,Monday,1,city,44,5,40,1,married,senior high,0,1,0,70,no,never,never,never,0,0,1,0,4,1467,0,0,changchun,3,0
+2103,4,4,4,Jilin,Thursday,1,rural,73,6,50,1,married,senior high,0,0,0,54,yes but disagree,heard but do not know,heard but do not know,never,0,0,1,0,6,1856,0,0,changchun,3,1
+1120,7,7,7,Shanxi,Wednesday,1,rural,119,3,100,1,divorced,associate,1,0,0,22,yes and agree,heard but do not know,never,heard but do not know,3,0,0,0,0,533,1,0,changzhi,0,1
+2115,4,2,4,Shanxi,Thursday,1,city,122,4,90,1,married,senior high,0,0,0,49,no,never,never,never,3,0,1,0,2,2400,1,0,changzhi,2,1
+2418,7,6,4,Shanxi,Monday,1,city,43,4,95,1,unmarried,bachelor,0,0,0,27,yes and agree,never,never,never,0,0,1,0,40,1440,0,0,changzhi,3,1
+2629,4,2,4,Henan,Wednesday,1,county seat,58,4,50,1,married,junior high,1,0,0,38,yes but disagree,heard but do not know,never,never,0,4,1,1,0,1218,0,5,luoyang,0,0
+3401,7,6,7,Jilin,Saturday,0,county seat,142,3,82,0,married,bachelor,1,0,0,29,yes and agree,heard but do not know,heard but do not know,never,6,0,1,0,6,2018,1,0,changchun,2,1
+3365,7,7,3,Jilin,Friday,1,city,78,3,65,0,married,junior high,1,0,0,34,yes and agree,heard and know,heard but do not know,never,0,0,1,0,0,893,0,0,siping,1,0
+2535,7,4,4,Henan,Tuesday,1,county seat,63,5,120,1,married,associate,1,0,0,36,yes but disagree,heard but do not know,heard but do not know,never,6,4,1,1,6,2625,1,4,luoyang,2,1
+2832,1,1,2,Gansu,Friday,1,county seat,66,4,82,1,married,associate,0,0,0,31,yes and agree,never,heard but do not know,never,0,0,1,0,8,1724,0,0,lanzhou,2,0
+2142,7,7,7,Guizhou,Thursday,0,rural,53,4,203,0,married,associate,1,0,0,35,no,never,never,never,5,0,1,0,15,4036,1,0,guiyang,2,1
+3328,6,5,5,Guangxi,Thursday,0,city,33,4,110,0,unmarried,senior high,0,0,0,33,no,never,never,never,0,0,1,0,0,1875,0,0,guilin,3,0
+2163,7,2,2,Gansu,Thursday,1,rural,114,4,160,1,married,senior high,1,0,0,36,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,8,1393,0,0,lanzhou,3,1
+884,7,7,4,Guizhou,Sunday,0,city,18,5,96,1,married,bachelor,1,0,1,35,yes and agree,familiar,heard but do not know,never,8,0,1,0,2,12800,1,0,anshun,3,1
+2846,1,1,1,Gansu,Friday,1,county seat,95,4,68,1,married,associate,0,0,0,39,yes and agree,heard but do not know,never,never,0,0,1,0,12,1582,0,0,lanzhou,2,0
+2961,2,2,1,Guangxi,Monday,0,county seat,90,4,100,1,married,senior high,1,0,0,35,yes and agree,heard but do not know,heard but do not know,heard but do not know,5,2,1,1,0,5200,1,4,guilin,2,1
+3418,3,3,2,Guangxi,Saturday,0,county seat,52,3,87,0,married,associate,1,0,0,31,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,4,1765,0,0,nanning,3,0
+619,7,7,7,Guizhou,Friday,0,county seat,56,4,96,1,married,associate,0,0,0,25,yes but disagree,heard but do not know,never,never,2,0,1,0,20,1438,1,0,anshun,2,0
+2853,1,1,3,Gansu,Friday,1,county seat,95,4,70,1,unmarried,bachelor,0,0,0,31,yes and agree,never,never,never,0,1,1,1,10,1333,0,1,lanzhou,2,0
+1194,7,7,7,Guizhou,Monday,0,rural,59,4,120,0,unmarried,senior high,1,0,0,25,yes but disagree,never,never,never,3,0,1,0,10,3000,1,0,guiyang,2,1
+2181,1,1,3,Gansu,Thursday,0,county seat,123,4,90,1,married,associate,0,0,0,31,no,never,never,never,0,0,0,0,0,2400,0,0,lanzhou,4,1
+1218,2,2,1,Gansu,Thursday,1,rural,33,4,100,1,married,associate,1,0,0,43,yes but disagree,heard but do not know,never,never,0,0,0,0,0,2000,0,0,baiyin,3,0
+1888,2,2,2,Gansu,Tuesday,1,city,89,3,100,0,unmarried,bachelor,0,1,0,34,no,never,never,never,3,0,1,0,14,960,1,0,lanzhou,3,0
+2680,1,2,2,Gansu,Thursday,1,rural,114,3,170,1,married,senior high,1,0,0,31,yes and agree,never,never,never,0,0,1,0,5,462,0,0,lanzhou,3,1
+1236,1,1,1,Gansu,Thursday,0,rural,35,1,75,0,widowed,uneducated,0,1,0,83,no,never,never,never,0,0,0,0,0,1600,0,0,baiyin,0,0
+3132,6,6,6,Guangxi,Wednesday,0,city,63,4,57,0,divorced,associate,0,0,0,47,yes and agree,heard but do not know,never,never,0,0,1,0,0,1173,0,0,guilin,3,1
+3026,6,7,5,Guangxi,Wednesday,0,city,77,4,95,1,married,bachelor,0,0,0,39,yes and agree,heard but do not know,never,never,0,4,1,1,10,2407,0,4,guilin,4,1
+2831,7,7,7,Gansu,Friday,0,rural,42,3,140,0,married,junior high,1,0,0,47,yes but disagree,never,never,never,0,0,1,0,10,2209,0,0,baiyin,4,0
+2154,1,1,1,Guizhou,Thursday,0,rural,57,3,213,0,unmarried,associate,0,0,0,23,yes and agree,never,never,never,0,0,1,0,0,3125,0,0,guiyang,3,0
+1565,5,6,5,Guizhou,Saturday,0,city,51,3,106,1,unmarried,bachelor,0,0,0,23,yes and agree,heard but do not know,never,never,2,0,1,0,10,3475,1,0,guiyang,2,1
+2416,7,7,2,Guangxi,Monday,0,city,26,5,92,0,married,senior high,1,0,0,43,yes and agree,heard but do not know,never,never,1,0,1,0,0,3571,1,0,nanning,6,1
+2185,1,1,1,Gansu,Thursday,1,rural,123,3,130,1,married,senior high,0,0,0,36,yes and agree,heard but do not know,never,never,0,0,1,0,7,2082,0,0,lanzhou,3,1
+2343,7,7,7,Gansu,Saturday,0,county seat,62,4,114,0,married,bachelor,1,0,1,48,yes and agree,never,never,never,9,0,1,0,0,1517,1,0,baiyin,0,1
+1223,1,1,1,Gansu,Thursday,1,rural,51,2,70,0,married,primary,1,1,0,39,no,never,never,never,0,0,0,0,2,3000,0,0,baiyin,4,0
+1301,7,7,7,Guangxi,Friday,0,city,91,4,73.5,1,married,associate,1,0,0,27,yes and agree,familiar,heard but do not know,never,5,3,1,1,0,7306,1,3,nanning,4,1
+1193,3,3,4,Gansu,Monday,1,city,86,6,73,1,married,senior high,1,0,0,40,yes and agree,heard and know,heard but do not know,never,0,0,1,0,14,1527,0,0,baiyin,2,1
+2393,4,4,4,Gansu,Sunday,1,county seat,32,4,87,0,married,bachelor,0,0,1,48,yes and agree,never,heard and know,heard and know,4,4,1,1,1,3115,1,4,baiyin,2,1
+2144,2,2,2,Guizhou,Thursday,0,rural,55,3,250,0,married,senior high,1,1,0,35,yes and agree,heard but do not know,heard but do not know,never,6,0,1,0,0,3057,1,0,guiyang,3,0
+1483,6,2,2,Gansu,Saturday,1,city,56,5,85,0,married,senior high,0,1,0,58,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,2,880,0,0,lanzhou,5,0
+1695,7,4,4,Guizhou,Sunday,1,rural,38,1,220,0,married,senior high,1,0,0,25,no,never,never,never,0,0,1,0,0,1191,0,0,anshun,3,0
+1530,7,7,3,Gansu,Saturday,1,city,56,5,60,0,married,senior high,0,0,0,58,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,0,2364,0,0,lanzhou,0,0
+1642,4,4,2,Gansu,Sunday,0,city,77,3,88,1,married,associate,1,1,0,43,yes and agree,heard and know,heard and know,heard and know,2,0,1,0,24,2600,1,0,baiyin,2,1
+3329,2,3,2,Guangxi,Thursday,0,rural,99,4,120,1,unmarried,associate,0,1,0,23,yes and agree,heard but do not know,never,never,0,3,1,1,0,1043,0,2,nanning,3,1
+1935,1,1,1,Guizhou,Tuesday,1,county seat,53,4,118,0,unmarried,bachelor,0,0,0,23,yes but disagree,never,never,never,3,0,1,0,0,1444,1,0,guiyang,3,0
+1383,2,7,3,Guizhou,Friday,0,city,33,4,82,1,married,associate,1,0,1,35,yes and agree,heard but do not know,heard but do not know,never,4,0,1,0,17,1690,1,0,guiyang,2,0
+3020,2,2,2,Guangxi,Wednesday,0,city,72,5,108,0,married,associate,1,0,0,32,yes and agree,heard but do not know,never,never,0,0,1,0,6,864,0,0,nanning,3,1
+2922,1,1,1,Guangxi,Sunday,1,county seat,50,4,110,1,married,junior high,1,0,0,39,no,heard but do not know,never,never,6,2,1,1,0,3009,1,4,guilin,2,1
+2112,1,1,1,Guizhou,Thursday,0,rural,60,3,255,0,divorced,associate,1,1,0,39,no,never,never,never,6,0,1,0,0,2647,1,0,guiyang,0,0
+3211,6,5,4,Guangxi,Thursday,0,city,62,4,75,1,unmarried,junior high,0,0,0,25,no,never,never,never,0,0,1,0,0,1600,0,0,guilin,2,0
+1252,1,1,1,Gansu,Thursday,1,rural,42,2,170,0,married,primary,0,1,0,49,yes and agree,never,never,never,5,0,0,0,0,4000,1,0,baiyin,0,0
+1619,7,7,7,Guizhou,Saturday,0,city,52,4,90,0,married,associate,1,0,0,27,no,never,never,never,0,0,1,0,10,2077,0,0,anshun,3,0
+1411,2,2,7,Gansu,Saturday,0,city,52,5,120,1,married,bachelor,0,0,0,27,no,heard but do not know,never,never,7,0,1,0,0,1440,1,0,baiyin,0,0
+1241,1,1,1,Gansu,Thursday,0,rural,39,2,60,1,married,junior high,0,0,0,43,no,never,never,never,6,0,0,0,0,4000,1,0,baiyin,2,0
+2396,6,6,6,Gansu,Sunday,1,county seat,28,6,89,1,married,bachelor,0,0,0,47,yes and agree,heard but do not know,heard but do not know,heard but do not know,8,0,1,0,0,1517,1,0,baiyin,0,1
+2813,7,7,7,Guizhou,Friday,0,city,33,4,90,1,unmarried,bachelor,0,0,1,24,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,36,5000,0,0,guiyang,3,1
+2168,4,4,4,Gansu,Thursday,1,rural,112,3,190,1,married,senior high,0,1,0,34,no,never,never,never,0,0,1,0,0,2450,0,0,lanzhou,4,0
+949,7,4,5,Guizhou,Monday,0,rural,23,4,300,1,married,primary,0,1,0,63,no,never,never,never,0,0,1,0,5,1842,0,0,anshun,3,0
+1143,4,4,4,Gansu,Monday,1,city,92,5,120,1,married,associate,1,1,1,34,no,heard but do not know,never,never,0,0,1,0,14,2708,0,0,baiyin,2,1
+3005,1,1,1,Guangxi,Tuesday,1,county seat,139,4,98,1,married,senior high,1,0,0,38,yes and agree,heard and know,never,never,0,2,1,1,4,3164,0,2,guilin,4,0
+2141,7,7,7,Guizhou,Thursday,0,rural,53,3,370,0,married,junior high,0,1,0,46,no,never,never,never,0,0,1,0,25,4924,0,0,guiyang,3,1
+1620,7,7,7,Guizhou,Saturday,0,city,52,5,90,0,married,bachelor,1,1,1,36,yes but disagree,heard and know,heard but do not know,never,0,0,1,0,14,2606,0,0,anshun,3,0
+2915,4,4,4,Guangxi,Tuesday,0,county seat,117,5,110,1,married,senior high,1,1,0,31,no,never,never,never,0,2,1,1,0,4296,0,3,guilin,0,0
+2421,4,4,4,Gansu,Sunday,1,county seat,34,3,48,1,married,junior high,1,0,0,38,no,never,never,never,0,0,1,0,2,3115,0,0,baiyin,2,0
+2998,2,3,2,Guangxi,Tuesday,1,city,54,5,98.5,1,married,associate,1,0,0,39,yes and agree,heard but do not know,never,never,0,0,1,0,10,876,0,0,nanning,3,1
+114,5,7,6,Guizhou,Saturday,0,rural,32,4,300,0,unmarried,senior high,0,0,0,29,no,never,never,never,3,0,1,0,0,2800,1,0,anshun,0,0
+1198,5,5,5,Gansu,Monday,1,city,86,5,78,1,married,senior high,1,0,0,46,yes and agree,never,never,never,0,0,1,0,0,1841,0,0,baiyin,5,0
+1916,7,6,6,Guangxi,Wednesday,1,city,2.5,4,79,1,married,associate,1,0,0,36,yes and agree,heard and know,heard and know,heard but do not know,0,0,1,0,1,3959,0,0,nanning,3,1
+1169,6,6,7,Guizhou,Wednesday,0,city,39,4,85,1,married,associate,1,0,0,33,no,heard but do not know,never,never,3,0,1,0,18,1760,1,0,guiyang,3,0
+2265,1,1,1,Guizhou,Friday,0,county seat,52,4,98,1,married,bachelor,1,0,0,27,yes but disagree,heard but do not know,heard but do not know,never,6,0,1,0,0,1778,1,0,anshun,2,0
+2946,4,4,4,Guangxi,Monday,1,rural,82,5,110,1,married,primary,1,0,0,52,no,never,never,never,0,0,1,0,0,3022,0,0,guilin,3,0
+1930,2,4,2,Guizhou,Tuesday,1,county seat,48,3,90,0,unmarried,bachelor,0,0,0,23,yes and agree,never,never,never,0,0,1,0,0,1517,0,0,guiyang,0,0
+2134,1,1,1,Gansu,Thursday,1,rural,114,3,187,1,married,senior high,1,0,0,36,yes and agree,never,never,never,0,0,1,0,0,1588,0,0,lanzhou,0,0
+2861,5,5,5,Guangxi,Saturday,1,county seat,97,6,90,1,married,junior high,1,1,0,55,no,never,never,never,0,1,1,1,0,4000,0,1,guilin,0,0
+2241,1,1,1,Guizhou,Friday,0,county seat,43,4,113,0,married,associate,1,0,0,27,no,heard but do not know,heard but do not know,never,0,0,1,0,20,840,0,0,anshun,3,0
+1480,1,3,1,Gansu,Saturday,0,city,82,4,80,1,married,associate,0,0,0,28,yes and agree,heard and know,never,never,6,0,1,0,4,615,1,0,lanzhou,3,1
+3104,2,2,2,Guangxi,Wednesday,0,city,83,6,60,0,married,associate,1,0,0,41,yes and agree,heard but do not know,never,never,8,3,1,1,20,1182,1,3,nanning,2,1
+2818,7,7,7,Guizhou,Friday,0,city,50,4,109,0,divorced,associate,1,0,1,39,yes and agree,heard but do not know,heard but do not know,never,9,0,1,0,0,2857,1,0,guiyang,0,0
+2135,1,1,1,Gansu,Thursday,1,rural,114,4,179,1,married,senior high,1,0,0,34,yes and agree,never,never,never,0,0,1,0,8,1515,0,0,lanzhou,2,1
+3301,7,7,7,Guangxi,Thursday,0,rural,155,6,100,1,married,junior high,1,0,0,56,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,0,1300,0,0,guilin,0,1
+3214,7,2,1,Guangxi,Thursday,0,rural,85,6,88,0,married,associate,0,1,0,26,yes and agree,heard but do not know,never,never,0,0,1,0,20,1786,0,0,nanning,3,1
+1419,7,7,4,Guizhou,Saturday,0,city,54,5,85,1,married,bachelor,0,0,1,26,yes and agree,heard but do not know,never,never,1,0,1,0,8,2310,1,0,anshun,3,0
+1152,5,5,5,Gansu,Monday,1,city,77,2,83.7,1,married,junior high,1,0,0,38,no,never,never,never,0,0,1,0,2,1636,0,0,baiyin,2,1
+2133,1,1,1,Gansu,Thursday,1,rural,114,5,70,1,married,senior high,0,1,0,34,yes but disagree,never,never,never,0,0,1,0,0,1333,0,0,lanzhou,0,0
+1933,7,7,6,Gansu,Tuesday,1,city,122,4,70,0,married,bachelor,1,1,0,39,yes and agree,heard and know,heard and know,heard but do not know,0,2,1,1,14,1200,0,1,lanzhou,3,1
+2243,6,5,6,Guizhou,Friday,0,county seat,58,5,95,0,unmarried,associate,1,1,0,18,yes and agree,never,never,heard but do not know,0,0,1,0,6,1111,0,0,anshun,3,1
+2808,1,1,1,Gansu,Friday,1,county seat,75,3,140,1,married,senior high,0,0,0,41,yes and agree,never,never,never,0,0,1,0,5,1944,0,0,lanzhou,3,1
+1914,2,2,2,Guizhou,Tuesday,1,county seat,48,5,116,1,unmarried,associate,1,0,0,25,yes and agree,heard but do not know,heard but do not know,heard but do not know,3,0,1,0,10,1731,1,0,guiyang,4,1
+1905,2,2,1,Guizhou,Tuesday,1,county seat,48,4,98,1,unmarried,associate,0,0,0,24,yes and agree,heard but do not know,heard but do not know,heard but do not know,3,0,1,0,15,1667,1,0,guiyang,4,1
+3363,1,1,7,Guangxi,Friday,1,county seat,38,4,20,0,unmarried,associate,0,0,0,21,yes but disagree,never,never,never,0,0,1,0,18,1707,0,0,nanning,4,0
+932,6,5,4,Guizhou,Sunday,0,rural,32,4,280,0,married,primary,0,0,0,54,no,never,never,never,0,0,0,0,8,1320,0,0,anshun,3,0
+3033,2,3,2,Guangxi,Wednesday,0,city,66,5,108,0,married,associate,0,1,0,55,yes and agree,heard but do not know,never,never,0,0,1,0,20,1067,0,0,nanning,3,1
+3086,3,3,4,Guangxi,Wednesday,0,rural,69,5,110,0,married,junior high,1,0,0,46,no,never,never,never,5,0,0,0,0,2364,1,0,guilin,2,1
+2909,6,6,6,Guangxi,Sunday,0,rural,56,5,120,0,unmarried,junior high,0,0,0,30,no,never,never,never,0,0,0,0,0,1444,0,0,guilin,2,0
+2831,2,1,1,Gansu,Friday,1,county seat,66,4,84,1,married,bachelor,1,0,0,30,yes and agree,heard but do not know,never,never,0,0,1,0,12,1948,0,0,lanzhou,2,1
+2141,7,7,7,Guizhou,Thursday,0,rural,55,3,150,0,unmarried,bachelor,0,1,0,26,yes and agree,heard but do not know,heard but do not know,never,5,0,1,0,0,2720,1,0,guiyang,3,0
+2385,7,7,7,Gansu,Sunday,1,county seat,42,2,78,1,married,bachelor,1,0,0,39,yes and agree,heard but do not know,never,never,6,0,1,0,0,3125,1,0,baiyin,2,1
+918,1,7,1,Guizhou,Sunday,0,city,45,5,110,0,married,bachelor,1,0,0,35,yes and agree,heard but do not know,heard but do not know,heard but do not know,4,6,1,1,3,3200,1,2,anshun,3,1
+2988,5,5,5,Guangxi,Tuesday,1,city,56,1,80,0,unmarried,associate,0,0,0,26,no,never,never,never,0,2,1,1,3,879,0,3,nanning,3,0
+584,7,7,7,Guizhou,Thursday,0,city,72,3,45,1,unmarried,bachelor,0,0,1,25,yes and agree,heard and know,heard and know,heard and know,0,0,1,0,10,2267,0,0,guiyang,2,1
+2199,1,1,1,Gansu,Thursday,1,county seat,95,4,85,0,married,senior high,0,0,0,34,yes and agree,never,never,never,0,0,1,0,0,2118,0,0,lanzhou,0,1
+3414,3,4,4,Guangxi,Saturday,0,county seat,52,5,118,0,married,senior high,1,0,0,34,yes and agree,heard but do not know,never,never,0,0,1,0,6,1620,0,0,nanning,3,0
+3369,2,3,4,Guangxi,Friday,0,county seat,57,4,120,0,married,senior high,1,0,0,31,yes and agree,heard but do not know,never,never,0,0,1,0,6,2143,0,0,nanning,3,1
+1246,1,1,1,Gansu,Thursday,1,rural,41,2,150,1,divorced,senior high,0,1,0,63,yes but disagree,heard but do not know,never,never,0,0,0,0,0,1200,0,0,baiyin,0,0
+2151,1,1,1,Guizhou,Thursday,0,rural,57,3,150,1,married,associate,1,1,0,29,yes and agree,never,never,never,8,0,1,0,0,2821,1,0,guiyang,0,0
+3426,3,4,4,Guangxi,Saturday,0,rural,53,6,230,1,married,associate,1,0,0,32,no,never,never,never,0,5,0,1,0,1296,0,1,nanning,3,0
+2911,6,6,6,Guangxi,Sunday,0,rural,66,5,110,0,married,junior high,0,0,0,56,no,never,never,never,0,0,0,0,0,3273,0,0,guilin,2,0
+1248,5,7,5,Guizhou,Thursday,0,city,29,4,100,0,married,bachelor,1,0,0,32,yes but disagree,heard and know,heard but do not know,never,3,0,1,0,14,2500,1,0,guiyang,3,1
+1889,4,4,4,Gansu,Tuesday,1,city,70,3,60,0,married,bachelor,1,0,0,30,yes and agree,heard but do not know,heard but do not know,never,1,0,1,0,0,2310,1,0,baiyin,0,1
+2110,7,7,4,Guangxi,Thursday,1,city,93,3,43,1,married,bachelor,1,1,0,26,yes and agree,heard and know,heard but do not know,heard but do not know,3,4,1,1,10,2607,1,4,nanning,5,1
+3241,6,6,6,Guangxi,Thursday,0,city,61,5,50,1,unmarried,associate,0,0,1,35,yes but disagree,heard but do not know,heard but do not know,never,0,0,1,0,0,1600,0,0,guilin,3,1
+2158,7,7,7,Guizhou,Thursday,0,rural,53,4,226,0,married,junior high,1,0,0,26,no,never,never,never,0,0,1,0,20,4054,0,0,guiyang,3,0
+2851,1,2,1,Gansu,Friday,1,county seat,95,3,76,1,married,associate,0,0,0,36,yes and agree,heard but do not know,never,never,0,0,1,0,15,1138,0,0,lanzhou,2,1
+2894,6,6,6,Guangxi,Sunday,0,rural,48,5,120,0,married,junior high,0,0,0,46,no,never,never,never,0,0,0,0,0,938,0,0,guilin,2,0
+1893,7,5,7,Guizhou,Tuesday,1,county seat,45,4,100,1,unmarried,associate,0,0,0,25,yes and agree,heard but do not know,never,never,0,0,1,0,60,2913,0,0,guiyang,4,0
+2911,6,6,7,Guangxi,Tuesday,0,city,122,4,70,1,married,junior high,1,1,0,54,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,0,0,0,1308,0,0,guilin,3,1
+1104,2,2,2,Gansu,Sunday,0,city,64,2,49,1,married,junior high,1,0,0,46,yes and agree,never,never,never,0,0,1,0,2,1733,0,0,baiyin,1,0
+3161,6,6,5,Guangxi,Wednesday,0,city,48,3,85,1,married,associate,1,0,0,40,yes and agree,heard but do not know,never,never,0,0,1,0,0,1000,0,0,guilin,3,0
+1523,4,4,4,Gansu,Saturday,0,city,46,3,76,0,married,junior high,1,0,0,38,no,never,heard and know,never,8,0,1,0,0,2200,1,0,baiyin,3,1
+1195,2,2,2,Guizhou,Monday,1,rural,59,5,250,0,unmarried,associate,1,0,1,24,yes and agree,heard but do not know,heard but do not know,never,4,0,1,0,20,1517,1,0,guiyang,2,1
+3096,3,3,3,Guangxi,Wednesday,0,rural,69,5,110,0,unmarried,junior high,0,0,0,36,no,never,never,never,0,0,0,0,0,2475,0,0,guilin,2,0
+3024,2,4,4,Guangxi,Wednesday,0,rural,155,4,100,0,married,junior high,1,0,0,34,yes and agree,heard but do not know,never,never,0,0,1,0,2,4770,0,0,guilin,4,0
+2613,2,1,2,Gansu,Thursday,1,rural,113,4,150,1,married,associate,1,0,0,34,no,heard but do not know,heard but do not know,never,0,0,1,0,12,818,0,0,lanzhou,2,1
+3216,7,7,7,Guangxi,Thursday,0,rural,68,3,90,0,married,primary,1,0,0,54,no,never,never,never,0,0,1,0,0,5336,0,0,guilin,2,0
+2835,2,3,1,Guangxi,Friday,1,city,52,6,90,0,married,primary,0,0,0,51,yes but disagree,heard but do not know,never,never,0,2,1,1,5,3770,0,3,nanning,4,0
+2402,4,4,4,Gansu,Sunday,1,county seat,32,4,90,1,married,primary,0,1,0,44,no,never,never,never,8,0,1,0,0,1517,1,0,baiyin,0,1
+2820,5,5,4,Guizhou,Friday,0,city,47,4,96,1,unmarried,bachelor,0,0,1,24,yes and agree,heard but do not know,never,never,2,0,1,0,25,4036,1,0,guiyang,3,1
+2611,2,2,1,Gansu,Thursday,1,rural,114,3,180,1,married,junior high,1,0,0,41,yes and agree,heard but do not know,never,never,0,0,1,0,2,446,0,0,lanzhou,3,1
+158,6,6,6,Guizhou,Saturday,0,rural,13,4,400,1,unmarried,senior high,0,1,0,21,yes but disagree,heard but do not know,never,never,8,0,1,0,10,2600,1,0,anshun,2,0
+1649,7,7,7,Guizhou,Sunday,1,rural,57,3,175,1,married,bachelor,1,1,0,27,yes and agree,never,never,never,0,0,1,0,0,1680,0,0,anshun,3,0
+2962,6,6,6,Guangxi,Monday,0,city,100,2,100,1,married,junior high,0,0,0,48,yes and agree,never,never,never,0,0,1,0,2,4821,0,0,guilin,4,1
+3160,6,5,5,Guangxi,Wednesday,0,city,50,5,100,0,divorced,senior high,0,0,0,36,no,never,never,never,0,0,1,0,0,1350,0,0,guilin,4,1
+2231,1,2,1,Guizhou,Friday,0,county seat,58,4,96,0,unmarried,associate,0,0,0,23,yes and agree,never,never,never,0,0,1,0,0,1099,0,0,anshun,3,0
+3280,7,6,7,Guangxi,Thursday,1,city,49,5,118,1,married,bachelor,0,0,0,37,yes and agree,heard and know,heard but do not know,never,0,3,1,1,0,1120,0,4,guilin,2,1
+2115,6,6,4,Gansu,Thursday,1,rural,114,4,160,1,married,senior high,0,0,0,35,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,1,1941,0,0,lanzhou,3,0
+1615,3,3,2,Guizhou,Sunday,1,rural,65,4,100,0,married,associate,1,1,1,27,no,never,never,never,2,0,1,0,14,4000,1,0,guiyang,2,0
+1813,4,4,2,Gansu,Tuesday,1,city,116,2,58,1,divorced,senior high,0,0,0,55,yes and agree,heard but do not know,never,never,0,0,1,0,10,519,0,0,lanzhou,2,0
+2515,6,4,4,Gansu,Tuesday,1,county seat,83,2,100,0,married,junior high,1,0,0,43,yes and agree,heard but do not know,never,never,0,0,1,0,0,2167,0,0,baiyin,1,1
+2184,1,1,1,Gansu,Thursday,0,rural,123,4,170,1,married,senior high,0,0,0,35,yes and agree,heard but do not know,never,never,0,0,1,0,1,2040,0,0,lanzhou,4,1
+164,7,7,6,Guizhou,Saturday,0,rural,13,2,120,1,married,senior high,1,0,0,28,yes and agree,heard but do not know,never,never,0,0,1,0,0,1733,0,0,anshun,3,1
+2910,6,6,6,Guangxi,Sunday,0,rural,58,5,96,1,married,junior high,1,0,0,51,yes and agree,never,never,never,0,0,0,0,0,1460,0,0,guilin,2,0
+2252,1,1,1,Guizhou,Friday,0,county seat,48,4,98,0,married,bachelor,1,0,1,32,yes but disagree,heard but do not know,heard but do not know,heard but do not know,4,0,1,0,20,1727,1,0,anshun,3,1
+1830,7,1,1,Gansu,Tuesday,1,city,102,5,80,0,married,associate,0,1,0,40,yes but disagree,never,never,never,0,4,1,1,12,2182,0,2,lanzhou,4,0
+2821,7,7,2,Guizhou,Friday,0,city,45,5,98,1,unmarried,bachelor,1,0,0,25,yes but disagree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,1,2618,0,0,guiyang,3,1
+2111,2,1,1,Gansu,Thursday,1,rural,114,3,148,1,married,senior high,0,0,0,39,yes and agree,never,never,never,0,0,1,0,0,1778,0,0,lanzhou,0,0
+824,7,4,7,Guizhou,Sunday,0,rural,16,3,300,1,married,associate,1,0,0,36,yes and agree,never,never,never,5,0,0,0,6,4000,1,0,anshun,3,0
+2111,7,7,7,Guizhou,Thursday,1,city,62,4,110,0,married,associate,1,0,0,32,yes and agree,heard but do not know,never,never,3,4,1,1,10,3939,1,3,guiyang,3,1
+2146,1,1,1,Gansu,Thursday,1,rural,114,4,180,1,married,senior high,1,0,0,36,yes and agree,never,never,never,0,0,1,0,8,1957,0,0,lanzhou,3,0
+110,7,7,7,Guangxi,Friday,1,city,115,4,105,0,married,bachelor,1,0,1,49,yes and agree,heard and know,heard and know,heard and know,5,6,1,1,10,5288,1,5,nanning,4,1
+2809,1,1,1,Gansu,Friday,1,county seat,75,3,180,1,married,associate,0,0,0,37,yes and agree,never,never,never,0,0,1,0,7,1950,0,0,lanzhou,4,1
+2824,7,7,7,Guizhou,Friday,0,city,47,4,98,0,unmarried,bachelor,0,1,1,26,yes and agree,heard and know,heard but do not know,never,3,4,1,1,20,5200,1,3,guiyang,2,1
+1266,7,7,7,Guizhou,Thursday,0,city,29,4,73,1,unmarried,bachelor,0,0,0,27,yes and agree,heard but do not know,heard but do not know,never,0,4,1,1,30,2585,0,2,guiyang,2,0
+2169,7,7,7,Guizhou,Thursday,0,rural,53,3,188,0,married,junior high,0,1,0,26,yes but disagree,never,never,never,3,0,1,0,5,3161,1,0,guiyang,3,1
+1891,2,2,2,Gansu,Tuesday,1,city,85,4,80,0,unmarried,associate,0,1,0,25,yes but disagree,never,never,never,0,4,1,1,8,1182,0,2,lanzhou,5,0
+3035,7,7,7,Guangxi,Wednesday,0,city,72,5,117,1,married,junior high,1,0,0,44,yes and agree,heard but do not know,heard but do not know,heard and know,0,3,1,1,5,2139,0,3,nanning,3,0
+1166,1,6,6,Guizhou,Wednesday,0,city,41,4,78,1,unmarried,bachelor,0,0,0,26,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,20,1300,0,0,guiyang,3,1
+1831,4,4,4,Gansu,Tuesday,1,city,86,2,59,1,married,junior high,1,0,0,36,yes and agree,heard and know,never,never,0,0,1,0,4,1000,0,0,baiyin,1,0
+3068,6,6,7,Guangxi,Wednesday,1,rural,155,5,260,0,unmarried,bachelor,0,0,0,35,no,heard but do not know,heard but do not know,familiar,0,3,1,1,0,1800,0,4,guilin,0,1
+1185,4,5,1,Gansu,Wednesday,1,rural,56,3,120,1,married,primary,1,0,0,49,no,never,never,never,0,0,0,0,1,1210,0,0,baiyin,4,0
+3016,6,6,6,Guangxi,Wednesday,0,city,81,4,76,0,married,senior high,0,0,0,46,yes and agree,heard but do not know,never,never,0,0,1,0,0,1500,0,0,guilin,2,1
+2982,7,7,2,Guangxi,Tuesday,1,city,118,4,28,0,unmarried,associate,0,0,0,31,no,never,never,never,0,0,1,0,0,1367,0,0,guilin,3,1
+3011,1,1,1,Guangxi,Wednesday,0,county seat,158,4,110,1,married,junior high,1,0,0,43,yes and agree,never,never,never,0,1,1,1,0,1200,0,2,guilin,2,0
+1812,1,1,1,Gansu,Tuesday,1,city,99,4,80,0,married,senior high,1,1,0,36,no,never,never,never,0,0,1,0,16,2308,0,0,lanzhou,3,1
+2160,1,1,1,Guizhou,Thursday,0,rural,60,4,150,0,unmarried,senior high,0,1,0,24,no,never,never,never,0,0,1,0,0,2855,0,0,guiyang,3,0
+3240,2,2,1,Guangxi,Thursday,0,rural,64,4,60,1,married,primary,0,0,0,51,yes and agree,heard but do not know,never,never,0,0,1,0,0,1235,0,0,guilin,2,0
+1934,4,5,1,Guizhou,Tuesday,1,county seat,52,4,95,1,unmarried,associate,0,0,0,24,yes but disagree,heard but do not know,never,never,0,0,1,0,6,2073,0,0,guiyang,2,1
+2425,1,1,1,Gansu,Sunday,1,county seat,44,4,104,1,married,bachelor,1,1,0,42,yes and agree,heard and know,never,never,7,0,1,0,0,3627,1,0,baiyin,0,1
+2165,1,1,1,Guizhou,Thursday,0,rural,60,3,134,0,married,senior high,1,0,0,37,no,heard but do not know,heard but do not know,never,11,0,1,0,0,2857,1,0,guiyang,0,0
+1149,4,4,4,Gansu,Monday,1,city,92,3,90,1,married,associate,1,1,1,44,yes and agree,heard and know,never,never,24,0,1,0,0,4620,1,0,baiyin,2,1
+3306,1,1,1,Guangxi,Thursday,1,county seat,74,3,20,1,married,primary,0,0,0,52,no,never,never,never,0,0,1,0,0,1500,0,0,nanning,4,0
+1929,2,1,1,Guizhou,Tuesday,1,county seat,49,4,119,0,unmarried,bachelor,0,0,0,23,yes and agree,heard but do not know,heard but do not know,never,3,0,1,0,0,2143,1,0,guiyang,3,0
+3289,5,5,5,Guangxi,Thursday,0,city,58,4,76,0,unmarried,junior high,0,0,0,35,no,never,never,never,0,0,1,0,0,2232,0,0,guilin,3,0
+2969,3,3,3,Guangxi,Tuesday,0,county seat,127,6,140,1,married,junior high,0,1,0,59,no,never,never,never,0,1,1,1,0,5179,0,2,guilin,2,0
+1690,4,4,4,Gansu,Sunday,0,city,64,5,68,1,married,bachelor,1,0,1,35,yes and agree,heard and know,never,never,7,0,1,0,0,2400,1,0,baiyin,2,1
+1883,2,3,3,Guizhou,Tuesday,1,county seat,31,3,95,1,unmarried,bachelor,1,0,1,25,yes and agree,heard but do not know,never,never,0,0,1,0,10,1711,0,0,guiyang,3,1
+3066,6,6,6,Guangxi,Wednesday,0,city,98,4,78,0,unmarried,senior high,0,0,0,46,no,never,never,never,0,0,1,0,0,1740,0,0,guilin,2,1
+2992,5,7,6,Guangxi,Tuesday,1,rural,0,6,100,0,widowed,primary,0,0,0,56,no,heard but do not know,heard but do not know,familiar,0,0,1,0,0,1100,0,0,guilin,0,1
+1598,2,1,4,Gansu,Saturday,0,city,52,2,50,1,married,junior high,1,0,0,41,yes and agree,never,never,never,1,0,1,0,0,2045,1,0,baiyin,2,0
+2145,1,1,1,Gansu,Thursday,1,rural,114,4,170,1,married,senior high,1,0,0,36,yes and agree,never,never,never,0,0,1,0,0,1964,0,0,lanzhou,0,0
+3222,5,4,5,Guangxi,Thursday,0,city,64,3,60,0,married,junior high,0,0,0,39,no,never,never,never,0,0,1,0,0,1243,0,0,guilin,3,1
+1818,6,5,4,Gansu,Monday,1,city,110,3,75,1,married,associate,0,0,0,28,yes and agree,heard but do not know,never,never,0,0,1,0,6,1091,0,0,lanzhou,2,1
+3432,7,1,1,Guangxi,Saturday,0,county seat,45,3,97,0,married,associate,1,0,0,41,yes and agree,heard but do not know,never,never,0,0,1,0,0,2080,0,0,nanning,6,0
+1834,7,7,4,Guangxi,Tuesday,1,rural,46,2,200,0,unmarried,senior high,1,1,0,20,yes and agree,heard and know,heard and know,never,0,0,0,0,2,1418,0,0,qinzhou,6,1
+1919,2,2,2,Guizhou,Tuesday,1,county seat,48,4,100,0,unmarried,associate,1,0,0,23,no,heard but do not know,never,never,0,0,1,0,0,655,0,0,guiyang,3,0
+2833,1,1,3,Gansu,Friday,1,county seat,66,4,85,1,married,associate,0,0,0,32,yes and agree,never,heard but do not know,never,0,0,1,0,8,1963,0,0,lanzhou,2,1
+2826,5,5,5,Guangxi,Friday,1,county seat,8,6,105,0,married,junior high,1,0,0,42,yes and agree,never,never,never,0,1,1,1,10,4440,0,1,guilin,2,1
+1606,1,4,7,Guizhou,Saturday,0,city,45,4,70,0,unmarried,bachelor,0,0,0,39,yes and agree,heard but do not know,never,never,0,5,1,1,30,1260,0,4,anshun,3,1
+2331,4,4,4,Gansu,Saturday,0,county seat,48,3,87,0,married,bachelor,1,1,1,45,yes and agree,heard and know,heard and know,never,4,0,1,0,0,2718,1,0,baiyin,2,1
+2954,4,4,4,Guangxi,Monday,1,rural,92,6,125,0,married,junior high,1,1,0,52,yes but disagree,heard but do not know,never,never,5,0,1,0,2,4954,1,0,guilin,3,0
+3311,5,6,6,Guangxi,Thursday,0,city,43,4,110,1,unmarried,senior high,0,1,0,56,no,heard but do not know,never,heard but do not know,0,0,1,0,0,1067,0,0,guilin,2,0
+3011,2,2,2,Guangxi,Wednesday,0,city,57,6,76,1,married,associate,0,0,0,49,yes but disagree,heard but do not know,never,never,0,0,1,0,10,893,0,0,nanning,3,1
+1901,2,2,2,Guizhou,Tuesday,1,county seat,48,4,98,0,unmarried,associate,0,0,0,24,yes and agree,heard but do not know,heard but do not know,never,4,0,1,0,20,1486,1,0,guiyang,4,1
+3291,2,2,2,Guangxi,Thursday,1,county seat,70,6,45,1,married,junior high,1,0,0,48,no,never,never,never,0,3,1,1,0,3375,0,3,guilin,0,0
+2233,1,1,1,Guizhou,Friday,0,county seat,43,4,112,1,unmarried,associate,0,1,0,22,yes but disagree,heard but do not know,heard but do not know,never,2,5,1,1,0,1468,1,3,anshun,3,0
+3043,6,6,6,Guangxi,Wednesday,0,city,110,5,90,0,married,senior high,0,1,0,56,yes and agree,never,never,never,0,0,1,0,0,2265,0,0,guilin,3,1
+1882,2,2,2,Gansu,Tuesday,1,city,89,3,100,0,unmarried,bachelor,0,1,0,34,no,never,never,never,2,0,1,0,14,1300,1,0,lanzhou,3,0
+2984,1,2,1,Guangxi,Tuesday,1,city,56,4,100,0,unmarried,associate,0,0,0,31,yes but disagree,heard but do not know,never,never,0,0,1,0,25,713,0,0,nanning,3,0
+2116,2,1,1,Gansu,Thursday,1,rural,114,3,180,1,married,junior high,0,0,0,42,yes and agree,never,never,never,0,0,1,0,0,1604,0,0,lanzhou,3,1
+1563,4,4,4,Guangxi,Saturday,1,county seat,60,4,115,0,unmarried,associate,0,1,0,26,yes and agree,heard and know,heard but do not know,heard but do not know,3,1,1,1,0,3828,1,1,qinzhou,3,1
+1900,3,3,7,Gansu,Tuesday,1,city,85,3,50,0,married,associate,1,0,0,35,no,never,never,never,0,0,1,0,12,2667,0,0,lanzhou,6,0
+3092,5,7,5,Guangxi,Wednesday,0,city,116,4,110,1,married,bachelor,1,1,0,36,yes and agree,heard but do not know,heard but do not know,never,1,3,1,1,2,4128,1,2,guilin,3,1
+2186,5,5,4,Gansu,Thursday,1,rural,114,4,90,1,married,associate,1,0,0,31,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,1,1768,0,0,lanzhou,3,0
+2959,4,4,2,Guangxi,Monday,0,rural,93,6,125,1,married,associate,1,0,0,46,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,0,4464,0,0,guilin,3,0
+168,6,6,6,Guizhou,Saturday,0,rural,40,5,400,1,married,bachelor,1,1,0,29,yes and agree,heard but do not know,heard but do not know,heard but do not know,8,0,1,0,0,3200,1,0,anshun,0,1
+3305,7,7,7,Guangxi,Thursday,0,rural,155,3,220,1,married,junior high,1,0,0,56,yes and agree,heard and know,heard and know,heard and know,0,7,0,1,0,1071,0,4,guilin,0,1
+1495,7,7,7,Gansu,Saturday,0,city,46,2,88,0,married,junior high,1,0,0,33,yes and agree,heard and know,never,never,5,0,1,0,0,3713,1,0,baiyin,0,0
+2936,1,1,1,Guangxi,Monday,0,county seat,95,4,100,1,married,associate,1,0,0,28,yes and agree,heard but do not know,never,never,0,2,1,1,0,3000,1,3,guilin,2,1
+1535,7,2,7,Guizhou,Saturday,0,city,48,4,94,1,married,associate,1,0,0,29,yes and agree,never,never,never,0,0,1,0,20,4000,0,0,anshun,3,0
+1664,6,7,2,Guizhou,Sunday,1,rural,52,3,300,1,married,junior high,1,0,0,31,no,never,never,never,0,0,1,0,0,1013,0,0,anshun,3,0
+2519,1,1,1,Gansu,Tuesday,1,county seat,83,1,105,0,married,uneducated,1,1,0,69,no,never,never,never,0,0,0,0,0,2310,0,0,baiyin,1,0
+1100,7,6,4,Guizhou,Sunday,1,rural,53,3,300,0,married,junior high,0,0,0,29,yes but disagree,heard but do not know,never,never,0,0,1,0,0,1105,0,0,anshun,2,0
+2245,2,2,2,Guizhou,Friday,0,county seat,43,4,110,1,married,associate,1,0,1,29,yes but disagree,heard but do not know,heard but do not know,never,5,6,1,1,0,1700,1,3,anshun,3,0
+3118,7,7,1,Guangxi,Thursday,1,city,32,4,143,1,divorced,bachelor,1,0,0,43,no,heard but do not know,heard but do not know,heard but do not know,0,4,1,1,4,3518,0,5,guilin,4,0
+3049,7,7,7,Guangxi,Wednesday,0,city,104,5,100,1,married,associate,1,0,0,38,yes and agree,heard and know,never,never,5,2,1,1,2,2700,1,4,guilin,3,0
+2932,5,5,5,Guangxi,Monday,0,rural,72,5,80,0,married,junior high,0,1,1,61,no,never,never,never,0,0,1,0,2,3209,0,0,guilin,3,0
+3431,7,1,2,Guangxi,Saturday,0,county seat,45,4,123,0,married,associate,1,1,0,39,yes and agree,heard but do not know,never,never,0,0,1,0,0,1200,0,0,nanning,5,1
+1931,2,3,1,Guizhou,Tuesday,1,county seat,53,4,97,0,unmarried,bachelor,0,0,0,26,yes but disagree,heard but do not know,heard but do not know,heard but do not know,5,0,1,0,0,1800,1,0,guiyang,3,0
+2942,4,4,4,Guangxi,Monday,0,rural,74,5,120,0,married,junior high,0,0,1,52,no,never,never,never,0,0,1,0,2,2740,0,0,guilin,3,0
+3298,4,4,4,Guangxi,Thursday,0,county seat,61,6,45,1,married,junior high,1,0,0,45,no,never,never,never,0,0,1,0,0,2527,0,0,guilin,2,0
+2889,4,1,1,Guangxi,Sunday,1,county seat,82,2,92.5,0,married,senior high,1,0,0,38,no,heard but do not know,heard but do not know,heard but do not know,10,1,1,1,0,2400,1,3,guilin,2,0
+2852,1,1,3,Gansu,Friday,1,county seat,95,3,80,1,married,senior high,0,0,0,38,yes and agree,never,never,never,0,1,1,1,15,1786,0,1,lanzhou,2,0
+2834,7,1,1,Guangxi,Friday,0,city,63,4,80,0,married,junior high,1,0,0,39,yes but disagree,heard but do not know,heard but do not know,never,0,2,1,1,14,2400,0,3,guilin,4,1
+2838,3,1,1,Gansu,Friday,1,county seat,66,3,80,1,married,associate,1,0,0,41,yes and agree,heard but do not know,never,never,0,0,1,0,10,1607,0,0,lanzhou,2,1
+1692,7,4,7,Guizhou,Sunday,1,rural,36,4,300,1,unmarried,associate,0,0,0,25,yes and agree,never,never,never,0,0,1,0,0,1203,0,0,anshun,3,1
+2861,1,1,2,Gansu,Friday,1,county seat,95,3,85,1,married,bachelor,0,0,0,31,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,14,1426,0,0,lanzhou,2,0
+3290,1,1,1,Guangxi,Thursday,1,county seat,64,3,20,1,married,senior high,1,0,0,37,yes and agree,heard but do not know,never,heard and know,0,3,1,1,0,1588,0,4,nanning,4,0
+3063,4,4,4,Guangxi,Wednesday,0,county seat,70,3,40,1,married,senior high,1,0,0,38,yes and agree,heard but do not know,never,never,0,0,1,0,20,1588,0,0,nanning,3,1
+2828,7,7,7,Gansu,Friday,0,rural,50,2,120,1,married,junior high,1,0,0,37,yes and agree,heard and know,never,never,0,0,1,0,2,1216,0,0,baiyin,4,0
+2010,4,4,2,Gansu,Wednesday,1,city,43,5,70,1,married,associate,0,0,0,33,yes but disagree,heard but do not know,never,never,0,0,1,0,2,2509,0,0,lanzhou,2,0
+2251,7,7,7,Guizhou,Friday,0,county seat,46,4,115,1,married,associate,1,0,1,30,yes and agree,heard but do not know,heard but do not know,never,6,0,1,0,0,1122,1,0,anshun,0,1
+1586,7,7,1,Gansu,Saturday,1,city,56,5,90,1,married,associate,0,0,0,33,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,3,625,0,0,lanzhou,2,1
+2153,7,7,7,Guizhou,Thursday,0,rural,53,5,285,0,unmarried,associate,1,1,0,23,yes but disagree,heard but do not know,never,never,3,0,1,0,20,5357,1,0,guiyang,3,0
+2261,1,1,1,Guizhou,Friday,0,county seat,48,4,156,1,unmarried,bachelor,0,1,1,26,yes and agree,heard but do not know,heard but do not know,heard but do not know,7,0,1,0,0,1747,1,0,anshun,3,0
+1656,7,7,4,Guizhou,Sunday,0,rural,43,3,180,1,unmarried,bachelor,1,0,0,23,yes but disagree,heard but do not know,never,never,1,0,1,0,0,875,1,0,anshun,0,0
+3269,3,3,3,Guangxi,Thursday,0,rural,82,5,148,1,married,junior high,1,0,0,45,no,heard but do not know,never,never,0,0,0,0,0,2000,0,0,guilin,2,0
+2938,2,2,2,Guangxi,Monday,0,rural,78,5,80,1,married,senior high,1,0,0,52,no,never,never,never,0,0,1,0,2,5976,0,0,guilin,3,0
+2845,5,5,5,Guangxi,Friday,1,county seat,86,6,68,1,married,junior high,1,0,0,52,no,never,never,never,0,0,1,0,0,3232,0,0,guilin,0,1
+2288,2,2,2,Gansu,Saturday,0,county seat,43,5,104,1,married,bachelor,1,0,0,45,yes and agree,heard but do not know,never,heard but do not know,11,0,1,0,0,2718,1,0,baiyin,2,1
+1618,2,7,2,Guizhou,Sunday,1,rural,65,4,300,1,married,associate,1,0,0,26,yes and agree,heard but do not know,never,heard but do not know,2,0,1,0,10,1393,1,0,guiyang,3,1
+3313,7,7,7,Guangxi,Thursday,0,city,48,4,80,1,married,junior high,1,0,0,45,no,heard but do not know,never,never,3,0,1,0,2,1800,1,0,guilin,3,0
+2881,6,6,6,Guangxi,Sunday,0,rural,49,5,200,1,married,senior high,1,0,0,39,no,never,never,never,0,0,0,0,0,3091,0,0,guilin,2,0
+3095,7,1,2,Guangxi,Wednesday,1,county seat,79,4,50,0,unmarried,bachelor,0,0,0,31,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,4,900,0,0,nanning,4,0
+3381,2,4,3,Guangxi,Friday,0,county seat,58,5,123,0,married,associate,1,1,0,32,yes and agree,heard but do not know,never,never,0,0,1,0,4,2311,0,0,nanning,3,1
+1616,2,2,1,Guangxi,Saturday,1,city,60,3,105,1,married,junior high,1,0,0,43,yes and agree,heard and know,heard and know,heard and know,0,4,1,1,0,1250,0,2,qinzhou,3,1
+3412,2,2,2,Guangxi,Saturday,0,county seat,54,6,98,0,married,associate,1,1,0,36,yes and agree,heard but do not know,never,never,0,7,1,1,10,1458,0,3,nanning,3,1
+1398,1,2,1,Gansu,Friday,1,city,61,6,40,0,unmarried,bachelor,1,0,0,34,no,never,never,never,0,0,1,0,1,769,0,0,lanzhou,1,0
+2891,6,6,6,Guangxi,Sunday,1,rural,52,5,200,0,married,junior high,1,0,0,35,no,never,never,never,0,0,0,0,0,2000,0,0,guilin,2,0
+2869,6,6,6,Guangxi,Saturday,1,rural,95,5,100,1,married,associate,1,0,0,38,no,never,never,never,0,0,0,0,0,2460,0,0,guilin,3,0
+2269,5,7,6,Gansu,Friday,1,city,60,4,96,0,married,bachelor,1,1,0,33,yes and agree,heard and know,heard and know,heard but do not know,8,0,1,0,15,2917,1,0,lanzhou,3,1
+2235,7,7,7,Guizhou,Friday,0,county seat,43,5,98,0,unmarried,associate,0,1,1,25,yes but disagree,heard but do not know,heard but do not know,never,5,0,1,0,0,2245,1,0,anshun,3,0
+1452,7,7,7,Guizhou,Saturday,0,city,60,4,80,1,married,associate,0,0,0,45,yes and agree,heard and know,heard but do not know,never,3,0,1,0,2,1444,1,0,anshun,4,1
+2800,1,1,1,Gansu,Thursday,1,county seat,95,4,89,0,married,senior high,0,0,0,34,yes but disagree,never,never,never,0,0,1,0,0,2118,0,0,lanzhou,0,1
+812,7,7,7,Guizhou,Sunday,0,city,18,5,91,0,married,junior high,1,0,0,35,yes and agree,never,never,never,6,0,1,0,6,1950,1,0,anshun,2,1
+1318,4,1,2,Guizhou,Friday,0,city,35,5,110,0,married,bachelor,1,0,1,36,yes and agree,heard and know,heard but do not know,never,3,0,1,0,10,3080,1,0,guiyang,3,1
+2801,7,7,7,Guangxi,Friday,1,county seat,10,6,90,0,married,junior high,1,0,0,46,yes but disagree,never,never,never,5,2,1,1,1,5000,1,2,guilin,2,0
+1451,7,7,7,Guangxi,Saturday,1,city,56,4,73,1,married,associate,1,0,0,27,yes and agree,heard and know,heard but do not know,heard but do not know,5,3,1,1,0,1194,1,4,nanning,2,0
+2114,7,7,7,Gansu,Thursday,0,rural,51,4,288,0,married,junior high,0,1,0,46,yes and agree,heard but do not know,never,never,6,0,1,0,0,2057,1,0,baiyin,1,1
+1980,6,7,6,Guangxi,Wednesday,1,city,72,5,90,0,married,bachelor,1,1,0,35,yes and agree,heard and know,heard and know,heard and know,0,0,1,0,0,3960,0,0,qinzhou,3,0
+1936,2,7,7,Guizhou,Tuesday,1,county seat,57,4,99,0,unmarried,bachelor,1,1,0,25,yes and agree,heard but do not know,heard and know,heard but do not know,2,0,1,0,20,1938,1,0,guiyang,3,0
+2113,4,6,4,Guizhou,Thursday,0,rural,53,4,360,0,married,junior high,1,0,0,56,no,never,never,never,5,0,1,0,15,5000,1,0,guiyang,3,0
+3008,6,6,6,Guangxi,Tuesday,0,city,133,5,90,0,married,bachelor,0,1,0,63,no,heard but do not know,never,never,0,0,1,0,0,1980,0,0,guilin,3,1
+3003,6,6,7,Guangxi,Tuesday,1,city,50,4,85,1,married,associate,0,0,1,52,yes and agree,heard and know,heard but do not know,never,0,0,1,0,5,893,0,0,nanning,3,0
+2619,1,2,3,Gansu,Thursday,1,rural,114,3,155,1,married,senior high,1,0,0,34,yes and agree,heard but do not know,never,never,0,0,1,0,6,545,0,0,lanzhou,3,1
+1496,7,5,2,Gansu,Saturday,1,city,56,5,76,1,divorced,senior high,0,0,0,58,no,heard but do not know,never,never,0,0,1,0,2,1200,0,0,lanzhou,3,0
+2918,3,2,2,Guangxi,Tuesday,1,city,70,4,120,0,unmarried,bachelor,0,0,0,31,yes and agree,heard but do not know,never,never,0,4,1,1,20,891,0,2,nanning,3,1
+1489,6,6,7,Guizhou,Saturday,0,city,53,4,90,1,married,bachelor,1,0,1,36,yes and agree,heard but do not know,never,never,3,4,1,1,10,3625,1,4,anshun,3,0
+3085,2,2,2,Guangxi,Wednesday,0,city,60,6,160,1,married,bachelor,1,1,0,35,yes and agree,heard but do not know,never,never,0,3,1,1,10,713,0,2,nanning,3,1
+2965,4,4,4,Guangxi,Monday,0,county seat,115,6,75,1,married,junior high,1,1,0,40,no,never,never,never,0,0,1,0,2,3400,0,0,guilin,3,0
+2910,7,7,7,Guangxi,Tuesday,0,city,1,3,60,0,married,junior high,1,1,0,42,yes and agree,heard and know,heard and know,heard but do not know,0,1,1,1,0,2025,0,4,guilin,1,0
+2231,2,1,1,Guizhou,Friday,0,county seat,43,4,101,0,unmarried,bachelor,0,0,0,24,yes and agree,heard but do not know,heard but do not know,never,4,0,1,0,0,1750,1,0,anshun,2,1
+1512,7,7,7,Guizhou,Saturday,0,city,40,2,125,1,married,associate,1,1,0,37,yes but disagree,never,never,never,0,0,1,0,6,5000,0,0,anshun,3,0
+2489,7,7,7,Gansu,Monday,1,county seat,45,4,123,0,married,bachelor,1,0,0,41,yes and agree,heard and know,never,never,6,0,1,0,0,1517,1,0,baiyin,2,1
+2841,1,1,1,Gansu,Friday,0,rural,30,7,110,1,married,primary,0,0,0,57,no,never,never,never,0,0,1,0,0,2839,0,0,baiyin,0,0
+3316,7,7,1,Guangxi,Thursday,0,city,33,3,48,0,unmarried,senior high,0,0,0,29,yes and agree,never,never,never,0,0,1,0,0,1200,0,0,guilin,4,0
+2193,4,5,2,Guangxi,Thursday,0,city,51,4,80,0,married,senior high,1,1,0,34,yes and agree,heard and know,never,never,0,3,1,1,2,2804,0,2,nanning,3,1
+1814,7,5,1,Gansu,Monday,1,city,150,3,70,0,married,bachelor,0,0,0,32,yes and agree,heard but do not know,never,never,0,2,1,1,10,813,0,1,lanzhou,4,1
+3416,4,3,4,Guangxi,Saturday,0,rural,55,6,200,1,married,associate,1,0,0,48,no,heard but do not know,never,never,0,3,1,1,2,1343,0,3,nanning,3,0
+1903,2,1,2,Guizhou,Tuesday,1,county seat,47,4,90,0,unmarried,associate,0,1,0,21,yes but disagree,heard but do not know,never,never,0,0,1,0,12,1254,0,0,guiyang,3,0
+1382,7,7,2,Gansu,Friday,0,city,61,6,60,0,unmarried,associate,0,0,0,35,yes and agree,never,never,never,0,0,1,0,1,1104,0,0,lanzhou,4,1
+2292,4,4,4,Gansu,Saturday,0,county seat,48,6,96,1,married,uneducated,1,1,0,61,no,never,never,never,0,0,1,0,0,4111,0,0,baiyin,0,1
+112,6,6,6,Guizhou,Saturday,0,rural,32,4,180,0,married,associate,0,0,0,23,no,heard but do not know,never,never,3,0,1,0,0,3400,1,0,anshun,0,0
+2119,3,4,3,Gansu,Thursday,1,rural,114,3,170,1,married,associate,1,0,0,35,no,never,heard and know,never,2,0,0,0,1,3000,1,0,lanzhou,4,0
+2819,5,5,5,Guizhou,Friday,0,city,50,4,78,1,married,bachelor,0,0,1,30,yes and agree,familiar,never,never,3,3,1,1,8,2443,1,3,guiyang,3,0
+1381,2,1,1,Guizhou,Friday,0,city,35,5,55,1,divorced,bachelor,1,0,0,29,yes and agree,heard but do not know,never,never,0,4,1,1,16,2077,0,3,guiyang,3,1
+1911,4,7,1,Guizhou,Tuesday,1,county seat,48,4,89,0,unmarried,bachelor,0,0,0,23,no,heard but do not know,never,never,0,0,1,0,20,1542,0,0,guiyang,4,1
+3083,1,1,1,Guangxi,Wednesday,0,county seat,62,3,40,0,unmarried,associate,0,0,0,29,yes but disagree,never,never,heard but do not know,0,0,1,0,14,1067,0,0,nanning,3,0
+1254,4,3,4,Gansu,Thursday,1,rural,40,6,100,0,married,senior high,1,0,1,46,yes and agree,heard but do not know,heard but do not know,never,12,0,0,0,0,1800,1,0,baiyin,0,0
+2858,1,1,1,Gansu,Friday,1,county seat,95,4,80,1,married,associate,0,0,0,32,yes and agree,heard but do not know,never,never,0,0,0,0,14,1607,0,0,lanzhou,2,1
+663,6,6,6,Guizhou,Friday,0,county seat,56,3,87,1,married,bachelor,0,1,0,27,yes and agree,heard and know,heard and know,heard but do not know,2,0,0,0,10,2046,1,0,anshun,2,0
+1602,7,7,7,Guizhou,Saturday,0,city,45,4,80,1,married,junior high,0,0,0,42,no,never,never,never,0,0,1,0,23,2500,0,0,anshun,2,0
+1886,2,2,2,Guizhou,Tuesday,1,county seat,45,4,97,0,unmarried,associate,0,0,0,24,no,heard but do not know,heard but do not know,never,2,0,1,0,20,1800,1,0,guiyang,3,1
+2351,1,1,1,Gansu,Saturday,0,county seat,47,3,110,1,married,associate,1,0,0,45,no,heard but do not know,heard but do not know,never,0,0,1,0,2,1520,0,0,baiyin,2,0
+3268,1,1,4,Guangxi,Thursday,1,county seat,64,5,70,1,widowed,junior high,0,0,0,57,no,never,never,never,0,2,1,1,14,1786,0,3,nanning,3,0
+2555,7,3,3,Guangxi,Tuesday,0,city,39,4,80,0,married,associate,1,1,0,33,yes and agree,heard but do not know,heard but do not know,heard but do not know,0,0,1,0,0,1798,0,0,nanning,3,1
+3295,4,5,2,Guangxi,Thursday,1,county seat,64,4,60,1,married,associate,1,0,0,29,yes and agree,heard and know,never,never,3,3,1,1,2,1772,1,5,nanning,4,0
+3016,3,3,5,Guangxi,Wednesday,0,rural,111,5,150,0,married,primary,1,0,0,41,no,never,never,never,5,0,0,0,0,3188,1,0,guilin,3,0
+3001,7,7,7,Guangxi,Tuesday,0,city,135,5,57,0,divorced,associate,0,0,0,47,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,0,1100,0,0,guilin,2,1
+1898,7,5,5,Guizhou,Tuesday,1,county seat,47,3,90,0,unmarried,associate,1,0,0,24,yes but disagree,never,never,never,0,0,1,0,35,1304,0,0,guiyang,3,0
+1446,7,7,3,Guizhou,Saturday,0,city,60,5,89,1,married,associate,1,0,0,28,yes and agree,never,never,never,2,0,1,0,10,1540,1,0,anshun,2,1
+2248,1,1,1,Guizhou,Friday,0,county seat,46,4,113,0,married,senior high,1,1,0,33,yes but disagree,heard but do not know,heard but do not know,never,5,5,1,1,0,2407,1,3,anshun,3,0
+2851,1,1,1,Gansu,Friday,1,county seat,95,4,69,1,married,senior high,0,0,0,34,yes and agree,heard and know,heard but do not know,never,0,0,1,0,14,1607,0,0,lanzhou,2,0
+3229,4,4,4,Guangxi,Thursday,0,rural,96,5,100,1,married,junior high,1,0,0,54,no,never,never,never,0,0,0,0,0,2857,0,0,guilin,2,0
+2812,2,2,2,Gansu,Friday,0,city,50,2,73,1,married,primary,1,0,0,56,no,never,never,never,0,0,1,0,14,1559,0,0,baiyin,2,1
+3069,2,2,2,Guangxi,Wednesday,0,rural,57,5,100,1,married,senior high,1,0,0,37,no,never,never,never,0,0,0,0,0,4180,0,0,guilin,3,1
+3061,2,2,2,Guangxi,Wednesday,0,city,72,5,91,1,married,associate,0,1,0,45,yes and agree,heard but do not know,never,never,0,0,1,0,20,1071,0,0,nanning,3,0
+3022,2,2,2,Guangxi,Wednesday,0,rural,77,5,200,0,married,senior high,0,0,0,55,yes and agree,never,never,never,0,0,1,0,0,3491,0,0,guilin,3,0
+3255,2,2,3,Guangxi,Thursday,0,rural,85,5,80,0,unmarried,senior high,0,0,0,25,no,never,never,never,0,0,0,0,0,2491,0,0,guilin,3,1
+1603,7,4,4,Guizhou,Saturday,0,city,48,4,90,0,married,associate,0,0,0,39,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,16,2040,0,0,anshun,2,1
+2181,4,6,1,Guangxi,Thursday,1,city,53,5,60,0,married,senior high,0,0,0,28,yes and agree,heard and know,heard and know,never,5,0,1,0,4,2824,1,0,nanning,4,1
+2234,5,4,5,Guizhou,Friday,0,county seat,57,4,98,0,unmarried,senior high,1,0,1,19,yes and agree,heard but do not know,heard but do not know,heard and know,0,0,1,0,0,947,0,0,anshun,2,0
+1545,2,2,2,Guizhou,Saturday,0,rural,48,4,300,1,unmarried,bachelor,0,1,0,25,yes but disagree,heard and know,heard but do not know,never,3,0,1,0,2,1625,1,0,guiyang,2,0
+1105,7,5,6,Guizhou,Sunday,1,rural,53,2,300,1,unmarried,bachelor,1,1,1,24,yes and agree,heard but do not know,never,never,0,0,1,0,0,1041,0,0,anshun,2,0
+2953,4,4,4,Guangxi,Monday,0,rural,87,5,110,0,married,junior high,0,1,0,45,yes and agree,never,never,never,0,0,1,0,2,2698,0,0,guilin,3,0
+2884,5,4,4,Guangxi,Sunday,0,county seat,60,3,97,1,married,senior high,1,0,0,37,yes and agree,heard and know,heard but do not know,heard but do not know,8,3,1,1,2,4800,1,2,guilin,5,1
+2219,2,2,2,Gansu,Friday,1,county seat,35,1,100,0,married,primary,1,1,0,70,yes and agree,never,never,never,0,0,1,0,0,4620,0,0,baiyin,2,1
+3244,4,4,4,Guangxi,Thursday,0,rural,85,5,200,0,married,junior high,1,0,0,39,no,never,never,never,0,0,0,0,0,2364,0,0,guilin,3,0
+3251,5,5,4,Guangxi,Thursday,0,county seat,64,4,85,1,married,associate,1,0,0,39,yes and agree,heard and know,heard but do not know,heard but do not know,7,1,1,1,1,1773,1,1,nanning,2,1
+2229,7,7,7,Guizhou,Friday,0,county seat,55,3,90,1,unmarried,associate,1,1,0,23,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,15,1839,0,0,anshun,3,1
+806,7,7,7,Guizhou,Sunday,0,city,16,5,80,0,unmarried,bachelor,1,1,0,27,yes and agree,never,heard and know,heard and know,9,0,1,0,10,2229,1,0,anshun,2,0
+2940,2,2,1,Guangxi,Monday,1,county seat,89,5,110,1,married,bachelor,1,0,0,33,yes and agree,heard and know,heard and know,heard but do not know,0,0,1,0,0,3918,0,0,guilin,2,1
+2111,2,2,2,Guizhou,Thursday,0,rural,59,4,160,0,unmarried,associate,0,0,0,23,no,never,never,never,0,0,1,0,0,2851,0,0,guiyang,0,0
+1880,6,6,3,Guizhou,Tuesday,1,county seat,46,2,90,0,unmarried,associate,0,0,0,23,yes and agree,never,never,never,0,0,1,0,30,924,0,0,guiyang,3,1
+1491,7,7,7,Guizhou,Saturday,0,city,53,4,90,1,married,bachelor,0,0,0,29,yes and agree,never,never,never,2,0,1,0,0,1320,1,0,anshun,3,0
+2262,1,1,1,Guizhou,Friday,0,county seat,48,4,115,0,married,associate,1,0,0,34,yes and agree,heard but do not know,heard but do not know,never,0,0,1,0,16,2000,0,0,anshun,3,0
+2184,3,1,1,Gansu,Thursday,1,rural,57,4,180,1,married,junior high,1,0,0,42,no,never,never,never,0,0,1,0,2,3125,0,0,baiyin,2,0
