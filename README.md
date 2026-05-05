@@ -89,4 +89,4 @@ Once completed, all outputs will be populated in the `Results/` folder:
 
 ## 6. Runtime
 
-Estimated runtime: **over 5 hours**.
+The author used Windows 11 and estimated runtime **over 5 hours**.
